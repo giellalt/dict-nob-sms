@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="nob"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<e> <lg> <l pos="N">Anna</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_KUÂLAŽ" pos="N">Äännaž</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Anna</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_VÄʹLL" pos="N">Äʹnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Anni</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_KUÂLAŽ" pos="N">Äännaž</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Askild</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_KÅÅLVAK" pos="N">Eessak</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Basil</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Väʹsǩǩ</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Boris</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Bååʹres</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Børre</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Bååʹres</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Christina</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_SPÄʹSSEB" pos="N">Kreʹstten</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">David</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Daaʹved</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Dorothea</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_SÄʹPPLI" pos="N">Dåårfi</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Elin</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_SPÄʹSSEB" pos="N">Eeʹled</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Enare</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÂNNAM" pos="N">Aanar</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">England</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_ČÅRRÕS" pos="N">Eŋgglõs</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">England</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_ČÅRRÕS" pos="N">Eŋglõs</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Eskil</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_KÅÅLVAK" pos="N">Eessak</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Eskild</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_KÅÅLVAK" pos="N">Eessak</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Finland</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÂNNAM" pos="N">Lääʹddjânnam</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Finland</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_VÄʹLL" pos="N">Läʹdd</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Frelseren</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Spasiteʹl</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Girvasozero</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÄUʹRR" pos="N">Sââʹrvesjäuʹrr</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Girvasozero</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">TOPONOMY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÄUʹRR" pos="N">Sââʹrvesjäuʹrr</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Gud</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Vuâsppåʹd</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Gudsmoder</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Vuâsppååʹdšõddeeja</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Helsingfors</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_SPÄʹSSEB" pos="N">Heʹlssen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Helsinki</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_SPÄʹSSEB" pos="N">Heʹlssen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Ida</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_SINIDA" pos="N">Jeʹvida</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Ishavet</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_PUÅVV" pos="N">Jiõŋŋmiârr</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Ivalo</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_SPÄʹSSEB" pos="N">Âʹvvel</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Ivan</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÂNNAM" pos="N">Evvan</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Jogar</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÂNNAM" pos="N">Jååǥǥar</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Juppurasaari</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_SUÂL" pos="N">Čokksuâl</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Kandalaksha</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_UHSS" pos="N">Käddluhtt</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Karelen</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_SPÄʹSSEB" pos="N">Kaʹrjjel</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Karelen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Käʹrjjel</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Karlsvogna</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">MYTHOLOGY</sem> <sem type="ENVIR">ELEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Juuʹse</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Kiprian</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Ǩiuʹrrel</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Kristina</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_SPÄʹSSEB" pos="N">Kreʹstten</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Lappland</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_JÂNNAM" pos="N">Sääʹmjânnam</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Lisa</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Liizz</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Lovozero</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÄUʹRR" pos="N">Luujäuʹrr</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Lovozero</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">TOPONOMY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÄUʹRR" pos="N">Luujäuʹrr</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Maria</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_KÄʹLBB" pos="N">Mäʹrjj</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Marta</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Määrf</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Moskva</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_PÕRTT" pos="N">Moskk</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Muotka</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JUEʹLǦǦ" pos="N">Mueʹtǩǩ</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Murmansk</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÂNNAM" pos="N">Muurman</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Neiden</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_OOBRÂC" pos="N">Njauddâm</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Neiden</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_OOBRÂC" pos="N">Njauddâm</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Neidenelva</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">TOPONOMY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_KUSS" pos="N">Njauddâmjokk</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Nellim</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_SPÄʹSSEB" pos="N">Njeäʹllem</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Nellim</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_SPÄʹSSEB" pos="N">Njeäʹllem</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Nitsijärvi</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">TOPONOMY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÄUʹRR" pos="N">Njeʹǯǯjäuʹrr</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Nord-Finland</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_VÄʹLL" pos="N">Tâʹvv-Läʹdd</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Norge</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_PAARR" pos="N">Taarr</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Norge</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÂNNAM" pos="N">Taarrjânnam</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Notozero</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÄUʹRR" pos="N">Nuõʹttjäuʹrr</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Notozero</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">TOPONOMY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÄUʹRR" pos="N">Nuõʹttjäuʹrr</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Nøttiager</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÄUʹRR" pos="N">Nuõʹttjäuʹrr</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Nøttiager</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">TOPONOMY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÄUʹRR" pos="N">Nuõʹttjäuʹrr</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Pasvik</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_KUSS" pos="N">Paaččjokk</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Pasvikelva</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">TOPONOMY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_KUSS" pos="N">Paaččjokk</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Peder</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÂNNAM" pos="N">Peeddar</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Peisen</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÂNNAM" pos="N">Peäccam</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Per</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÂNNAM" pos="N">Peeddar</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Petsjenga</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÂNNAM" pos="N">Peäccam</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Petter</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÂNNAM" pos="N">Peeddar</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Pleiadene, de syv søstre</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Nijddkäärja</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Ristikent</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Risttǩeʹdd</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Rovaniemi</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_PÕRTT" pos="N">Ruäʹvnjargg</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Russland</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÂNNAM" pos="N">Ruõššjânnam</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Sandra</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_SINIDA" pos="N">Sandra</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Sevettijärvi</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> <sem type="ENVIR">TOPONOMY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÄUʹRR" pos="N">Čeʹvetjäuʹrr</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Sodankylä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Suäʹdjel</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Sofie</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Såff</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Sophia</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Såff</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Støtteforening for skoltesamiske saker</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Sääʹmaaʹšši kueʹddʼtemõutstõs</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Suenjel</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_SPÄʹSSEB" pos="N">Suõʹnnʼjel</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Sverige</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_RUÕCˈC" pos="N">Ruõcc</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Tekla</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_ÅÅʹLGA" pos="N">Feeʹla</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Tekla</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_ÅÅʹLGA" pos="N">Feeʹla</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Tulomaelva</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">TOPONOMY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_KUSS" pos="N">Tuällamjokk</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Tyskland</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_JÂNNAM" pos="N">Sakssajânnam</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Tyyne</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_KÄʹLBB" pos="N">Dåʹmnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Utsjoki</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_KUSS" pos="N">Uccjokk</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Utsjoki</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">TOPONOMY</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_KUSS" pos="N">Uccjokk</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">annen juledag</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Teäppanpeiʹvv</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">en sagnfigur, datteren til en furie</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_NIJDD" pos="N">Aacciǩnijdd</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">gud (protestantantisk)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Eʹmmel</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">jul</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">RELIGION</sem> <sem type="HUMAN">FAMILY</sem> <sem type="HUMAN">SOCIAL</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Rosttov</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">pikku Anni</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_KUÂLAŽ" pos="N">Äännaž</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">rev (i sagn og eventyr)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_PEIʹVV" pos="N">Kuʹǩesseiʹbb</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">stedsnavn</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="PROP_JÂNNAM" pos="N">Uʹcc-Peäccam</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">xxx</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="HUMAN">PEOPLE</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_" pos="N">Jääkk</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Øvre Neiden</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem type="ENVIR">SETTLEMENT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="PROP_OOBRÂC" pos="N">Pâʹjj-Njauddâm</t> </tg> </mg> </e>
+</r>

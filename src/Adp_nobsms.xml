@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="nob"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
+
+<e> <lg> <l pos="Pr">akover</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">tuâkka</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">bak</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">mâŋŋa</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">bak</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">tueʹǩǩen</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">bak bakenom</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">tuâkka</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">bakenfor</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">tueʹǩǩen</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">blant</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">kõõskâst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">etter</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">mieʹldd</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">etter</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">mâŋŋa</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">for</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADP_" pos="Adp">vääʹrd</t> <t Contlex="ADP_" pos="Adp">väʹrdd</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">for noens skyld</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">diõtt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">for noens skyld</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADP_" pos="Adp">määiʹnest</t> <t Contlex="PO_" pos="Po">vääras</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">foran</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADP_" pos="Adp">ooudâst</t> <t Contlex="ADP_" pos="Adp">ouʹdde</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">forbi</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">kuâŋŋad</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">forbi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">ouʹdde</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adp">fra</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">PEOPLE</sem> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">åʹrnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adp">fra</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">PEOPLE</sem> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">åʹrnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">fra</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">âʹlnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">fra</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">âʹlnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">fra da av</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">rääʹjest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">framover</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adv">ooudâs</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">framover</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">ouʹdde</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">før</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">ouddâl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">gjennom</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">pääiʹǩ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">ha i besittelse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">huâđast</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adp">hos</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">PEOPLE</sem> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">åʹrnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adp">hos</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">PEOPLE</sem> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">åʹrnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">hos</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">RELATION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">luʹnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">imøte</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">ouddâl</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">inn</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">sizz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">inntil</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">räjja</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">langs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADP_" pos="Adp">mieʹldd</t> <t Contlex="ADP_" pos="Adp">mieʹtt</t> <t Contlex="ADP_" pos="Adp">peällsest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">med</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">mieʹldd</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">med</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">mieʹldd</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">mellom</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">kõõskâst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">midt imot</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">puõtt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">mot</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">vuâstta</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">ned</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">vuâlla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">nedenfor</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADP_" pos="Adp">vuâlpeälˈla</t> <t Contlex="ADP_" pos="Adp">vuâlpeäʹlnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">nedentil</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADP_" pos="Adp">vuâlpeälˈla</t> <t Contlex="ADP_" pos="Adp">vuâlpeäʹlnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">nær</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">RELATION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADV_" pos="Adv">luʹnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">omkring</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">pirr</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">oppå</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">âʹlnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">ovenfor</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">ooudâst</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">over</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">âʹlnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">overfor</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">puõtt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">på</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">âʹlnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">på</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">âʹlnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">på grunn av</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="PO_" pos="Po">vääras</t> <t Contlex="ADP_" pos="Adp">ǩeäčča</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">på grunn av noe</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SENSE">PERCEPTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">diõtt</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">på gunn av</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">määiʹnest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">på undersiden</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADP_" pos="Adp">vuâlpeälˈla</t> <t Contlex="ADP_" pos="Adp">vuâlpeäʹlnn</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">rundt (om)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">pirr</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">rundt omkring</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">pirr</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">ta i besittelse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">huõđđu</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">til</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">luzz</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">til</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">ool</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">til</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">räjja</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">til</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="TIME">POINT</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">räjja</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">til</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUMAN">PEOPLE</sem> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">årra</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">tilbake</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">MOTION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">tueʹǩǩen</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">under</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SPACE">POSITION</sem> </semantics> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">vuâlla</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">uten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"><t Contlex="ADP_" pos="Adp">krååʹma</t> <t Contlex="ADP_" pos="Adp">notta</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">uten noe</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">notta</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">ved</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">peällsest</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">via</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="sms"> <t Contlex="ADP_" pos="Adp">pääiʹǩ</t> </tg> </mg> </e>
+</r>
