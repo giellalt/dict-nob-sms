@@ -11582,7 +11582,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">løsne</l>
+      <l pos="V">spytte</l>
       <stg>
         <st/>
       </stg>
@@ -12515,6 +12515,19 @@
   <e>
     <lg>
       <l pos="V">pikke</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="sms">
+        <t Contlex="V_REÄKKAD" pos="V">čuäkkad</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">hakke</l>
       <stg>
         <st/>
       </stg>
@@ -17750,16 +17763,9 @@
         <t Contlex="V_LÄULLAD" pos="V">läullad</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">synge en klagesang</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <tg xml:lang="sms">
+        <re>synge en klagesang</re>
         <t Contlex="V_SILTTEED" pos="V">virsseed</t>
       </tg>
     </mg>
@@ -17773,19 +17779,13 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
+        <re>bli lavere, grunnere</re>
         <t Contlex="V_REÄKKAD" pos="V">cuäkkad</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">synke (i snøen)</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <tg xml:lang="sms">
+        <re>i snøen</re>
         <t Contlex="V_HUÕLLÂD" pos="V">čiõppâd</t>
       </tg>
     </mg>

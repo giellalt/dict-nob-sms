@@ -4229,7 +4229,6 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_VÄʹLL" pos="N">câʹǧǧ</t>
         <t Contlex="N_VÄʹLL" pos="N">čâʹǧǧ</t>
       </tg>
     </mg>
@@ -20289,6 +20288,20 @@
   </e>
   <e>
     <lg>
+      <l pos="N">bruk</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="sms">
+        <re>å bruke noe</re>
+        <t Contlex="N_TÄÄVTÕS" pos="N">âânnmõš</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="N">landbruk</l>
       <stg>
         <st/>
@@ -32535,6 +32548,25 @@
   </e>
   <e>
     <lg>
+      <l pos="N">skjørbuk</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="sms">
+        <t Contlex="N_VÄʹLL" pos="N">câʹǧǧ</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="sms">
+        <re>å få skjørbuk</re>
+        <t Contlex="IV_LAUKKOOLLYD" pos="V">câggõõvvâd</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="N">skjørt</l>
       <stg>
         <st/>
@@ -36854,6 +36886,12 @@
         <t Contlex="N_CÕÕGGÂLM" pos="N">cõõggâlm</t>
       </tg>
     </mg>
+    <mg>
+      <tg xml:lang="sms">
+        <re>til å holde oppe noe</re>
+        <t Contlex="N_VÄʹLL" pos="N">câʹǧǧ</t>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg>
@@ -37686,7 +37724,6 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="N_TÄÄVTÕS" pos="N">raukkmõš</t>
-        <t Contlex="N_TÄÄVTÕS" pos="N">âânnmõš</t>
         <t Contlex="N_TÄÄVTÕS" pos="N">äännmõš</t>
       </tg>
     </mg>
