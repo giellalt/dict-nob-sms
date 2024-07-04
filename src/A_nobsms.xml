@@ -1977,13 +1977,14 @@
   </e>
   <e>
     <lg>
-      <l pos="A">grunnt (om vann)</l>
+      <l pos="A">grunn</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
+        <re>om vann</re>
         <t Contlex="A_SUẸʹǨǨ" pos="A">cueʹǩǩ</t>
       </tg>
     </mg>
@@ -3982,14 +3983,15 @@
   </e>
   <e>
     <lg>
-      <l pos="A">mett (bli mett)</l>
+      <l pos="A">mett</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="A_VIIRRÂM" pos="A">kaallâš</t>
+        <re>bli mett</re>
+        <t Contlex="A_KOAOADDAS" pos="A">kââllas</t>
       </tg>
     </mg>
   </e>
