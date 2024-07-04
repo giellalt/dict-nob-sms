@@ -7308,7 +7308,6 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_VIIKKÂD" pos="V">čaakkâd</t>
         <t Contlex="V_PÅÅSSAD" pos="V">čååkkad</t>
       </tg>
     </mg>
@@ -16598,19 +16597,6 @@
   </e>
   <e>
     <lg>
-      <l pos="V">stikke (flere ganger)</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="V_CÅKKAD" pos="V">cåkkad</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">stikke (for eksempel med finger)</l>
       <stg>
         <st/>
@@ -19166,7 +19152,6 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_SILTTEED" pos="V">koskkeed</t>
         <t Contlex="V_SILTTEED" pos="V">koškkeed</t>
         <t Contlex="V_TOBDDÂD" pos="V">koškkâd</t>
         <t Contlex="V_TEEʹMEED" pos="V">koʹšǩǩeed</t>
