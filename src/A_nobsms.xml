@@ -285,14 +285,6 @@
         <t Contlex="A_SPÄʹSSEB" pos="A">peʹčǩǩer</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">bitter</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <tg xml:lang="sms">
         <t Contlex="A_" pos="A">šuårš</t>
@@ -363,14 +355,6 @@
         <t Contlex="A_PÄRRAI" pos="A">seenai</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">blå</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="ENVIR"/>
@@ -735,14 +719,6 @@
         <t Contlex="A_" pos="A">hueʹnn</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">dårlig</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="SENSE">EMOTION</sem>
@@ -1551,14 +1527,6 @@
         <t Contlex="A_ǨEʹRJJ" pos="A">njeʹbll</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">fuktig</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="SENSE">PERCEPTION</sem>
@@ -1681,14 +1649,6 @@
         <t Contlex="A_PUÄʹRES" pos="A">puäʹres</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">gammel</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="HUMAN">PEOPLE</sem>
@@ -1806,14 +1766,6 @@
         <t Contlex="A_KÄÄʹLLES" pos="A">lääʹttes</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">glatt</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="SENSE">PERCEPTION</sem>
@@ -1852,14 +1804,6 @@
         <t Contlex="A_KUEʹLL" pos="A">pueʹrr</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">god</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="SENSE">EMOTION</sem>
@@ -2031,14 +1975,6 @@
         <t Contlex="A_" pos="A">ruânn</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">grønn</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="FOOD">DISH</sem>
@@ -2185,14 +2121,6 @@
         <t Contlex="A_OOĐÂS" pos="A">kõõrâs</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">hard</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <tg xml:lang="sms">
         <t Contlex="A_KÅÅVAS" pos="A">nâânas</t>
@@ -2568,14 +2496,6 @@
         <t Contlex="A_" pos="A">heärvvai</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">hyggelig</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="HUMAN"/>
@@ -2812,14 +2732,6 @@
         <t Contlex="A_VISKKÂD" pos="A">jõlggâd</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">jevn</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="SENSE">PERCEPTION</sem>
@@ -2828,27 +2740,11 @@
         <t Contlex="A_KÄÄʹLLES" pos="A">lääʹttes</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">jevn</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <tg xml:lang="sms">
         <t Contlex="A_VUÕIVÂS" pos="A">tuõlbâs</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">jevn</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="SENSE">PERCEPTION</sem>
@@ -2884,14 +2780,6 @@
         <t Contlex="A_" pos="A">kuõst</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">kald</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="SENSE">PERCEPTION</sem>
@@ -2902,27 +2790,11 @@
         <t Contlex="A_JÕÕSKÂS" pos="A">kõõumâs</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">kald</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <tg xml:lang="sms">
         <t Contlex="A_JÕÕSKÂS" pos="A">kõõumâs</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">kald</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="WEATHER"/>
@@ -2931,14 +2803,6 @@
         <t Contlex="A_ǨEEʹSTES" pos="A">čueʹcǩes</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">kald</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <tg xml:lang="sms">
         <t Contlex="A_" pos="A">čuâʹss</t>
@@ -3039,14 +2903,6 @@
         <t Contlex="A_SÄʹMMLAŽ" pos="A">miõllsaž</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">kjær</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="HUMAN">FAMILY</sem>
@@ -3098,14 +2954,6 @@
         <t Contlex="A_" pos="A">čuõjjâl</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">klar</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="SENSE"/>
@@ -3580,14 +3428,6 @@
         <t Contlex="A_KÕÕDDÂS" pos="A">naaggâs</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">liten</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="SENSE"/>
@@ -3596,28 +3436,12 @@
         <t Contlex="A_KUÂLAŽ" pos="A">occkaž</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">liten</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <tg xml:lang="sms">
         <t Contlex="A_" pos="A">pann</t>
         <t Contlex="A_VISKKÂD" pos="A">põskkâd</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">liten</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="SENSE"/>
@@ -3626,14 +3450,6 @@
         <t Contlex="A_" pos="A">siõm</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">liten</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="SPACE">RELATION</sem>
@@ -3642,14 +3458,6 @@
         <t Contlex="A_OOĐÂS" pos="A">smaavâs</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">liten</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="SPACE">RELATION</sem>
@@ -3796,14 +3604,6 @@
         <t Contlex="A_VISKKÂD" pos="A">čuõvvâd</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">lys</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <tg xml:lang="sms">
         <t Contlex="A_VISKKÂD" pos="A">ǩiõlggâd</t>
@@ -4185,14 +3985,6 @@
         <t Contlex="A_" pos="A">heärvvai</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">morsom</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="HUMAN"/>
@@ -4567,14 +4359,6 @@
         <t Contlex="A_PEIʹVV" pos="A">neuʹrr</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">ond</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <tg xml:lang="sms">
         <t Contlex="A-ATTR_" pos="A">paas</t>
@@ -5044,14 +4828,6 @@
         <t Contlex="A_VISKKÂD" pos="A">vuõiggâd</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">rett</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <tg xml:lang="sms">
         <t Contlex="A_VUÕIVÂS" pos="A">vuõiǥâs</t>
@@ -5220,14 +4996,6 @@
         <t Contlex="A_VUÕIVÂS" pos="A">njuõckâs</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">rå</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="WEATHER"/>
@@ -5236,14 +5004,6 @@
         <t Contlex="A_ǨEEʹSTES" pos="A">čueʹcǩes</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">rå</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <tg xml:lang="sms">
         <t Contlex="A_" pos="A">čuâʹss</t>
@@ -5674,14 +5434,6 @@
         <t Contlex="A_SPÄʹSSEB" pos="A">peʹčǩǩer</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">skarp</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="WORK">TOOL</sem>
@@ -6025,14 +5777,6 @@
         <t Contlex="A_" pos="A">miäʹrres</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">sløv</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="WORK">TOOL</sem>
@@ -6422,14 +6166,6 @@
         <t Contlex="A-ATTR_" pos="A">jõnn</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">stor</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="SPACE">RELATION</sem>
@@ -6522,14 +6258,6 @@
         <t Contlex="A_" pos="A">miäʹrres</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">stump</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="WORK">TOOL</sem>
@@ -6997,14 +6725,6 @@
         <t Contlex="A_VISKKÂD" pos="A">põskkâd</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">trang</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="SPACE">RELATION</sem>
@@ -7138,14 +6858,6 @@
         <t Contlex="A_VISKKÂD" pos="A">kõssâd</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">tykk</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <tg xml:lang="sms">
         <t Contlex="A_" pos="A">puâidaǥ</t>
@@ -7928,14 +7640,6 @@
         <t Contlex="A_RUÕDDÂS" pos="A">liõggâs</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">varm</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="SENSE">PERCEPTION</sem>
@@ -7946,14 +7650,6 @@
         <t Contlex="A_KÕÕDDÂS" pos="A">paakkâs</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">varm</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <tg xml:lang="sms">
         <t Contlex="A_" pos="A">puõʹlli</t>
@@ -8157,14 +7853,6 @@
         <t Contlex="A_ǨEʹRJJ" pos="A">njeʹbll</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">våt</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
     <mg>
       <semantics>
         <sem class="SENSE">PERCEPTION</sem>
