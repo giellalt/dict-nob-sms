@@ -1,6 +1,6 @@
-# Documentation for Norwegian Bokmål ⇒ Skolt Sámi
+# Documentation for Norwegian Bokmål ⇒ Skolt Saami
 
-Please see [this page](https://giellalt.github.io/dicts/dicts.html) for more general information on how to work with dictionaries, and the various publishing alternatives.
+Please see [this page](https://giellalt.github.io/dicts/index.html) for more general information on how to work with dictionaries, and the various publishing alternatives.
 
 # Other information
 
