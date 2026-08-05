@@ -2558,7 +2558,14 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
+        <re>om beliggenhet</re>
         <t Contlex="A_" pos="A">õlli</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="sms">
+        <re>om personer: lang</re>
+        <t Contlex="A_" pos="A">kuʹǩǩ</t>
       </tg>
     </mg>
   </e>

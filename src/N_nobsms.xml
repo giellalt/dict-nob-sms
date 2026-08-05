@@ -15526,19 +15526,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N">høy</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="N_KUʹRČČ" pos="N">čuʹlpp</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">høyde</l>
       <stg>
         <st/>
@@ -18649,7 +18636,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">konisk gjenstand</l>
+      <l pos="N">høy, konisk gjenstand</l>
       <stg>
         <st/>
       </stg>
