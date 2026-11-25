@@ -6248,7 +6248,7 @@
       </stg>
     </lg>
     <mg>
-      <re>f eks følge noen hjem</re>
+      <re>f.eks. følge noen hjem</re>
       <tg xml:lang="sms">
         <t Contlex="V_AALǤTED" pos="V">saattčed</t>
       </tg>
@@ -11754,7 +11754,7 @@
       </stg>
     </lg>
     <mg>
-      <re>f eks skiene</re>
+      <re>f.eks. skiene</re>
       <tg xml:lang="sms">
         <t Contlex="V_AALǤTED" pos="V">čõõlǥted</t>
       </tg>
@@ -12341,7 +12341,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">nå, srekke seg</l>
+      <l pos="V">nå, strekke seg</l>
       <stg>
         <st/>
       </stg>
@@ -12796,7 +12796,7 @@
       </stg>
     </lg>
     <mg>
-      <re>f eks høne</re>
+      <re>f.eks. høne</re>
       <tg xml:lang="sms">
         <t Contlex="V_KÂÂʹǨǨED" pos="V">pââʹǩǩed</t>
       </tg>
@@ -14269,7 +14269,7 @@
       </stg>
     </lg>
     <mg>
-      <re>f eks snø setter seg fast under skiene</re>
+      <re>f.eks. snø setter seg fast under skiene</re>
       <tg xml:lang="sms">
         <t Contlex="V_" pos="V">toppred</t>
       </tg>
@@ -14720,7 +14720,7 @@
       </stg>
     </lg>
     <mg>
-      <re>f eks snø</re>
+      <re>f.eks. snø</re>
       <tg xml:lang="sms">
         <t Contlex="V_PÅÅSSAD" pos="V">vââccad</t>
       </tg>
@@ -18085,7 +18085,7 @@
       </stg>
     </lg>
     <mg>
-      <re>f eks hus</re>
+      <re>f.eks. hus</re>
       <tg xml:lang="sms">
         <t Contlex="V_VUEJTED" pos="V">peâlted</t>
       </tg>
@@ -19781,7 +19781,7 @@
       </stg>
     </lg>
     <mg>
-      <re>f eks badstue</re>
+      <re>f.eks. badstue</re>
       <tg xml:lang="sms">
         <t Contlex="TV_SILTTEED" pos="V">paakkeed</t>
       </tg>

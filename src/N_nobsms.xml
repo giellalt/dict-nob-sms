@@ -2482,7 +2482,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bisbedømme</l>
+      <l pos="N">bispedømme</l>
       <stg>
         <st/>
       </stg>
@@ -7944,7 +7944,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fientlighet</l>
+      <l pos="N">fiendtlighet</l>
       <stg>
         <st/>
       </stg>
@@ -13643,7 +13643,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">helligetrekongensdagen</l>
+      <l pos="N">helligtrekongersdag</l>
       <stg>
         <st/>
       </stg>
@@ -18525,7 +18525,7 @@
       </stg>
     </lg>
     <mg>
-      <re>f eks i våpen</re>
+      <re>f.eks. i våpen</re>
       <tg xml:lang="sms">
         <t Contlex="N_SIÂKˈK" pos="N">puådd</t>
       </tg>
@@ -21503,7 +21503,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">livopphold</l>
+      <l pos="N">livsopphold</l>
       <stg>
         <st/>
       </stg>
@@ -23188,7 +23188,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">medlem av bygdekomiten</l>
+      <l pos="N">medlem av bygdekomiteen</l>
       <stg>
         <st/>
       </stg>
@@ -26426,7 +26426,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">onskap</l>
+      <l pos="N">ondskap</l>
       <stg>
         <st/>
       </stg>
@@ -27257,7 +27257,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pelsvotte</l>
+      <l pos="N">pelsvott</l>
       <stg>
         <st/>
       </stg>
@@ -27368,7 +27368,7 @@
       </stg>
     </lg>
     <mg>
-      <re>stor, f eks i perlebånd</re>
+      <re>stor, f.eks. i perlebånd</re>
       <tg xml:lang="sms">
         <t Contlex="N_SPÄʹSSEB" pos="N">peeʹrel</t>
         <t Contlex="N_" pos="N">peʹsser</t>
@@ -28213,7 +28213,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">protokol</l>
+      <l pos="N">protokoll</l>
       <stg>
         <st/>
       </stg>
@@ -29598,7 +29598,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ris(en)gryn</l>
+      <l pos="N">risgryn</l>
       <stg>
         <st/>
       </stg>
@@ -29611,7 +29611,33 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ris(en)grøt</l>
+      <l pos="N">risengryn</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="sms">
+        <t Contlex="N_" pos="N">riss</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">risgrøt</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="sms">
+        <t Contlex="N_PAPP" pos="N">risshutt</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">risengrøt</l>
       <stg>
         <st/>
       </stg>
@@ -31645,7 +31671,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">silk</l>
+      <l pos="N">silke</l>
       <stg>
         <st/>
       </stg>
@@ -31905,7 +31931,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sjertand</l>
+      <l pos="N">stjertand</l>
       <stg>
         <st/>
       </stg>
@@ -32103,7 +32129,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">skaft (f eks støvleskaft)</l>
+      <l pos="N">skaft (f.eks. støvleskaft)</l>
       <stg>
         <st/>
       </stg>
@@ -35242,7 +35268,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">spette</l>
+      <l pos="N">spett</l>
       <stg>
         <st/>
       </stg>
@@ -37278,7 +37304,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">svartspette</l>
+      <l pos="N">svartspett</l>
       <stg>
         <st/>
       </stg>
@@ -37291,7 +37317,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">svartspette</l>
+      <l pos="N">svartspett</l>
       <stg>
         <st/>
       </stg>
@@ -38875,7 +38901,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tillpassing</l>
+      <l pos="N">tilpassing</l>
       <stg>
         <st/>
       </stg>
@@ -39595,7 +39621,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">trek ox</l>
+      <l pos="N">trekkokse</l>
       <stg>
         <st/>
       </stg>
@@ -40150,7 +40176,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tykk snøldekke</l>
+      <l pos="N">tykt snødekke</l>
       <stg>
         <st/>
       </stg>
@@ -41876,7 +41902,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vej</l>
+      <l pos="N">vei</l>
       <stg>
         <st/>
       </stg>
@@ -41892,7 +41918,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vej</l>
+      <l pos="N">vei</l>
       <stg>
         <st/>
       </stg>
@@ -42903,7 +42929,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vondluktende</l>
+      <l pos="N">vondtluktende</l>
       <stg>
         <st/>
       </stg>
@@ -43868,7 +43894,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">øyenbrun</l>
+      <l pos="N">øyenbryn</l>
       <stg>
         <st/>
       </stg>
