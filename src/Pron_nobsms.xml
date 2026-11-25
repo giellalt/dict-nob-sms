@@ -385,7 +385,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="PRON_" pos="Pron">kevätǩii-ne</t>
+        <t Contlex="PRON_" pos="Pron">ǩii-ne</t>
         <t Contlex="PRON-INDEF_" pos="Pron">kååʹtt-ne</t>
       </tg>
     </mg>
@@ -831,8 +831,8 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="PRON_" pos="Pron">kevätǩii-ne</t>
-        <t Contlex="PRON_" pos="Pron">mâʹid-ne</t>
+        <t Contlex="PRON_" pos="Pron">ǩii-ne</t>
+        <t Contlex="PRON_" pos="Pron">mâiʹd-ne</t>
         <t Contlex="PRON-INDEF_" pos="Pron">kååʹtt-ne</t>
         <t Contlex="PRON-INDEF_" pos="Pron">mii-ne</t>
       </tg>
@@ -847,7 +847,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="PRON_" pos="Pron">kevätǩii-ne</t>
+        <t Contlex="PRON_" pos="Pron">ǩii-ne</t>
         <t Contlex="PRON-INDEF_" pos="Pron">kååʹtt-ne</t>
         <t Contlex="PRON-INDEF_" pos="Pron">mii-ne</t>
       </tg>
@@ -982,8 +982,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="PRON-REFL_" pos="Pron">jieʹččen</t>
-        <t Contlex="PRON-REFL_" pos="Pron">jiiʹččen</t>
+        <t Contlex="PRON-REFL_" pos="Pron">jiõččân</t>
       </tg>
     </mg>
   </e>
@@ -1009,50 +1008,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="PRON-REFL_" pos="Pron">jieʹččen</t>
-        <t Contlex="PRON-REFL_" pos="Pron">jiiʹččen</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="Pron">vår egen</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="PRON-REFL_" pos="Pron">jieʹččen</t>
-        <t Contlex="PRON-REFL_" pos="Pron">jiiʹččen</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="Pron">våre</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="PRON-REFL_" pos="Pron">jieʹččen</t>
-        <t Contlex="PRON-REFL_" pos="Pron">jiiʹččen</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="Pron">vårt</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="PRON-REFL_" pos="Pron">jieʹččen</t>
-        <t Contlex="PRON-REFL_" pos="Pron">jiiʹččen</t>
+        <t Contlex="PRON-REFL_" pos="Pron">jiõččân</t>
       </tg>
     </mg>
   </e>

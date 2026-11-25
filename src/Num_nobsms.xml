@@ -98,7 +98,6 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="NUM_LO" pos="Num">vitmlo</t>
-        <t Contlex="NUM_LO" pos="Num">vittmlo</t>
       </tg>
     </mg>
   </e>
