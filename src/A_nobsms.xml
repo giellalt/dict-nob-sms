@@ -393,12 +393,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">bløt (om fisk)</l>
+      <l pos="A">bløt</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om fisk</re>
       <tg xml:lang="sms">
         <t Contlex="A_SÄÄʹMM" pos="A">seeʹll</t>
       </tg>
@@ -437,12 +438,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">bred (for eksempel: en meter bred)</l>
+      <l pos="A">bred</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>for eksempel: en meter bred</re>
       <tg xml:lang="sms">
         <t Contlex="A_" pos="A">kååbda</t>
       </tg>
@@ -670,12 +672,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">dyrbar (om edelstein)</l>
+      <l pos="A">dyrbar</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om edelstein</re>
       <tg xml:lang="sms">
         <t Contlex="A_" pos="A">dragacennai</t>
       </tg>
@@ -696,12 +699,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">dyster. Mørk (om skogen)</l>
+      <l pos="A">dyster. Mørk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om skogen</re>
       <tg xml:lang="sms">
         <t Contlex="A_" pos="A">mååskas</t>
       </tg>
@@ -1145,12 +1149,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">fersk (om brød)</l>
+      <l pos="A">fersk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om brød</re>
       <tg xml:lang="sms">
         <t Contlex="A_" pos="A">meäkkai</t>
       </tg>
@@ -1184,12 +1189,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">fikeløs (om innsjø)</l>
+      <l pos="A">fiskeløs</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om innsjø</re>
       <tg xml:lang="sms">
         <t Contlex="A-ATTR_" pos="A">kuddteʹmes</t>
       </tg>
@@ -1661,12 +1667,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">gammel (menneske)</l>
+      <l pos="A">gammel</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om menneske</re>
       <tg xml:lang="sms">
         <t Contlex="A_PÄRRAI" pos="A">väänhai</t>
       </tg>
@@ -1764,12 +1771,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">glissen (om garn)</l>
+      <l pos="A">glissen</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om garn</re>
       <tg xml:lang="sms">
         <t Contlex="A_ŠIÂLGGÂD" pos="A">viâlkkâd</t>
       </tg>
@@ -1830,7 +1838,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A">greinet(e)</l>
+      <l pos="A">greinet</l>
       <stg>
         <st/>
       </stg>
@@ -2110,12 +2118,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">hard (om bunn)</l>
+      <l pos="A">hard</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om bunn</re>
       <tg xml:lang="sms">
         <t Contlex="A_KÕÕDDÂS" pos="A">jõõkkâs</t>
       </tg>
@@ -2259,12 +2268,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">hellig (om menneske)</l>
+      <l pos="A">hellig</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om menneske</re>
       <tg xml:lang="sms">
         <t Contlex="A_SÄLTTAI" pos="A">pâssai</t>
       </tg>
@@ -2519,12 +2529,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">hørlig (om stemme eller lyd)</l>
+      <l pos="A">hørlig</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om stemme eller lyd</re>
       <tg xml:lang="sms">
         <t Contlex="A_" pos="A">čuõjjâl</t>
       </tg>
@@ -3706,12 +3717,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">mannevond (om hund)</l>
+      <l pos="A">mannevond</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om hund</re>
       <tg xml:lang="sms">
         <t Contlex="A_TUÕĐŠTEEI" pos="A">vâjjeei</t>
       </tg>
@@ -3837,12 +3849,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">mild (om te og tobakk)</l>
+      <l pos="A">mild</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om te og tobakk</re>
       <tg xml:lang="sms">
         <t Contlex="A_" pos="A">läiʹvv</t>
       </tg>
@@ -4065,12 +4078,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">mør (om fisk)</l>
+      <l pos="A">mør</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om fisk</re>
       <tg xml:lang="sms">
         <t Contlex="A_JÄUʹRR" pos="A">säuʹrr</t>
       </tg>
@@ -4683,12 +4697,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">rastløs (om rein)</l>
+      <l pos="A">rastløs</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om rein</re>
       <tg xml:lang="sms">
         <t Contlex="A_SÄLTTAI" pos="A">vällai</t>
       </tg>
@@ -4776,12 +4791,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">rennende (om øye)</l>
+      <l pos="A">rennende</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om øye</re>
       <tg xml:lang="sms">
         <t Contlex="A_SÄRNNAI" pos="A">korččai</t>
       </tg>
@@ -4945,12 +4961,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">rynket(e) (om hud)</l>
+      <l pos="A">rynket(e)</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om hud</re>
       <tg xml:lang="sms">
         <t Contlex="A_" pos="A">ruuiʹbjam</t>
       </tg>
@@ -5196,12 +5213,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">selvlysende (om edelstein)</l>
+      <l pos="A">selvlysende</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om edelstein</re>
       <tg xml:lang="sms">
         <t Contlex="A_PÄRRAI" pos="A">samasvetnai</t>
       </tg>
@@ -5448,12 +5466,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">skingrende (om stemme)</l>
+      <l pos="A">skingrende</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om stemme</re>
       <tg xml:lang="sms">
         <t Contlex="A_SPÄʹSSEB" pos="A">peʹčǩǩer</t>
       </tg>
@@ -5569,12 +5588,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">sky (om menneske)</l>
+      <l pos="A">sky</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om menneske</re>
       <tg xml:lang="sms">
         <t Contlex="A_KÄʹLBB" pos="A">äʹrǧǧ</t>
       </tg>
@@ -5844,12 +5864,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">småmasket (om garn)</l>
+      <l pos="A">småmasket</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om garn</re>
       <tg xml:lang="sms">
         <t Contlex="A_VISKKÂD" pos="A">põskkâd</t>
       </tg>
@@ -6045,12 +6066,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">sterk (om drikke)</l>
+      <l pos="A">sterk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om drikke</re>
       <tg xml:lang="sms">
         <t Contlex="A_VISKKÂD" pos="A">karggâd</t>
       </tg>
@@ -6166,12 +6188,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">stram (om tau)</l>
+      <l pos="A">stram</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om tau</re>
       <tg xml:lang="sms">
         <t Contlex="A_KÕÕDDÂS" pos="A">sõõggâs</t>
       </tg>
@@ -6179,12 +6202,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">stram (om tråd)</l>
+      <l pos="A">stram</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om tråd</re>
       <tg xml:lang="sms">
         <t Contlex="A_VISKKÂD" pos="A">čorggâd</t>
       </tg>
@@ -6245,12 +6269,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">stupbratt (om dybde i sjøen)</l>
+      <l pos="A">stupbratt</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om dybde i sjøen</re>
       <semantics>
         <sem class="ENVIR">TOPONOMY</sem>
       </semantics>
@@ -6841,12 +6866,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">tykk (om flate gjenstander)</l>
+      <l pos="A">tykk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om flate gjenstander</re>
       <tg xml:lang="sms">
         <t Contlex="A_PÄRRAI" pos="A">âssai</t>
       </tg>
@@ -6854,12 +6880,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">tykktrådet (om garn etc)</l>
+      <l pos="A">tykktrådet</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om garn etc</re>
       <tg xml:lang="sms">
         <t Contlex="A_VISKKÂD" pos="A">tõrrâd</t>
       </tg>
@@ -6883,12 +6910,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">tynn (om drikke)</l>
+      <l pos="A">tynn</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om drikke</re>
       <tg xml:lang="sms">
         <t Contlex="A_" pos="A">čiõlǥas</t>
       </tg>
@@ -6909,12 +6937,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">tynntrådet (om garn)</l>
+      <l pos="A">tynntrådet</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om garn</re>
       <tg xml:lang="sms">
         <t Contlex="A_ǨEʹRJJ" pos="A">eʹbll</t>
       </tg>
@@ -7397,12 +7426,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">uten fisk (om innsjø)</l>
+      <l pos="A">uten fisk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om innsjø</re>
       <tg xml:lang="sms">
         <t Contlex="A_ČÂÂʹLMTEʹM" pos="A">kuddtem</t>
       </tg>
@@ -7645,12 +7675,13 @@
   </e>
   <e>
     <lg>
-      <l pos="A">vassen (om grøt)</l>
+      <l pos="A">vassen</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om grøt</re>
       <tg xml:lang="sms">
         <t Contlex="A_VISKKÂD" pos="A">njarbbâd</t>
       </tg>

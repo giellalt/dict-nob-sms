@@ -664,12 +664,13 @@
   </e>
   <e>
     <lg>
-      <l pos="Pron">hvem (flertall)</l>
+      <l pos="Pron">hvem</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>flertall</re>
       <tg xml:lang="sms">
         <t Contlex="PRON_" pos="Pron">kook</t>
       </tg>
@@ -954,12 +955,13 @@
   </e>
   <e>
     <lg>
-      <l pos="Pron">som (flertall)</l>
+      <l pos="Pron">som</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>flertall</re>
       <tg xml:lang="sms">
         <t Contlex="PRON_" pos="Pron">kook</t>
       </tg>

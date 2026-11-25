@@ -429,12 +429,13 @@
   </e>
   <e>
     <lg>
-      <l pos="Det">hvilken (om antall)</l>
+      <l pos="Det">hvilken</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om antall</re>
       <tg xml:lang="sms">
         <t Contlex="ORD_" pos="Det">kââllad</t>
       </tg>
@@ -442,12 +443,13 @@
   </e>
   <e>
     <lg>
-      <l pos="Det">hvilken/hvilket (av to)</l>
+      <l pos="Det">hvilken/hvilket</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>av to</re>
       <tg xml:lang="sms">
         <t Contlex="DET_" pos="Det">kuäbbaž</t>
       </tg>

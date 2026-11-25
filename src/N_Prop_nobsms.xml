@@ -1352,12 +1352,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">gud (protestantantisk)</l>
+      <l pos="N">gud</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>protestantantisk</re>
       <tg xml:lang="sms">
         <t Contlex="PROP_" pos="N">Eʹmmel</t>
       </tg>
@@ -1399,12 +1400,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rev (i sagn og eventyr)</l>
+      <l pos="N">rev</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i sagn og eventyr</re>
       <tg xml:lang="sms">
         <t Contlex="PROP_PEIʹVV" pos="N">Kuʹǩes-seiʹbb</t>
       </tg>

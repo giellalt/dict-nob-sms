@@ -452,12 +452,13 @@
   </e>
   <e>
     <lg>
-      <l pos="Adv">dele i to og to (halvere to ganger)</l>
+      <l pos="Adv">dele i to og to</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>halvere to ganger</re>
       <tg xml:lang="sms">
         <t Contlex="ADV_" pos="Adv">lâkklõõžži</t>
       </tg>
@@ -601,12 +602,13 @@
   </e>
   <e>
     <lg>
-      <l pos="Adv">dårlig (om helse)</l>
+      <l pos="Adv">dårlig</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om helse</re>
       <tg xml:lang="sms">
         <t Contlex="ADV_" pos="Adv">pannʼnalla</t>
       </tg>
@@ -2850,12 +2852,13 @@
   </e>
   <e>
     <lg>
-      <l pos="Adv">lenger enn (om tid)</l>
+      <l pos="Adv">lenger enn</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om tid</re>
       <tg xml:lang="sms">
         <t Contlex="ADV_" pos="Adv">pâʹjjlaakkânj</t>
       </tg>
@@ -3023,12 +3026,13 @@
   </e>
   <e>
     <lg>
-      <l pos="Adv">lukket (om øye)</l>
+      <l pos="Adv">lukket</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om øye</re>
       <tg xml:lang="sms">
         <t Contlex="ADV_" pos="Adv">måskkad</t>
       </tg>
@@ -3105,12 +3109,13 @@
   </e>
   <e>
     <lg>
-      <l pos="Adv">med rettsiden ut (om klesplagg)</l>
+      <l pos="Adv">med rettsiden ut</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om klesplagg</re>
       <tg xml:lang="sms">
         <t Contlex="ADV_" pos="Adv">kåullad</t>
       </tg>
@@ -5660,12 +5665,13 @@
   </e>
   <e>
     <lg>
-      <l pos="Adv">uansett hvor (mye, lite etc)</l>
+      <l pos="Adv">uansett hvor</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>mye, lite etc</re>
       <tg xml:lang="sms">
         <t Contlex="ADV_" pos="Adv">tuuʹđ</t>
       </tg>
@@ -5744,12 +5750,13 @@
   </e>
   <e>
     <lg>
-      <l pos="Adv">utbre (sine ting)</l>
+      <l pos="Adv">utbre</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>sine ting</re>
       <tg xml:lang="sms">
         <t Contlex="ADV_" pos="Adv">leävvad</t>
       </tg>

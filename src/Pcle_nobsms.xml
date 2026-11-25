@@ -147,12 +147,13 @@
   </e>
   <e>
     <lg>
-      <l pos="Pcle">jo (suffiks)</l>
+      <l pos="Pcle">jo</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>suffiks</re>
       <tg xml:lang="sms">
         <t Contlex="PCLE_" pos="Pcle">deʹbet</t>
       </tg>

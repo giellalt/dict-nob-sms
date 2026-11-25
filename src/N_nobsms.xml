@@ -99,12 +99,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">Stallu (sagnfigur)</l>
+      <l pos="N">Stallu</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>sagnfigur</re>
       <tg xml:lang="sms">
         <t Contlex="N_ŠOOMM" pos="N">stäʹlmmstääll</t>
       </tg>
@@ -158,12 +159,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">aften (dagen før høytidsdag)</l>
+      <l pos="N">aften</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>dagen før høytidsdag</re>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">käänan</t>
       </tg>
@@ -211,12 +213,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">akterstevn (på båt)</l>
+      <l pos="N">akterstevn</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>på båt</re>
       <tg xml:lang="sms">
         <t Contlex="N_NEÄVˈV" pos="N">leâkk</t>
       </tg>
@@ -695,12 +698,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">arbeider (mann)</l>
+      <l pos="N">arbeider</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>mann</re>
       <tg xml:lang="sms">
         <t Contlex="N_OOUMAŽ" pos="N">reâuggooumaž</t>
       </tg>
@@ -1284,12 +1288,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bakdel (i sametelt, hus)</l>
+      <l pos="N">bakdel</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i sametelt, hus</re>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">puäšš</t>
       </tg>
@@ -1324,12 +1329,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bakerste takk (i reingeviret)</l>
+      <l pos="N">bakerste takk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i reingeviret</re>
       <tg xml:lang="sms">
         <t Contlex="N_SPÄʹSSEB" pos="N">õlškäʹʒʒem</t>
       </tg>
@@ -1404,12 +1410,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bakstykke (på pulk)</l>
+      <l pos="N">bakstykke</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>på pulk</re>
       <tg xml:lang="sms">
         <t Contlex="N_NEÄVˈV" pos="N">leâkk</t>
       </tg>
@@ -1456,12 +1463,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bamse (i barnespråk)</l>
+      <l pos="N">bamse</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i barnespråk</re>
       <tg xml:lang="sms">
         <t Contlex="N_KOONTÂR" pos="N">kaampâr</t>
       </tg>
@@ -2621,12 +2629,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bjørk (hard, tørr)</l>
+      <l pos="N">bjørk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>hard, tørr</re>
       <tg xml:lang="sms">
         <t Contlex="N_MUÕRR" pos="N">kâʹlššmuõrr</t>
       </tg>
@@ -2634,12 +2643,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bjørkekvist (for å dekke gulvet i sameteltet)</l>
+      <l pos="N">bjørkekvist</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>for å dekke gulvet i sameteltet</re>
       <tg xml:lang="sms">
         <t Contlex="N_ČUÕŠKK" pos="N">tuõrgg</t>
       </tg>
@@ -2661,12 +2671,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bjørn (i sagn og eventyr)</l>
+      <l pos="N">bjørn</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i sagn og eventyr</re>
       <tg xml:lang="sms">
         <t Contlex="N_AIHAM" pos="N">aiham</t>
       </tg>
@@ -2718,12 +2729,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">blad (i geviret)</l>
+      <l pos="N">blad</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i geviret</re>
       <tg xml:lang="sms">
         <t Contlex="N_KUEʹLL" pos="N">lueʹpp</t>
       </tg>
@@ -2896,12 +2908,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">blokk, kubbe (lang)</l>
+      <l pos="N">blokk, kubbe</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>lang</re>
       <semantics>
         <sem class="BOT">TREE</sem>
       </semantics>
@@ -2974,12 +2987,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bluss (stikke)</l>
+      <l pos="N">bluss</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>stikke</re>
       <tg xml:lang="sms">
         <t Contlex="N_RUÕDDÂS" pos="N">tuõssâs</t>
       </tg>
@@ -3212,12 +3226,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bomullstoff (tykk)</l>
+      <l pos="N">bomullstoff</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>tykk</re>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">ǩiâžž</t>
       </tg>
@@ -3316,12 +3331,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bord (i båten)</l>
+      <l pos="N">bord</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i båten</re>
       <tg xml:lang="sms">
         <t Contlex="N_PÄIʹǨǨ" pos="N">läiʹdd</t>
       </tg>
@@ -3669,12 +3685,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">brunst (hos rein)</l>
+      <l pos="N">brunst</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>hos rein</re>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">rõõǥǥâd</t>
       </tg>
@@ -3711,12 +3728,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">brusk (i reinhjertet)</l>
+      <l pos="N">brusk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i reinhjertet</re>
       <tg xml:lang="sms">
         <t Contlex="N_MUÕRR" pos="N">cuõbbunjuõll</t>
       </tg>
@@ -3835,12 +3853,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">brystdel (i jakke)</l>
+      <l pos="N">brystdel</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i jakke</re>
       <tg xml:lang="sms">
         <t Contlex="N_TOLL" pos="N">puŋŋ</t>
       </tg>
@@ -3861,12 +3880,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bråkmaker (på fylla)</l>
+      <l pos="N">bråkmaker</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>på fylla</re>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">šääʹlan</t>
       </tg>
@@ -4044,12 +4064,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bue (u-formet trestykke som bogtreet og skåkene festes til)</l>
+      <l pos="N">bue</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>u-formet trestykke som bogtreet og skåkene festes til</re>
       <tg xml:lang="sms">
         <t Contlex="N_MUÕRR" pos="N">teäddmuõrr</t>
       </tg>
@@ -4183,12 +4204,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">buktning (om gjerde og strandlinje)</l>
+      <l pos="N">buktning</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om gjerde og strandlinje</re>
       <tg xml:lang="sms">
         <t Contlex="N_PAPP" pos="N">macc</t>
       </tg>
@@ -4252,12 +4274,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bunnplugg (på båt)</l>
+      <l pos="N">bunnplugg</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>på båt</re>
       <tg xml:lang="sms">
         <t Contlex="N_CÕÕGGÂLM" pos="N">naappâlm</t>
       </tg>
@@ -4614,12 +4637,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bånd (i hodeplagget til en gift kvinne)</l>
+      <l pos="N">bånd</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i hodeplagget til en gift kvinne</re>
       <tg xml:lang="sms">
         <t Contlex="N_REʹPPIǨ" pos="N">källreʹppiǩ</t>
       </tg>
@@ -4895,12 +4919,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bør (det man klarer å bære om gangen)</l>
+      <l pos="N">bør</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>det man klarer å bære om gangen</re>
       <tg xml:lang="sms">
         <t Contlex="N_TÄÄVTÕS" pos="N">nuäđđõs</t>
       </tg>
@@ -4908,12 +4933,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bør (på rein)</l>
+      <l pos="N">bør</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>på rein</re>
       <tg xml:lang="sms">
         <t Contlex="N_KÄÄʹLLES" pos="N">kääʹddes</t>
       </tg>
@@ -4934,12 +4960,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bøyning (i et tre)</l>
+      <l pos="N">bøyning</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i et tre</re>
       <tg xml:lang="sms">
         <t Contlex="N_JEÄʹRMM" pos="N">muäʹlǩǩ</t>
       </tg>
@@ -5018,12 +5045,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">dame (i kortspill)</l>
+      <l pos="N">dame</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i kortspill</re>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">ruʹvva</t>
       </tg>
@@ -5262,12 +5290,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">den som skaper liv (gud)</l>
+      <l pos="N">den som skaper liv</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>gud</re>
       <tg xml:lang="sms">
         <t Contlex="N_SUʹVDDI" pos="N">jieʹllemuʹvddi</t>
       </tg>
@@ -5909,12 +5938,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">dusk (i nakken på en herrehodeplagg)</l>
+      <l pos="N">dusk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i nakken på en herrehodeplagg</re>
       <tg xml:lang="sms">
         <t Contlex="N_PÅÅTTAǨ" pos="N">toobbiǩ</t>
       </tg>
@@ -6364,12 +6394,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ekskrement (i vommen til drøvtyggere)</l>
+      <l pos="N">ekskrement</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i vommen til drøvtyggere</re>
       <tg xml:lang="sms">
         <t Contlex="N_SUÂL" pos="N">kuâm</t>
       </tg>
@@ -6556,12 +6587,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">elvearm (som vender tilbake til hovedløpet)</l>
+      <l pos="N">elvearm</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>som vender tilbake til hovedløpet</re>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">pååuʹtes</t>
       </tg>
@@ -6599,12 +6631,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">elvedal (mellom fjellene)</l>
+      <l pos="N">elvedal</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>mellom fjellene</re>
       <tg xml:lang="sms">
         <t Contlex="N_KUEʹLL" pos="N">vueʹmm</t>
       </tg>
@@ -6825,12 +6858,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">endetarm (med fett)</l>
+      <l pos="N">endetarm</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>med fett</re>
       <tg xml:lang="sms">
         <t Contlex="N_SUEIʹNN" pos="N">põttpueiʹdd</t>
       </tg>
@@ -7125,12 +7159,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fadder (kvinne)</l>
+      <l pos="N">fadder</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>kvinne</re>
       <semantics>
         <sem class="M_PEOPLE"/>
         <sem class="M_FEMALE"/>
@@ -7142,12 +7177,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fadder (mann)</l>
+      <l pos="N">fadder</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>mann</re>
       <semantics>
         <sem class="M_PEOPLE"/>
         <sem class="M_MALE"/>
@@ -7198,12 +7234,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">falt tre (i vann)</l>
+      <l pos="N">falt tre</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i vann</re>
       <tg xml:lang="sms">
         <t Contlex="N_TOLL" pos="N">võŋŋ</t>
       </tg>
@@ -7310,12 +7347,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fangstplass (hvor man drar opp nota)</l>
+      <l pos="N">fangstplass</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>hvor man drar opp nota</re>
       <tg xml:lang="sms">
         <t Contlex="N_TÄÄVTÕS" pos="N">laautõs</t>
       </tg>
@@ -7464,12 +7502,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fast oppholdssted (rein)</l>
+      <l pos="N">fast oppholdssted</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>for rein</re>
       <tg xml:lang="sms">
         <t Contlex="N_PÄIʹǨǨ" pos="N">jiârnnpäiʹǩǩ</t>
       </tg>
@@ -7490,12 +7529,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">faste (før jul)</l>
+      <l pos="N">faste</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>før jul</re>
       <tg xml:lang="sms">
         <t Contlex="N_ČÄÄʹCC" pos="N">roostpââʹss</t>
       </tg>
@@ -7568,12 +7608,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">favn (måleenhet)</l>
+      <l pos="N">favn</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>måleenhet</re>
       <tg xml:lang="sms">
         <t Contlex="N_TOLL" pos="N">sõll</t>
       </tg>
@@ -7669,7 +7710,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fellesjord (i lapplandsk bygde)</l>
+      <l pos="N">fellesjord (i lapplandsk bygd)</l>
       <stg>
         <st/>
       </stg>
@@ -8079,7 +8120,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fire (personer)</l>
+      <l pos="N">fire personer</l>
       <stg>
         <st/>
       </stg>
@@ -8828,12 +8869,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">flette (til en kvinne)</l>
+      <l pos="N">flette</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>til en kvinne</re>
       <tg xml:lang="sms">
         <t Contlex="N_PÅÅTTAǨ" pos="N">paalmiǩ</t>
       </tg>
@@ -8867,12 +8909,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">flis (i hud)</l>
+      <l pos="N">flis</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i hud</re>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">suäʹđes</t>
       </tg>
@@ -9215,12 +9258,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">for (i klær)</l>
+      <l pos="N">fôr</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i klær</re>
       <tg xml:lang="sms">
         <t Contlex="N_KUÅĐÂS" pos="N">kuåđâs</t>
       </tg>
@@ -9907,12 +9951,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">foss (med sterk strømning)</l>
+      <l pos="N">foss</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>med sterk strømning</re>
       <tg xml:lang="sms">
         <t Contlex="N_SÄÄʹMM" pos="N">njââʹvv</t>
       </tg>
@@ -10551,12 +10596,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fuglens brystbein (med kjøtt)</l>
+      <l pos="N">fuglens brystbein</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>med kjøtt</re>
       <tg xml:lang="sms">
         <t Contlex="N_KUẸʹTT" pos="N">pieʹtt</t>
       </tg>
@@ -11211,12 +11257,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">garntau (garn som settes under isen)</l>
+      <l pos="N">garntau</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>garn som settes under isen</re>
       <tg xml:lang="sms">
         <t Contlex="N_KUEʹLL" pos="N">ǩiččâmnueʹrr</t>
       </tg>
@@ -11293,12 +11340,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">genser (herregenser)</l>
+      <l pos="N">genser</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>herregenser</re>
       <semantics>
         <sem class="CLOTH"/>
       </semantics>
@@ -12029,12 +12077,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">grime (for rein)</l>
+      <l pos="N">grime</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>for rein</re>
       <tg xml:lang="sms">
         <t Contlex="N_VÄʹLL" pos="N">päʹǧǧ</t>
       </tg>
@@ -12180,12 +12229,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">grunne (med hard bunn)</l>
+      <l pos="N">grunne</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>med hard bunn</re>
       <tg xml:lang="sms">
         <t Contlex="N_MUÕTT" pos="N">liõtt</t>
       </tg>
@@ -12261,12 +12311,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">grus (fin)</l>
+      <l pos="N">grus</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>fin</re>
       <tg xml:lang="sms">
         <t Contlex="N_AUTT" pos="N">čiurr</t>
       </tg>
@@ -12274,12 +12325,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">grus (grov)</l>
+      <l pos="N">grus</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>grov</re>
       <semantics>
         <sem class="ENVIR">TOPONOMY</sem>
       </semantics>
@@ -12316,12 +12368,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">gryte (stor)</l>
+      <l pos="N">gryte</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>stor</re>
       <tg xml:lang="sms">
         <t Contlex="N_JEÄʹNˈN" pos="N">šuäʹtt</t>
       </tg>
@@ -12739,12 +12792,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">gås (som husdyr)</l>
+      <l pos="N">gås</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>som husdyr</re>
       <tg xml:lang="sms">
         <t Contlex="N_ČUÂNJ" pos="N">ruâkkčuânj</t>
       </tg>
@@ -12804,12 +12858,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hakk (i øremerket)</l>
+      <l pos="N">hakk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i øremerket</re>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">cieʹǩǩes</t>
       </tg>
@@ -12891,12 +12946,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">halsvirvel (øverste)</l>
+      <l pos="N">halsvirvel</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>øverste</re>
       <tg xml:lang="sms">
         <t Contlex="N_TÄÄVTÕS" pos="N">piâddrõs</t>
       </tg>
@@ -13173,12 +13229,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hareleppe (hare i eventyr)</l>
+      <l pos="N">hareleppe</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>hare i eventyr</re>
       <tg xml:lang="sms">
         <t Contlex="N_KÄʹLBB" pos="N">risttnjäʹlmm</t>
       </tg>
@@ -13212,12 +13269,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hase (i dyrets bakbein)</l>
+      <l pos="N">hase</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i dyrets bakbein</re>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">čeuʹǯǯ</t>
       </tg>
@@ -13475,12 +13533,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hei (fuktig, med bjørkeskog og mose)</l>
+      <l pos="N">hei</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>fuktig, med bjørkeskog og mose</re>
       <tg xml:lang="sms">
         <t Contlex="N_JÂNNAM" pos="N">soukkjânnam</t>
       </tg>
@@ -13818,12 +13877,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">herrehodeplagg (skoltesamisk)</l>
+      <l pos="N">herrehodeplagg</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>skoltesamisk</re>
       <tg xml:lang="sms">
         <t Contlex="N_SPÄʹSSEB" pos="N">peʹlljkeäʹpper</t>
       </tg>
@@ -14249,12 +14309,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hodeende (i senga)</l>
+      <l pos="N">hodeende</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i senga</re>
       <tg xml:lang="sms">
         <t Contlex="N_TÄÄVTÕS" pos="N">vueiʹvvrõš</t>
       </tg>
@@ -14304,12 +14365,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hodeplagg (til en gift skoltesamisk kvinne)</l>
+      <l pos="N">hodeplagg</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>til en gift skoltesamisk kvinne</re>
       <tg xml:lang="sms">
         <t Contlex="N_PÅÅTTAǨ" pos="N">šaamšiǩ</t>
       </tg>
@@ -14317,12 +14379,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hodeplagg (til en karelsk kvinne)</l>
+      <l pos="N">hodeplagg</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>til en karelsk kvinne</re>
       <tg xml:lang="sms">
         <t Contlex="N_PÅÅTTAǨ" pos="N">suäraǩ</t>
       </tg>
@@ -14594,12 +14657,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hud (menneskehud)</l>
+      <l pos="N">hud</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>menneskehud</re>
       <tg xml:lang="sms">
         <t Contlex="N_ARGUMEʹNTT" pos="N">leʹšǩǩ</t>
       </tg>
@@ -14957,12 +15021,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hvileplass (for rein om sommeren når det er mye mygg)</l>
+      <l pos="N">hvileplass</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>for rein om sommeren når det er mye mygg</re>
       <tg xml:lang="sms">
         <t Contlex="N_PÂÂʹJJ" pos="N">ceâkksââʹjj</t>
       </tg>
@@ -15181,12 +15246,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">håndflate (i vott)</l>
+      <l pos="N">håndflate</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i vott</re>
       <tg xml:lang="sms">
         <t Contlex="N_KÄʹLBB" pos="N">väʹpss</t>
       </tg>
@@ -16030,12 +16096,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">isklumphaug (ved siden av våka)</l>
+      <l pos="N">isklumphaug</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>ved siden av våka</re>
       <tg xml:lang="sms">
         <t Contlex="N_PÕRTT" pos="N">čõstt</t>
       </tg>
@@ -16241,12 +16308,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">jentehodeplagg (skoltesamisk)</l>
+      <l pos="N">jentehodeplagg</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>skoltesamisk</re>
       <tg xml:lang="sms">
         <t Contlex="N_SÄÄʹVESǨ" pos="N">peeʹrvesǩ</t>
       </tg>
@@ -16920,12 +16988,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kalv (kukalv)</l>
+      <l pos="N">kalv</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>kukalv</re>
       <tg xml:lang="sms">
         <t Contlex="N_KÄʹLBB" pos="N">käʹlbb</t>
       </tg>
@@ -17306,12 +17375,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kile (til trespiker)</l>
+      <l pos="N">kile</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>til trespiker</re>
       <tg xml:lang="sms">
         <t Contlex="N_JÂNNAM" pos="N">errat</t>
       </tg>
@@ -17948,12 +18018,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">klauvbein (hos rein)</l>
+      <l pos="N">klauvbein</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>hos rein</re>
       <tg xml:lang="sms">
         <t Contlex="N_ÄLDD" pos="N">päskk</t>
       </tg>
@@ -18328,12 +18399,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">knusk (i fyrtøy)</l>
+      <l pos="N">knusk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i fyrtøy</re>
       <tg xml:lang="sms">
         <t Contlex="N_PÅÅTTAǨ" pos="N">niiusiǩ</t>
       </tg>
@@ -18387,12 +18459,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kokeplass (i sametelt)</l>
+      <l pos="N">kokeplass</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i sametelt</re>
       <tg xml:lang="sms">
         <t Contlex="N_PÂÂʹJJ" pos="N">åʹrnnsââʹjj</t>
       </tg>
@@ -18446,12 +18519,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kolbe (f eks i våpen)</l>
+      <l pos="N">kolbe</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>f eks i våpen</re>
       <tg xml:lang="sms">
         <t Contlex="N_SIÂKˈK" pos="N">puådd</t>
       </tg>
@@ -18610,12 +18684,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">konge (i damspill)</l>
+      <l pos="N">konge</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i damspill</re>
       <tg xml:lang="sms">
         <t Contlex="N_PLAAN" pos="N">daam</t>
       </tg>
@@ -19185,12 +19260,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kro (hos fugl)</l>
+      <l pos="N">kro</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>hos fugl</re>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">peeʹrr</t>
       </tg>
@@ -19451,12 +19527,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kubbe (kort)</l>
+      <l pos="N">kubbe</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>kort</re>
       <tg xml:lang="sms">
         <t Contlex="N_TÄÄVTÕS" pos="N">jobblõk</t>
       </tg>
@@ -19584,12 +19661,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kulp (i elva)</l>
+      <l pos="N">kulp</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i elva</re>
       <tg xml:lang="sms">
         <t Contlex="N_SPÄʹSSEB" pos="N">jeeʹrem</t>
       </tg>
@@ -19767,12 +19845,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kutt (i øremerket)</l>
+      <l pos="N">kutt</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i øremerket</re>
       <tg xml:lang="sms">
         <t Contlex="N_TÄÄVTÕS" pos="N">čälstõk</t>
       </tg>
@@ -20403,12 +20482,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lapp (i klær etc)</l>
+      <l pos="N">lapp</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i klær etc</re>
       <tg xml:lang="sms">
         <t Contlex="N_VÕÕNÂS" pos="N">tuuŋâs</t>
       </tg>
@@ -20442,12 +20522,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">larve (hvit, i mat)</l>
+      <l pos="N">larve</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>hvit, i mat</re>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">suõhss</t>
       </tg>
@@ -20534,12 +20615,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lav (reinlav)</l>
+      <l pos="N">lav</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>reinlav</re>
       <semantics>
         <sem class="BOT">GRASS</sem>
       </semantics>
@@ -20550,12 +20632,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lav som vokser på steiner (brukes til farging)</l>
+      <l pos="N">lav som vokser på steiner</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>brukes til farging</re>
       <semantics>
         <sem class="BOT">GRASS</sem>
       </semantics>
@@ -20721,12 +20804,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">legg (hos rein)</l>
+      <l pos="N">legg</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>hos rein</re>
       <tg xml:lang="sms">
         <t Contlex="N_JEÄʹRMM" pos="N">puäʹcǩǩ</t>
       </tg>
@@ -20856,12 +20940,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lemus (i andre steder enn i øyet)</l>
+      <l pos="N">lemus</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i andre steder enn i øyet</re>
       <tg xml:lang="sms">
         <t Contlex="N_SÄʹPPLEEJAŽ" pos="N">såmmsäʹppleejaž</t>
       </tg>
@@ -20869,12 +20954,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lemus (i øyet)</l>
+      <l pos="N">lemus</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i øyet</re>
       <tg xml:lang="sms">
         <t Contlex="N_AUTT" pos="N">čâʹlmmlougg</t>
       </tg>
@@ -22762,12 +22848,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mark (om penger)</l>
+      <l pos="N">mark</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om penger</re>
       <tg xml:lang="sms">
         <t Contlex="N_SÄʹMMLAŽ" pos="N">märkksaž</t>
       </tg>
@@ -22862,12 +22949,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">massør (helbreder)</l>
+      <l pos="N">massør</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>helbreder</re>
       <tg xml:lang="sms">
         <t Contlex="N_MUÕRR" pos="N">njuõllǩiõtt</t>
       </tg>
@@ -22920,12 +23008,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mat (søt, noe man spiser for første gang)</l>
+      <l pos="N">mat</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>søt, noe man spiser for første gang</re>
       <tg xml:lang="sms">
         <t Contlex="N_TAALKÂS" pos="N">aasvâs</t>
       </tg>
@@ -23099,7 +23188,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">medlem (av bygdekomiten)</l>
+      <l pos="N">medlem av bygdekomiten</l>
       <stg>
         <st/>
       </stg>
@@ -23216,12 +23305,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">melke (hos fisk)</l>
+      <l pos="N">melke</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>hos fisk</re>
       <tg xml:lang="sms">
         <t Contlex="N_ČUÕŠKK" pos="N">kuõpss</t>
       </tg>
@@ -24356,12 +24446,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">myr (med glissen furuskog)</l>
+      <l pos="N">myr</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>med glissen furuskog</re>
       <semantics>
         <sem class="ENVIR">TOPONOMY</sem>
       </semantics>
@@ -24571,12 +24662,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">møll (insekt, larve)</l>
+      <l pos="N">møll</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>insekt, larve</re>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">kuäjj</t>
       </tg>
@@ -25001,12 +25093,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">navne (en med samme navn)</l>
+      <l pos="N">navnebror</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>en med samme navn</re>
       <tg xml:lang="sms">
         <t Contlex="N_SÄIʹMM" pos="N">käiʹmm</t>
       </tg>
@@ -25417,12 +25510,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">njalla (stabbur)</l>
+      <l pos="N">njalla</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>stabbur</re>
       <tg xml:lang="sms">
         <t Contlex="N_TOLL" pos="N">njõll</t>
       </tg>
@@ -25940,12 +26034,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">nøkk (myt.)</l>
+      <l pos="N">nøkk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>mytologisk</re>
       <tg xml:lang="sms">
         <t Contlex="N_JIEʹLLI" pos="N">jääuʹrjieʹlli</t>
       </tg>
@@ -26301,12 +26396,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">onkel (eldre enn far)</l>
+      <l pos="N">onkel</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>eldre enn far</re>
       <tg xml:lang="sms">
         <t Contlex="N_PIẸʹSS" pos="N">jieʹǩǩ</t>
       </tg>
@@ -26921,12 +27017,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">panne (i damehodeplagg)</l>
+      <l pos="N">panne</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i damehodeplagg</re>
       <tg xml:lang="sms">
         <t Contlex="N_MUÕRÂŽ" pos="N">källoolâž</t>
       </tg>
@@ -27265,12 +27362,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">perle (stor, f eks i perlebånd)</l>
+      <l pos="N">perle</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>stor, f eks i perlebånd</re>
       <tg xml:lang="sms">
         <t Contlex="N_SPÄʹSSEB" pos="N">peeʹrel</t>
         <t Contlex="N_" pos="N">peʹsser</t>
@@ -27706,12 +27804,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">platform (for oppbevaring, tørking av kjøtt)</l>
+      <l pos="N">plattform</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>for oppbevaring, tørking av kjøtt</re>
       <tg xml:lang="sms">
         <t Contlex="N_KUEʹLL" pos="N">lueʹvv</t>
       </tg>
@@ -27966,12 +28065,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">prestekjole (til en ortodoks prest)</l>
+      <l pos="N">prestekjole</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>til en ortodoks prest</re>
       <tg xml:lang="sms">
         <t Contlex="N_PLAAN" pos="N">riizz</t>
       </tg>
@@ -28396,12 +28496,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rangle (leketøy)</l>
+      <l pos="N">rangle</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>leketøy</re>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">huʹvǧǧi</t>
       </tg>
@@ -28853,12 +28954,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">reinflokk (liten)</l>
+      <l pos="N">reinflokk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>liten</re>
       <tg xml:lang="sms">
         <t Contlex="N_KAAV" pos="N">čoor</t>
       </tg>
@@ -28866,12 +28968,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">reinflokk (stor)</l>
+      <l pos="N">reinflokk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>stor</re>
       <tg xml:lang="sms">
         <t Contlex="N_VUÂRR" pos="N">jeäll</t>
         <t Contlex="N_TÄÄVTÕS" pos="N">puäʒʒjällmõš</t>
@@ -28897,12 +29000,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">reinkalv (i alderen fra sin første høst til første sommer)</l>
+      <l pos="N">reinkalv</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i alderen fra sin første høst til første sommer</re>
       <tg xml:lang="sms">
         <t Contlex="N_PÅÅTTAǨ" pos="N">čiõrmiǩ</t>
       </tg>
@@ -29281,12 +29385,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rev (i eventyr)</l>
+      <l pos="N">rev</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i eventyr</re>
       <tg xml:lang="sms">
         <t Contlex="N_KÄÄʹLLES" pos="N">rieʹmjjkääʹlles</t>
       </tg>
@@ -29590,12 +29695,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rom sjø (om innsjø)</l>
+      <l pos="N">rom sjø</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om innsjø</re>
       <tg xml:lang="sms">
         <t Contlex="N_PÕRTT" pos="N">jõrŋŋ</t>
       </tg>
@@ -29901,12 +30007,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ruter (i kortspill)</l>
+      <l pos="N">ruter</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i kortspill</re>
       <tg xml:lang="sms">
         <t Contlex="N_PLAAN" pos="N">tiil</t>
       </tg>
@@ -30161,12 +30268,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rørsopp (hvit)</l>
+      <l pos="N">rørsopp</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>hvit</re>
       <tg xml:lang="sms">
         <t Contlex="N_TUÕDDÂR" pos="N">jeeʹelkuõbbâr</t>
       </tg>
@@ -30263,12 +30371,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">røyting (om rein)</l>
+      <l pos="N">røyting</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om rein</re>
       <tg xml:lang="sms">
         <t Contlex="N_KÄʹLBB" pos="N">påʹrǧǧ</t>
       </tg>
@@ -30445,7 +30554,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">same (ikke skoltesame)</l>
+      <l pos="N">enaresame</l>
       <stg>
         <st/>
       </stg>
@@ -30997,7 +31106,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">seks (mennesker)</l>
+      <l pos="N">seks mennesker</l>
       <stg>
         <st/>
       </stg>
@@ -31252,12 +31361,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sennegress (for bekledning av fottøy)</l>
+      <l pos="N">sennegress</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>for bekledning av fottøy</re>
       <tg xml:lang="sms">
         <t Contlex="N_SUEIʹNN" pos="N">kaammisueiʹnn</t>
       </tg>
@@ -31481,12 +31591,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sikte (i våpen)</l>
+      <l pos="N">sikte</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i våpen</re>
       <tg xml:lang="sms">
         <t Contlex="N_VAHTT" pos="N">ouddsǩihtt</t>
       </tg>
@@ -31992,7 +32103,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">skaft (f eks stølveskaft)</l>
+      <l pos="N">skaft (f eks støvleskaft)</l>
       <stg>
         <st/>
       </stg>
@@ -32118,12 +32229,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ski (ski kledd med selskinn under))</l>
+      <l pos="N">ski</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>ski kledd med selskinn under)</re>
       <tg xml:lang="sms">
         <t Contlex="N_VÕÕNÂS" pos="N">koolâs</t>
       </tg>
@@ -32549,12 +32661,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sko (uten skogbånd og sennegress)</l>
+      <l pos="N">sko</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>uten skogbånd og sennegress</re>
       <tg xml:lang="sms">
         <t Contlex="N_KAAMMI" pos="N">laustõk-kaammi</t>
       </tg>
@@ -32632,12 +32745,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">skogsame (andre steder enn i Inari)</l>
+      <l pos="N">skogsame</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>andre steder enn i Inari</re>
       <tg xml:lang="sms">
         <t Contlex="N_SÄʹMMLAŽ" pos="N">vueʹrjjelsäʹmmlaž</t>
         <t Contlex="N_TÄÄVTÕS" pos="N">vueʹrjjõš</t>
@@ -32950,12 +33064,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">skorpe (i hodebunnen)</l>
+      <l pos="N">skorpe</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i hodebunnen</re>
       <tg xml:lang="sms">
         <t Contlex="N_TOLL" pos="N">kõnn</t>
       </tg>
@@ -33149,12 +33264,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">skrin (laget av bjørkenever)</l>
+      <l pos="N">skrin</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>laget av bjørkenever</re>
       <tg xml:lang="sms">
         <t Contlex="N_JEÄʹRMM" pos="N">puäʹrtt</t>
       </tg>
@@ -33217,12 +33333,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">skrott (dyrekskrott)</l>
+      <l pos="N">skrott</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>dyrekskrott</re>
       <tg xml:lang="sms">
         <t Contlex="N_PAPP" pos="N">kropp</t>
       </tg>
@@ -34344,12 +34461,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sno (kald, om vinteren)</l>
+      <l pos="N">sno</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>kald, om vinteren</re>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">vâčč</t>
       </tg>
@@ -34357,12 +34475,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sno (om vinteren)</l>
+      <l pos="N">sno</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om vinteren</re>
       <semantics>
         <sem class="ENVIR">WEATHER</sem>
       </semantics>
@@ -34738,12 +34857,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">solskinn (om våren)</l>
+      <l pos="N">solskinn</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>om våren</re>
       <tg xml:lang="sms">
         <t Contlex="N_TÄÄVTÕS" pos="N">läänõk</t>
       </tg>
@@ -34986,12 +35106,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">spant (på båten)</l>
+      <l pos="N">spant</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>på båten</re>
       <tg xml:lang="sms">
         <t Contlex="N_KÕÕNJÂL" pos="N">kuuŋâr</t>
       </tg>
@@ -35228,12 +35349,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">spissfelling (av tuppen på en vott)</l>
+      <l pos="N">spissfelling</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>av tuppen på en vott</re>
       <tg xml:lang="sms">
         <t Contlex="N_CÕÕGGÂLM" pos="N">čooǥǥâlm</t>
       </tg>
@@ -35319,12 +35441,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">spor (etter pulk, slede osv.)</l>
+      <l pos="N">spor</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>etter pulk, slede osv.</re>
       <tg xml:lang="sms">
         <t Contlex="N_VAHTT" pos="N">lohss</t>
       </tg>
@@ -35560,12 +35683,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">starosta (bygdas eldste)</l>
+      <l pos="N">starosta</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>bygdas eldste</re>
       <tg xml:lang="sms">
         <t Contlex="N_SIIVÂLM" pos="N">staarâst</t>
       </tg>
@@ -35659,7 +35783,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sted (spising, spisested)</l>
+      <l pos="N">spisested</l>
       <stg>
         <st/>
       </stg>
@@ -35987,12 +36111,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">stikk (i kortspill)</l>
+      <l pos="N">stikk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i kortspill</re>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">cieʹǩǩes</t>
       </tg>
@@ -36814,12 +36939,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">støter (i morter)</l>
+      <l pos="N">støter</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i morter</re>
       <tg xml:lang="sms">
         <t Contlex="N_TÄÄVTÕS" pos="N">norddmõs</t>
       </tg>
@@ -37039,12 +37165,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">svai (i ryggen)</l>
+      <l pos="N">svai</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i ryggen</re>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">šǩieʹǩǩ</t>
       </tg>
@@ -37311,12 +37438,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">svigerinne (kona til bror, farbror eller morbror)</l>
+      <l pos="N">svigerinne</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>kona til bror, farbror eller morbror</re>
       <tg xml:lang="sms">
         <t Contlex="N_ÄʹVV" pos="N">eʹmm</t>
       </tg>
@@ -37324,12 +37452,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">svigerinne (kone til mannens bror)</l>
+      <l pos="N">svigerinne</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>kone til mannens bror</re>
       <tg xml:lang="sms">
         <t Contlex="N_JEÄʹNˈN" pos="N">käärjeäʹnn</t>
       </tg>
@@ -37337,12 +37466,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">svigerinner (koner til brødre)</l>
+      <l pos="N">svigerinner</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>koner til brødre</re>
       <tg xml:lang="sms">
         <t Contlex="N_UUʹREŽ" pos="N">käälʼjieʹnnež</t>
       </tg>
@@ -37889,12 +38019,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">takk (i geviret)</l>
+      <l pos="N">takk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i geviret</re>
       <tg xml:lang="sms">
         <t Contlex="N_SPÄʹSSEB" pos="N">säʹrǧǧem</t>
       </tg>
@@ -37902,12 +38033,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">takk (i tre, finne)</l>
+      <l pos="N">takk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i tre, finne</re>
       <tg xml:lang="sms">
         <t Contlex="N_KAAV" pos="N">sõõđ</t>
       </tg>
@@ -38125,12 +38257,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tante (mors eldre søster)</l>
+      <l pos="N">tante</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>mors eldre søster</re>
       <semantics>
         <sem class="HUMAN">FAMILY</sem>
         <sem class="M_FEMALE"/>
@@ -38505,7 +38638,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ti (mennesker)</l>
+      <l pos="N">ti mennesker</l>
       <stg>
         <st/>
       </stg>
@@ -38534,12 +38667,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tid for sanking av silvev (for barkebrød)</l>
+      <l pos="N">tid for sanking av silvev</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>for barkebrød</re>
       <tg xml:lang="sms">
         <t Contlex="N_PÄIʹǨǨ" pos="N">njõlläiʹǧǧ</t>
       </tg>
@@ -38682,12 +38816,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tilleggsord (i tale, setning)</l>
+      <l pos="N">tilleggsord</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i tale, setning</re>
       <tg xml:lang="sms">
         <t Contlex="N_KÅÅVAS" pos="N">sääʹnnvääjas</t>
       </tg>
@@ -38726,12 +38861,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tillitsmann (med administrative funksjoner)</l>
+      <l pos="N">tillitsmann</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>med administrative funksjoner</re>
       <tg xml:lang="sms">
         <t Contlex="N_SIIVÂLM" pos="N">staarâst</t>
       </tg>
@@ -39097,12 +39233,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tommelgrep (14,8 cm)</l>
+      <l pos="N">tommelgrep</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>14,8 cm</re>
       <tg xml:lang="sms">
         <t Contlex="N_MUEʹRJJ" pos="N">vueʹpss</t>
       </tg>
@@ -39318,7 +39455,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">trau (for sauer, laget av et trestyke)</l>
+      <l pos="N">trau (for sauer, laget av et trestykke)</l>
       <stg>
         <st/>
       </stg>
@@ -39363,7 +39500,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tre (mennesker)</l>
+      <l pos="N">tre mennesker</l>
       <stg>
         <st/>
       </stg>
@@ -39488,12 +39625,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">trekk (i rommet)</l>
+      <l pos="N">trekk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i rommet</re>
       <tg xml:lang="sms">
         <t Contlex="N_RUÕCˈC" pos="N">piõgg</t>
       </tg>
@@ -39602,12 +39740,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">trestøtte (i felle, isfiskegarn)</l>
+      <l pos="N">trestøtte</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i felle, isfiskegarn</re>
       <tg xml:lang="sms">
         <t Contlex="N_SPÄʹSSEB" pos="N">äʹǧǧev</t>
       </tg>
@@ -39777,12 +39916,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">trumf (i kortspill)</l>
+      <l pos="N">trumf</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i kortspill</re>
       <tg xml:lang="sms">
         <t Contlex="N_SǨIÂŊKK" pos="N">viâltt</t>
       </tg>
@@ -39873,12 +40013,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tundra (ved kysten)</l>
+      <l pos="N">tundra</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>ved kysten</re>
       <semantics>
         <sem class="ENVIR">TOPONOMY</sem>
       </semantics>
@@ -40215,12 +40356,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tåke (over vann)</l>
+      <l pos="N">tåke</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>over vann</re>
       <semantics>
         <sem class="ENVIR">WEATHER</sem>
       </semantics>
@@ -40311,12 +40453,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tørrfisk (liten)</l>
+      <l pos="N">tørrfisk</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>liten</re>
       <tg xml:lang="sms">
         <t Contlex="N_PÅÅTTAǨ" pos="N">tuäraǩ</t>
       </tg>
@@ -40517,12 +40660,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ullstoff (tynn)</l>
+      <l pos="N">ullstoff</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>tynn</re>
       <tg xml:lang="sms">
         <t Contlex="N_SPÄʹSSEB" pos="N">gaaʹrest</t>
       </tg>
@@ -40544,12 +40688,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ulv (i eventyr)</l>
+      <l pos="N">ulv</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i eventyr</re>
       <tg xml:lang="sms">
         <t Contlex="N_AIHAM" pos="N">čiǯiham</t>
       </tg>
@@ -41154,12 +41299,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vadefugl (spove, snipe)</l>
+      <l pos="N">vadefugl</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>spove, snipe</re>
       <tg xml:lang="sms">
         <t Contlex="N_LÅʹDD" pos="N">jeäʹǧǧlåʹdd</t>
       </tg>
@@ -41821,12 +41967,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">velger (i valget)</l>
+      <l pos="N">velger</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>i valget</re>
       <tg xml:lang="sms">
         <t Contlex="N_TUÕĐŠTEEI" pos="N">jiõnsteei</t>
       </tg>
@@ -42029,7 +42176,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">verktøysekk (mannens, nedre del av flettede røttet, øvre del av skinn)</l>
+      <l pos="N">verktøysekk (mannens, nedre del av flettede røtter, øvre del av skinn)</l>
       <stg>
         <st/>
       </stg>
@@ -42287,12 +42434,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">villrein (uten gevir)</l>
+      <l pos="N">villrein</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>uten gevir</re>
       <tg xml:lang="sms">
         <t Contlex="N_PÅÅTTAǨ" pos="N">kââʹreǩ</t>
       </tg>
@@ -42330,12 +42478,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vind (kald nordlig vind om sommeren)</l>
+      <l pos="N">vind</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>kald nordlig vind om sommeren</re>
       <semantics>
         <sem class="ENVIR">WEATHER</sem>
       </semantics>
@@ -42552,12 +42701,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vinterstøing (laks, sik)</l>
+      <l pos="N">vinterstøing</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
+      <re>laks, sik</re>
       <tg xml:lang="sms">
         <t Contlex="N_PÅÅTTAǨ" pos="N">kuäraǩ</t>
       </tg>
@@ -43236,7 +43386,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">åtte (mennesker)</l>
+      <l pos="N">åtte mennesker</l>
       <stg>
         <st/>
       </stg>
