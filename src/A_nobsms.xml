@@ -374,7 +374,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="A_JIÕʹNNI" pos="A">piʹǧǧi</t>
+        <t Contlex="A_JIÕʹNNI" pos="A">piõʹǧǧi</t>
       </tg>
     </mg>
   </e>
@@ -1336,7 +1336,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="A_JIÕʹNNI" pos="A">piʹǧǧi</t>
+        <t Contlex="A_JIÕʹNNI" pos="A">piõʹǧǧi</t>
       </tg>
     </mg>
   </e>
@@ -1734,7 +1734,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="A_" pos="A">viäʹssel</t>
+        <t Contlex="A_" pos="A">vieʹssel</t>
       </tg>
     </mg>
   </e>
@@ -2823,7 +2823,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="A_SÄʹMMLAŽ" pos="A">ceerkavlaž</t>
+        <t Contlex="A_SÄʹMMLAŽ" pos="A">ceerkvallaš</t>
       </tg>
     </mg>
   </e>
@@ -3831,7 +3831,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="A_" pos="A">hiäʹnn</t>
+        <t Contlex="A_" pos="A">hieʹnn</t>
       </tg>
     </mg>
   </e>
@@ -4730,19 +4730,6 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="A_SÄʹMMLAŽ" pos="A">säʹrǧǧmallaž</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">rein med flottere gevir</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="A_" pos="A">säʹrǧǧmallžab</t>
       </tg>
     </mg>
   </e>
@@ -6500,7 +6487,6 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="A_ČÂÂʹLMTEʹM" pos="A">rieʹǩǩtem</t>
-        <t Contlex="A_ČÂÂʹLMTEʹM" pos="A">riäʹǩǩtem</t>
       </tg>
     </mg>
   </e>
@@ -7257,7 +7243,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="A_" pos="A">käiʹnneš</t>
+        <t Contlex="A_" pos="A">käinnaš</t>
       </tg>
     </mg>
   </e>

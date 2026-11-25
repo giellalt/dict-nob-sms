@@ -1745,7 +1745,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">sõkklõõvvad</t>
+        <t Contlex="V_" pos="V">sõkklõõvvâd</t>
       </tg>
     </mg>
   </e>
@@ -2945,7 +2945,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">leäđgted</t>
+        <t Contlex="V_" pos="V">leäđǥted</t>
         <t Contlex="V_PÕÕLLÂD" pos="V">njoođđâd</t>
       </tg>
     </mg>
@@ -3506,7 +3506,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">vaaited</t>
+        <t Contlex="V_" pos="V">vaajted</t>
       </tg>
     </mg>
   </e>
@@ -4444,7 +4444,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">jeuʹǯǯad</t>
+        <t Contlex="V_" pos="V">jiõuǯǯâd</t>
       </tg>
     </mg>
   </e>
@@ -5283,7 +5283,7 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="V_SOLLEED" pos="V">heelǥeed</t>
-        <t Contlex="V_KÅʹMRDED" pos="V">läʹǧsted</t>
+        <t Contlex="V_KÅʹMRDED" pos="V">läʹǧǧsted</t>
       </tg>
     </mg>
   </e>
@@ -5403,8 +5403,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">toåimted</t>
-        <t Contlex="V_ŠORRNED" pos="V">tuåimted</t>
+        <t Contlex="V_" pos="V">tååimted</t>
       </tg>
     </mg>
   </e>
@@ -5417,7 +5416,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_TEEʹMEED" pos="V">neuʹrreed</t>
+        <t Contlex="V_TEEʹMEED" pos="V">neurreed</t>
       </tg>
     </mg>
   </e>
@@ -5776,7 +5775,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="IV_KUÕCCJED" pos="V">suuʹčjed</t>
+        <t Contlex="IV_KUÕCCJED" pos="V">suučjed</t>
       </tg>
     </mg>
   </e>
@@ -5807,7 +5806,7 @@
         <sem class="WORK"/>
       </semantics>
       <tg xml:lang="sms">
-        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">tollstõõllâd</t>
+        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">tolstõõllâd</t>
       </tg>
     </mg>
   </e>
@@ -6064,7 +6063,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">vuäǯǯâd</t>
+        <t Contlex="V_" pos="V">vuäǯǯad</t>
       </tg>
     </mg>
   </e>
@@ -6356,7 +6355,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">uʹvvded</t>
+        <t Contlex="V_" pos="V">uʹvdded</t>
       </tg>
     </mg>
   </e>
@@ -6660,7 +6659,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">šääjjeed</t>
+        <t Contlex="V_" pos="V">šääiʹjeed</t>
       </tg>
     </mg>
   </e>
@@ -8167,7 +8166,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">jeuʹǯǯad</t>
+        <t Contlex="V_" pos="V">jiõuǯǯâd</t>
       </tg>
     </mg>
   </e>
@@ -8238,7 +8237,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">liugsted</t>
+        <t Contlex="V_" pos="V">liuǥsted</t>
       </tg>
     </mg>
   </e>
@@ -8669,7 +8668,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">jeuʹǯǯad</t>
+        <t Contlex="V_" pos="V">jiõuǯǯâd</t>
       </tg>
     </mg>
   </e>
@@ -8999,7 +8998,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">liugsted</t>
+        <t Contlex="V_" pos="V">liuǥsted</t>
       </tg>
     </mg>
   </e>
@@ -9153,7 +9152,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_KÅʹMRDED" pos="V">läʹǧsted</t>
+        <t Contlex="V_KÅʹMRDED" pos="V">läʹǧǧsted</t>
         <t Contlex="V_ŠORRNED" pos="V">čeâǥǥted</t>
         <t Contlex="V_ǨIÕRGGNED" pos="V">šarggled</t>
       </tg>
@@ -9448,7 +9447,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">seʹlvned</t>
+        <t Contlex="V_" pos="V">seʹlvvned</t>
       </tg>
     </mg>
   </e>
@@ -10089,7 +10088,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">čuäitõõttâd</t>
+        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">čuäjtõõttâd</t>
       </tg>
     </mg>
   </e>
@@ -10426,7 +10425,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">liugsted</t>
+        <t Contlex="V_" pos="V">liuǥsted</t>
       </tg>
     </mg>
   </e>
@@ -10462,14 +10461,14 @@
   </e>
   <e>
     <lg>
-      <l pos="V">la gjøre, få laget, få bygdt</l>
+      <l pos="V">la gjøre, få laget, få bygd</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">raaited</t>
+        <t Contlex="V_" pos="V">raajted</t>
         <t Contlex="V_" pos="V">tuõjjted</t>
       </tg>
     </mg>
@@ -11678,7 +11677,7 @@
         <sem class="WORK">ECONOMY</sem>
       </semantics>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">maaʹljed</t>
+        <t Contlex="V_" pos="V">maaʹlʼjed</t>
       </tg>
     </mg>
   </e>
@@ -14739,23 +14738,6 @@
   </e>
   <e>
     <lg>
-      <l pos="V">skrive</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-    <mg>
-      <semantics>
-        <sem class="LANG">TEXT</sem>
-        <sem class="WORK">ECONOMY</sem>
-      </semantics>
-      <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">ǩiirjted</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">skure</l>
       <stg>
         <st/>
@@ -14936,7 +14918,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">liugsted</t>
+        <t Contlex="V_" pos="V">liuǥsted</t>
       </tg>
     </mg>
   </e>
@@ -16161,7 +16143,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_KÅʹMRDED" pos="V">peʹlsted</t>
+        <t Contlex="V_KÅʹMRDED" pos="V">peʹllsted</t>
       </tg>
     </mg>
   </e>
@@ -17184,7 +17166,7 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="V_HEÂRRAD" pos="V">ǩeâvvad</t>
-        <t Contlex="V_" pos="V">ǩeâʹvvled</t>
+        <t Contlex="V_" pos="V">ǩeâvvled</t>
       </tg>
     </mg>
   </e>
@@ -17976,7 +17958,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">kajjõõttâd</t>
+        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">kaʹjjõõttâd</t>
       </tg>
     </mg>
   </e>
@@ -19380,7 +19362,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">seeʹrʼted</t>
+        <t Contlex="V_" pos="V">seeʹrted</t>
       </tg>
     </mg>
   </e>
@@ -20060,7 +20042,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">jieʹleʹjje</t>
+        <t Contlex="V_" pos="V">jeäʹleʹjje</t>
       </tg>
     </mg>
   </e>
@@ -20220,7 +20202,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">čuäiʹted</t>
+        <t Contlex="V_" pos="V">čuäʹjted</t>
       </tg>
     </mg>
   </e>
@@ -20488,7 +20470,7 @@
         <sem class="SENSE">PERCEPTION</sem>
       </semantics>
       <tg xml:lang="sms">
-        <t Contlex="V_KUÂĐˈĐJED" pos="V">kollʹjed</t>
+        <t Contlex="V_KUÂĐˈĐJED" pos="V">kollʼjed</t>
       </tg>
     </mg>
   </e>

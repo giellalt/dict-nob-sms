@@ -52,7 +52,7 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="PRON_PUK" pos="Pron">puk</t>
-        <t Contlex="PRON_" pos="Pron">jueʹǩǩkaž</t>
+        <t Contlex="PRON_" pos="Pron">juõʹǩǩkaž</t>
         <t Contlex="PRON_" pos="Pron">juâkksaž</t>
       </tg>
     </mg>
@@ -221,7 +221,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="PRON-REFL_" pos="Pron">jiiʹjjed</t>
+        <t Contlex="PRON-REFL_" pos="Pron">jiijjâd</t>
       </tg>
     </mg>
   </e>
@@ -246,8 +246,14 @@
       </stg>
     </lg>
     <mg>
+      <re>som tilhører dere</re>
       <tg xml:lang="sms">
-        <t Contlex="PRON-REFL_" pos="Pron">jiiʹjjed</t>
+        <t Contlex="PRON-REFL_" pos="Pron">jiijjâd</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>som tilhører dem</re>
+      <tg xml:lang="sms">
         <t Contlex="PRON-REFL_" pos="Pron">jiiʹjjez</t>
       </tg>
     </mg>
@@ -260,8 +266,14 @@
       </stg>
     </lg>
     <mg>
+      <re>som tilhører dere</re>
       <tg xml:lang="sms">
-        <t Contlex="PRON-REFL_" pos="Pron">jiiʹjjed</t>
+        <t Contlex="PRON-REFL_" pos="Pron">jiijjâd</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>som tilhører dem</re>
+      <tg xml:lang="sms">
         <t Contlex="PRON-REFL_" pos="Pron">jiiʹjjez</t>
       </tg>
     </mg>
@@ -276,7 +288,6 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="PRON-REFL_" pos="Pron">jiijjad</t>
-        <t Contlex="PRON-REFL_" pos="Pron">jiõččad</t>
       </tg>
     </mg>
   </e>
@@ -290,7 +301,6 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="PRON-REFL_" pos="Pron">jiijjad</t>
-        <t Contlex="PRON-REFL_" pos="Pron">jiõččad</t>
       </tg>
     </mg>
   </e>
@@ -329,7 +339,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="PRON-REFL_" pos="Pron">jiõččad</t>
+        <t Contlex="PRON-REFL_" pos="Pron">jiijjad</t>
       </tg>
     </mg>
   </e>
@@ -359,7 +369,6 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="PRON-REFL_" pos="Pron">jiijjad</t>
-        <t Contlex="PRON-REFL_" pos="Pron">jiõččad</t>
       </tg>
     </mg>
   </e>
@@ -704,7 +713,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="PRON_" pos="Pron">jueʹǩǩkaž</t>
+        <t Contlex="PRON_" pos="Pron">juõʹǩǩkaž</t>
         <t Contlex="PRON_" pos="Pron">juâkksaž</t>
       </tg>
     </mg>
@@ -924,7 +933,6 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="PRON-REFL_" pos="Pron">jiõčč</t>
-        <t Contlex="PRON-REFL-SG-NOM_" pos="Pron">jičč</t>
       </tg>
     </mg>
   </e>

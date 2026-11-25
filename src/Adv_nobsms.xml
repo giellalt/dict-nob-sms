@@ -2458,7 +2458,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="ADV_" pos="Adv">uuʹrčpeälla</t>
+        <t Contlex="ADV_" pos="Adv">uurčpeälla</t>
       </tg>
     </mg>
   </e>
@@ -2684,7 +2684,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="ADV_" pos="Adv">tåʹlǩ</t>
+        <t Contlex="ADV_" pos="Adv">tååʹlǩ</t>
       </tg>
     </mg>
   </e>
@@ -3043,7 +3043,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="ADV_" pos="Adv">uuʹrčpeälla</t>
+        <t Contlex="ADV_" pos="Adv">uurčpeälla</t>
       </tg>
     </mg>
   </e>
@@ -3099,7 +3099,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="ADV_" pos="Adv">pâʹelviõgg</t>
+        <t Contlex="ADV_" pos="Adv">pâiʹlviõǥǥ</t>
       </tg>
     </mg>
   </e>
@@ -3926,19 +3926,6 @@
   </e>
   <e>
     <lg>
-      <l pos="Adv">om lang</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="ADV_" pos="Adv">nuʹt</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="Adv">om morgenen</l>
       <stg>
         <st/>
@@ -4053,7 +4040,7 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="ADV_" pos="Adv">-meʹt</t>
-        <t Contlex="ADV_" pos="Adv">nuʹt</t>
+        <t Contlex="ADV_" pos="Adv">nuʹtt</t>
         <t Contlex="ADV_" pos="Adv">timâʹmmet</t>
       </tg>
     </mg>
@@ -4080,7 +4067,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="ADV_" pos="Adv">pâʹespõõdi</t>
+        <t Contlex="ADV_" pos="Adv">pâjspõõđi</t>
       </tg>
     </mg>
   </e>
@@ -4991,7 +4978,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="ADV_" pos="Adv">nuʹt</t>
+        <t Contlex="ADV_" pos="Adv">nuʹtt</t>
         <t Contlex="ADV_" pos="Adv">nääiʹt</t>
       </tg>
     </mg>
@@ -5838,7 +5825,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="ADV_" pos="Adv">pâʹelviõgg</t>
+        <t Contlex="ADV_" pos="Adv">pâiʹlviõǥǥ</t>
       </tg>
     </mg>
   </e>

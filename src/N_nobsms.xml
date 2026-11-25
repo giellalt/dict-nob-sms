@@ -330,7 +330,7 @@
         <sem class="BODY"/>
       </semantics>
       <tg xml:lang="sms">
-        <t Contlex="N_PÕRTT" pos="N">allergg</t>
+        <t Contlex="N_PÕRTT" pos="N">allergia</t>
       </tg>
     </mg>
   </e>
@@ -386,7 +386,7 @@
         <sem class="HUMAN">PEOPLE</sem>
       </semantics>
       <tg xml:lang="sms">
-        <t Contlex="N_" pos="N">aʹmmrik</t>
+        <t Contlex="N_" pos="N">amerikklaž</t>
       </tg>
     </mg>
   </e>
@@ -985,7 +985,7 @@
       <tg xml:lang="sms">
         <t Contlex="N_JOOʹTTI" pos="N">jaaʹmmi</t>
         <t Contlex="N_KAAĐNEǨ" pos="N">pokoineǩ</t>
-        <t Contlex="N_" pos="N">pråppšai</t>
+        <t Contlex="N_" pos="N">pråppšeei</t>
       </tg>
     </mg>
   </e>
@@ -1493,7 +1493,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_ǨEʹRJJ" pos="N">baŋkkǩeʹrjj</t>
+        <t Contlex="N_ǨEʹRJJ" pos="N">baŋkk-ǩeʹrjj</t>
       </tg>
     </mg>
   </e>
@@ -2586,7 +2586,7 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="N_PÕRTT" pos="N">kolkk</t>
-        <t Contlex="N_NEÄVˈV" pos="N">rikkǩeâll</t>
+        <t Contlex="N_NEÄVˈV" pos="N">rikk-ǩeâll</t>
       </tg>
     </mg>
   </e>
@@ -3571,7 +3571,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_LÅʹDD" pos="N">viʹlljkåʹdd</t>
+        <t Contlex="N_LÅʹDD" pos="N">villjkåʹdd</t>
       </tg>
     </mg>
   </e>
@@ -4444,7 +4444,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_LÅʹDD" pos="N">sijddtuåimmkåʹdd</t>
+        <t Contlex="N_LÅʹDD" pos="N">sijddtåimmkåʹdd</t>
       </tg>
     </mg>
   </e>
@@ -4983,7 +4983,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_TOLL" pos="N">tuåimmšurr</t>
+        <t Contlex="N_TOLL" pos="N">tåimmšurr</t>
       </tg>
     </mg>
   </e>
@@ -5584,7 +5584,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_NEÄVˈV" pos="N">rikkǩeâll</t>
+        <t Contlex="N_NEÄVˈV" pos="N">rikk-ǩeâll</t>
       </tg>
     </mg>
   </e>
@@ -6932,7 +6932,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_" pos="N">meäkktâs</t>
+        <t Contlex="N_" pos="N">meäkktõs</t>
       </tg>
     </mg>
   </e>
@@ -9196,7 +9196,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_" pos="N">meer-register</t>
+        <t Contlex="N_" pos="N">meer-rekister</t>
       </tg>
     </mg>
   </e>
@@ -10545,7 +10545,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_AUTT" pos="N">soujj</t>
+        <t Contlex="N_AUTT" pos="N">såujj</t>
       </tg>
     </mg>
   </e>
@@ -10926,7 +10926,7 @@
         <sem class="M_MALE"/>
       </semantics>
       <tg xml:lang="sms">
-        <t Contlex="N_VUÄʹPˈPES" pos="N">vuäʹppes</t>
+        <t Contlex="N_VUÄʹPˈPES" pos="N">vueʹppes</t>
       </tg>
     </mg>
   </e>
@@ -12135,7 +12135,7 @@
         <sem class="ENVIR">WEATHER</sem>
       </semantics>
       <tg xml:lang="sms">
-        <t Contlex="N_MUÕTT" pos="N">šuõmârmuõtt</t>
+        <t Contlex="N_MUÕTT" pos="N">čuõmârmuõtt</t>
       </tg>
     </mg>
   </e>
@@ -13016,7 +13016,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_PÄIʹǨǨ" pos="N">jäärnikpäiʹǩǩ</t>
+        <t Contlex="N_PÄIʹǨǨ" pos="N">jäärnaǩpäiʹǩǩ</t>
         <t Contlex="N_PÂÂʹJJ" pos="N">kauppsââʹjj</t>
       </tg>
     </mg>
@@ -14528,7 +14528,7 @@
         <sem class="M_FemaleMale"/>
       </semantics>
       <tg xml:lang="sms">
-        <t Contlex="N_TUÕĐŠTEEI" pos="N">vueiʹvvtuåimteei</t>
+        <t Contlex="N_TUÕĐŠTEEI" pos="N">vueiʹvvtååimteei</t>
       </tg>
     </mg>
   </e>
@@ -18479,7 +18479,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_LÅʹDD" pos="N">tuåimmkåʹdd</t>
+        <t Contlex="N_LÅʹDD" pos="N">tåimmkåʹdd</t>
         <t Contlex="N_LÅʹDD" pos="N">välljkåʹdd</t>
       </tg>
     </mg>
@@ -19571,14 +19571,14 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kulltang</l>
+      <l pos="N" nr="PlT">kulltenger</l>
       <stg>
         <st/>
       </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_KÄʹLBB" pos="N">illceʹpc</t>
+        <t Contlex="N_KÄʹLBB-PL" pos="N">illceeʹpc</t>
       </tg>
     </mg>
   </e>
@@ -19787,7 +19787,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_" pos="N">kaʹdreʹl</t>
+        <t Contlex="N_" pos="N">kaʹdrel</t>
       </tg>
     </mg>
   </e>
@@ -19800,7 +19800,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_KAAĐNEǨ" pos="N">kaʹdreʹlneǩ</t>
+        <t Contlex="N_KAAĐNEǨ" pos="N">kaʹdrelneǩ</t>
       </tg>
     </mg>
   </e>
@@ -22459,7 +22459,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_" pos="N">bohat</t>
+        <t Contlex="N_" pos="N">bohatt</t>
       </tg>
     </mg>
   </e>
@@ -23106,7 +23106,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_KAAĐNEǨ" pos="N">tuåimmkåʹddneǩ</t>
+        <t Contlex="N_KAAĐNEǨ" pos="N">tåimmkåʹddneǩ</t>
       </tg>
     </mg>
   </e>
@@ -23119,7 +23119,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_TÄʹHTT" pos="N">sieʹbrmäʹhss</t>
+        <t Contlex="N_TÄʹHTT" pos="N">sieʹbrmähss</t>
       </tg>
     </mg>
   </e>
@@ -23262,7 +23262,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_" pos="N">luâʹmm</t>
+        <t Contlex="N_" pos="N">lueʹmm</t>
         <t Contlex="N_TOLL" pos="N">lõnnj</t>
       </tg>
     </mg>
@@ -23607,45 +23607,6 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="N_KÄʹLBB" pos="N">täʹbdd</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">min far (i joik)</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="N_" pos="N">šââddažam</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">min lykke (i joik)</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="N_" pos="N">vuäzzažam</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">min mor (i joik)</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="N_" pos="N">njeeǯǯažam</t>
       </tg>
     </mg>
   </e>
@@ -32595,7 +32556,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_KAAMMI" pos="N">laustõkkaammi</t>
+        <t Contlex="N_KAAMMI" pos="N">laustõk-kaammi</t>
       </tg>
     </mg>
   </e>
@@ -32901,7 +32862,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_LÅʹDD" pos="N">sääʹmtuåimmkåʹdd</t>
+        <t Contlex="N_LÅʹDD" pos="N">sääʹmtåimmkåʹdd</t>
       </tg>
     </mg>
   </e>
@@ -35391,7 +35352,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_" pos="N">luâʹmm</t>
+        <t Contlex="N_" pos="N">lueʹmm</t>
       </tg>
     </mg>
   </e>
@@ -36382,7 +36343,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_" pos="N">bohat</t>
+        <t Contlex="N_" pos="N">bohatt</t>
       </tg>
     </mg>
   </e>
@@ -37184,7 +37145,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="N_" pos="N">njoorg</t>
+        <t Contlex="N_" pos="N">njoorǥ</t>
       </tg>
     </mg>
   </e>
@@ -38941,7 +38902,7 @@
         <sem class="TIME">CYCLE</sem>
       </semantics>
       <tg xml:lang="sms">
-        <t Contlex="N_PÕRTT" pos="N">mââiʹbargg</t>
+        <t Contlex="N_PÕRTT" pos="N">mââibargg</t>
       </tg>
     </mg>
   </e>
@@ -41724,7 +41685,7 @@
         <sem class="M_MALE"/>
       </semantics>
       <tg xml:lang="sms">
-        <t Contlex="N_VUÄʹPˈPES" pos="N">vuäʹppes</t>
+        <t Contlex="N_VUÄʹPˈPES" pos="N">vueʹppes</t>
       </tg>
     </mg>
   </e>

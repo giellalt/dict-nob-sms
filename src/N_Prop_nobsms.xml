@@ -1176,7 +1176,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="PROP_" pos="N">Sääʹmaaʹšši kueʹddʼtemõutstõs</t>
+        <t Contlex="PROP_" pos="N">Sääʹmaaʹšši kueʹddtemõutstõs</t>
       </tg>
     </mg>
   </e>
@@ -1406,7 +1406,7 @@
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="PROP_PEIʹVV" pos="N">Kuʹǩesseiʹbb</t>
+        <t Contlex="PROP_PEIʹVV" pos="N">Kuʹǩes-seiʹbb</t>
       </tg>
     </mg>
   </e>
