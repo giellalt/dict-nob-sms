@@ -4234,6 +4234,15 @@
         <t Contlex="V_SILTTEED" pos="V">loojjeed</t>
       </tg>
     </mg>
+    <mg>
+      <re>ha diare</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_PÅÅSSAD" pos="V">looččad</t>
+      </tg>
+      <tg xml:lang="sms">
+        <t Contlex="V_VUEJTED" pos="V">loojjted</t>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg>
@@ -10915,17 +10924,18 @@
         <t Contlex="N_NEÄVˈV" pos="N">heärr</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">herre</l>
-    </lg>
     <mg>
       <semantics>
         <sem class="HUMAN">PEOPLE</sem>
       </semantics>
       <tg xml:lang="sms">
         <t Contlex="N_TOLL" pos="N">šurr</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>leve som en herre</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_RÕVVÂD" pos="V">heärsmõddâd</t>
       </tg>
     </mg>
   </e>
@@ -26894,6 +26904,12 @@
         <t Contlex="N_KÄʹLBB" pos="N">tåʹsǩǩ</t>
       </tg>
     </mg>
+    <mg>
+      <re>ha smerter</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">muõkkšõõvvâd</t>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg>
@@ -32615,6 +32631,12 @@
       <tg xml:lang="sms">
         <t Contlex="N_SÄÄʹMM" pos="N">nääʹll</t>
         <t Contlex="N_PLAAN" pos="N">oodd</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>ha for vane</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">voʹddõõttâd</t>
       </tg>
     </mg>
   </e>

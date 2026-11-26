@@ -3137,6 +3137,12 @@
         <t Contlex="A_" pos="A">läähh</t>
       </tg>
     </mg>
+    <mg>
+      <re>forårsake morkning</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_SOLLÂʹTTED" pos="V">läähhlâʹtted</t>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg>
@@ -5501,6 +5507,15 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="A-ATTR_" pos="A">ǩiõrddlõs</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>ha tålmodighet</re>
+      <semantics>
+        <sem class="SENSE">EMOTION</sem>
+      </semantics>
+      <tg xml:lang="sms">
+        <t Contlex="IV_VIIKKÂD" pos="V">maaššâd</t>
       </tg>
     </mg>
   </e>
