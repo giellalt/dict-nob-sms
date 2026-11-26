@@ -2222,6 +2222,12 @@
         <t Contlex="A_" pos="A">čuâʹss</t>
       </tg>
     </mg>
+    <mg>
+      <re>kjølne, bli kald</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_KUÄSTTAD" pos="V">čuäckkad</t>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg>
@@ -6793,6 +6799,17 @@
       </tg>
       <tg xml:lang="sms">
         <t Contlex="V_VÕʹLLʼJED" pos="V">feʹrttjed</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">edru</l>
+    </lg>
+    <mg>
+      <re>bli edru</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_KUÕSKKÂD" pos="V">čiõlggâd</t>
       </tg>
     </mg>
   </e>

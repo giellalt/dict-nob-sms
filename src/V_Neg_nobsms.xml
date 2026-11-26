@@ -83,4 +83,44 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="V">la han ikke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sms">
+        <t Contlex="V_" pos="V">jeälas</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">la oss ikke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sms">
+        <t Contlex="V_" pos="V">jeällap</t>
+      </tg>
+    </mg>
+  </e>
+  <!--e>
+    <lg>
+      <l pos="V">nekteord (1.person, entall)</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sms">
+        <t Contlex="V_" pos="V">jiõm</t>
+      </tg>
+    </mg>
+  </e-->
+  <!--e>
+    <lg>
+      <l pos="V">ikke (2.person, flertall)</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sms">
+        <t Contlex="V_" pos="V">jeäʹped</t>
+      </tg>
+    </mg>
+  </e-->
 </r>

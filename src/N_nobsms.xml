@@ -2214,6 +2214,13 @@
         <t Contlex="N_ZEEʹTT" pos="N">žeeʹst</t>
       </tg>
     </mg>
+    <mg>
+      <re>kaste et blikk på</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_ǨEEʹRJTED" pos="V">veeʹlpted</t>
+        <t Contlex="V_" pos="V">ǩiʹcsted</t>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg>
@@ -16179,6 +16186,22 @@
         <t Contlex="N_TÄÄVTÕS" pos="N">čâustõk</t>
       </tg>
     </mg>
+    <mg>
+      <re>jage med lasso</re>
+      <semantics>
+        <sem class="WORK"/>
+        <sem class="ZOO"/>
+      </semantics>
+      <tg xml:lang="sms">
+        <t Contlex="V_ŠORRNED" pos="V">njuärsted</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>stilling der man bærer lassoen slik at den går over den ene skulderen og under den andre</re>
+      <tg xml:lang="sms">
+        <t Contlex="N_" pos="N">vuälggat</t>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg>
@@ -20222,6 +20245,12 @@
         <t Contlex="N_KUEʹSˈS" pos="N">nueʹtt</t>
       </tg>
     </mg>
+    <mg>
+      <re>kaste not</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_HEÂRRAD" pos="V">suâppad</t>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg>
@@ -23719,6 +23748,12 @@
       </semantics>
       <tg xml:lang="sms">
         <t Contlex="N_PẸSS" pos="N">repp</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>imitere rypelyder</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_ŠORRNED" pos="V">njäuggted</t>
       </tg>
     </mg>
   </e>
@@ -28457,16 +28492,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N">stilling der man bærer lassoen slik at den går over den ene skulderen og under den andre</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="N_" pos="N">vuälggat</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">stim</l>
     </lg>
     <mg>
@@ -30337,6 +30362,12 @@
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">percc</t>
         <t Contlex="N_KUʹRČČ" pos="N">ǩiõppkuʹrčč</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>kaste terning</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_SÄRNNAD" pos="V">šärbbad</t>
       </tg>
     </mg>
   </e>

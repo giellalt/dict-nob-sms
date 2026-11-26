@@ -6807,16 +6807,6 @@
       </tg>
     </mg>
   </e>
-  <!--e>
-    <lg>
-      <l pos="V">ikke (2.person, flertall)</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">jeäʹped</t>
-      </tg>
-    </mg>
-  </e-->
   <e>
     <lg>
       <l pos="V">imitere</l>
@@ -6826,12 +6816,8 @@
         <t Contlex="V_" pos="V">jiõuǯǯâd</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">imitere rypelyder</l>
-    </lg>
     <mg>
+      <re>imitere rypelyder</re>
       <tg xml:lang="sms">
         <t Contlex="V_ŠORRNED" pos="V">njäuggted</t>
       </tg>
@@ -6939,22 +6925,14 @@
         <t Contlex="V_" pos="V">vueiʹted</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">jage bort</l>
-    </lg>
     <mg>
+      <re>jage bort</re>
       <tg xml:lang="sms">
         <t Contlex="V_TOBDDÂD" pos="V">karbbâd</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">jage med lasso</l>
-    </lg>
     <mg>
+      <re>jage med lasso</re>
       <semantics>
         <sem class="WORK"/>
         <sem class="ZOO"/>
@@ -6987,7 +6965,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">jakte, fange, fiske</l>
+      <l pos="V">jakte</l>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6997,9 +6975,31 @@
   </e>
   <e>
     <lg>
-      <l pos="V">jevne (ut)</l>
+      <l pos="V">fange</l>
     </lg>
     <mg>
+      <re>jakte, fiske</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_JÅÅʹTTED" pos="V">šeeʹlled</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">fiske</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sms">
+        <t Contlex="V_JÅÅʹTTED" pos="V">šeeʹlled</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">jevne</l>
+    </lg>
+    <mg>
+      <re>jevne, jevne ut</re>
       <tg xml:lang="sms">
         <t Contlex="V_VÕʹLLʼJED" pos="V">taʹssjed</t>
       </tg>
@@ -7045,9 +7045,10 @@
   </e>
   <e>
     <lg>
-      <l pos="V">kante (klær)</l>
+      <l pos="V">kante</l>
     </lg>
     <mg>
+      <re>kante klær</re>
       <tg xml:lang="sms">
         <t Contlex="V_SUÅPPÂD" pos="V">tiânnâd</t>
       </tg>
@@ -7065,21 +7066,11 @@
         <t Contlex="V_" pos="V">laʹǧǧsted</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kaste</l>
-    </lg>
     <mg>
       <tg xml:lang="sms">
         <t Contlex="V_" pos="V">liuǥsted</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kaste</l>
-    </lg>
     <mg>
       <semantics>
         <sem class="SPACE">MOTION</sem>
@@ -7088,34 +7079,20 @@
         <t Contlex="V_TEEʹMEED" pos="V">vueʹlǧǧeed</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kaste</l>
-    </lg>
     <mg>
       <re>raskt</re>
       <tg xml:lang="sms">
         <t Contlex="V_VÕʹLLʼJED" pos="V">suõʹppjed</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kaste et blikk på</l>
-    </lg>
     <mg>
+      <re>kaste seg</re>
       <tg xml:lang="sms">
-        <t Contlex="V_ǨEEʹRJTED" pos="V">veeʹlpted</t>
-        <t Contlex="V_" pos="V">ǩiʹcsted</t>
+        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">suõʹppjõõttâd</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kaste ned</l>
-    </lg>
     <mg>
+      <re>kaste ned</re>
       <semantics>
         <sem class="WORK"/>
       </semantics>
@@ -7123,14 +7100,29 @@
         <t Contlex="V_KULSTED" pos="V">ponjsted</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kaste not</l>
-    </lg>
     <mg>
+      <re>kaste et blikk på</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_ǨEEʹRJTED" pos="V">veeʹlpted</t>
+        <t Contlex="V_" pos="V">ǩiʹcsted</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>kaste not</re>
       <tg xml:lang="sms">
         <t Contlex="V_HEÂRRAD" pos="V">suâppad</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>kaste terning</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_SÄRNNAD" pos="V">šärbbad</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>kaste vann på badstuovnen</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_KUÄSTTAD" pos="V">leäškkad</t>
       </tg>
     </mg>
   </e>
@@ -7145,37 +7137,6 @@
       </semantics>
       <tg xml:lang="sms">
         <t Contlex="V_VUEʹHSSED" pos="V">vueʹhssed</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kaste seg</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">suõʹppjõõttâd</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kaste terning</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="V_SÄRNNAD" pos="V">šärbbad</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kaste vann</l>
-    </lg>
-    <mg>
-      <re>på badstuovnen</re>
-      <tg xml:lang="sms">
-        <t Contlex="V_KUÄSTTAD" pos="V">leäškkad</t>
       </tg>
     </mg>
   </e>
@@ -7237,32 +7198,18 @@
   </e>
   <e>
     <lg>
-      <l pos="V">kjølne, bli kald</l>
+      <l pos="V">kjølne</l>
     </lg>
     <mg>
+      <re>bli kald</re>
       <tg xml:lang="sms">
         <t Contlex="V_KUÄSTTAD" pos="V">čuäckkad</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kjølne, bli kjøligere</l>
-    </lg>
     <mg>
-      <re>om vær</re>
+      <re>om vær: bli kjøligere</re>
       <tg xml:lang="sms">
         <t Contlex="V_REÄKKAD" pos="V">čuässad</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kjøpe</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="V_TEEʹMEED" pos="V">haʹŋǩǩeed</t>
       </tg>
     </mg>
   </e>
@@ -7279,6 +7226,12 @@
         <t Contlex="V_CEÄʹLǨǨED" pos="V">vuäʹstted</t>
       </tg>
     </mg>
+    <mg>
+      <re>skaffe</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_TEEʹMEED" pos="V">haʹŋǩǩeed</t>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg>
@@ -7291,38 +7244,11 @@
       </semantics>
       <tg xml:lang="sms">
         <t Contlex="V_HEÂRRAD" pos="V">vuejjad</t>
+        <t Contlex="V_HEÂRRAD" pos="V">vueʹjjed</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kjøre</l>
-    </lg>
     <mg>
-      <semantics>
-        <sem class="SPACE">MOTION</sem>
-        <sem class="WORK">ECONOMY</sem>
-      </semantics>
-      <tg xml:lang="sms">
-        <t Contlex="V_HEÂRRAD" pos="V">vuejjad</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kjøre</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="V_HEÂRRAD" pos="V">vuâjjad</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kjøre, kjøre rundt</l>
-    </lg>
-    <mg>
+      <re>kjøre rundt</re>
       <tg xml:lang="sms">
         <t Contlex="V_SOLLEED" pos="V">vuâjeed</t>
       </tg>
@@ -7330,9 +7256,22 @@
   </e>
   <e>
     <lg>
-      <l pos="V">klage, jamre</l>
+      <l pos="V">klage</l>
     </lg>
     <mg>
+      <re>klage, jamre</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_" pos="V">vaiʹǧǧred</t>
+        <t Contlex="V_ǨEEʹRJTED" pos="V">väiʹǧǧred</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">jamre</l>
+    </lg>
+    <mg>
+      <re>klage, jamre</re>
       <tg xml:lang="sms">
         <t Contlex="V_" pos="V">vaiʹǧǧred</t>
         <t Contlex="V_ǨEEʹRJTED" pos="V">väiʹǧǧred</t>
@@ -7397,39 +7336,46 @@
       <l pos="V">klarne</l>
     </lg>
     <mg>
-      <re>om været</re>
-      <tg xml:lang="sms">
-        <t Contlex="V_VÕÕIDÂD" pos="V">prooidâd</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">klarne, bli edru</l>
-    </lg>
-    <mg>
       <tg xml:lang="sms">
         <t Contlex="V_KUÕSKKÂD" pos="V">čiõlggâd</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">klarne, klare seg</l>
-    </lg>
     <mg>
       <tg xml:lang="sms">
         <t Contlex="V_" pos="V">seʹlvvned</t>
       </tg>
     </mg>
+    <mg>
+      <re>om været</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_VÕÕIDÂD" pos="V">prooidâd</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>klarne, lysne</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_ǨIÕRGGNED" pos="V">čuõvvned</t>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">klarne, lysne</l>
+      <l pos="V">lysne</l>
+    </lg>
+    <mg>
+      <re>klarne, lysne</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_ǨIÕRGGNED" pos="V">čuõvvned</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">klare seg</l>
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_ǨIÕRGGNED" pos="V">čuõvvned</t>
+        <t Contlex="V_" pos="V">seʹlvvned</t>
       </tg>
     </mg>
   </e>
@@ -7486,10 +7432,16 @@
         <t Contlex="V_LAUKKÕÕLLÂD" pos="V">teâvõõttâd</t>
       </tg>
     </mg>
+    <mg>
+      <re>kle seg fint, pynte seg</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">raakktõõttâd</t>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">kle seg fint, pynte seg</l>
+      <l pos="V">pynte seg</l>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7524,12 +7476,19 @@
         <t Contlex="V_SOLLEED" pos="V">âskkeed</t>
       </tg>
     </mg>
+    <mg>
+      <re>klemme, omfavne</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">âskkõõllâd</t>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">klemme, omfavne</l>
+      <l pos="V">omfavne</l>
     </lg>
     <mg>
+      <re>klemme, omfavne</re>
       <tg xml:lang="sms">
         <t Contlex="V_LAUKKÕÕLLÂD" pos="V">âskkõõllâd</t>
       </tg>
@@ -7540,6 +7499,7 @@
       <l pos="V">klikke</l>
     </lg>
     <mg>
+      <re>lage en klikkelyd</re>
       <tg xml:lang="sms">
         <t Contlex="V_ŠORRNED" pos="V">špeäkkted</t>
       </tg>
@@ -7569,11 +7529,6 @@
         <t Contlex="V_PÕÕLLÂD" pos="V">võõjjâd</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">klippe</l>
-    </lg>
     <mg>
       <re>sauer, tøy, hår osv.</re>
       <tg xml:lang="sms">
@@ -7837,17 +7792,14 @@
       <l pos="V">koke</l>
     </lg>
     <mg>
+      <re>intransitivt: noe koker</re>
       <tg xml:lang="sms">
         <t Contlex="V_SILTTEED" pos="V">ciireed</t>
         <t Contlex="V_KUÕSKKÂD" pos="V">tuõlddâd</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">koke</l>
-    </lg>
     <mg>
+      <re>transitivt: å koke noe</re>
       <semantics>
         <sem class="FOOD">DISH</sem>
       </semantics>
@@ -7855,20 +7807,22 @@
         <t Contlex="V_ǨEʹTTED" pos="V">ǩeʹtted</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">koke over</l>
-    </lg>
     <mg>
+      <re>koke over</re>
       <tg xml:lang="sms">
         <t Contlex="V_PÅǤSTED" pos="V">äbsted</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>kokkelere</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_VIIKKÂD" pos="V">pävvrõõššâd</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">koke, kokkelere</l>
+      <l pos="V">kokkelere</l>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7933,9 +7887,10 @@
   </e>
   <e>
     <lg>
-      <l pos="V">komme med trusler</l>
+      <l pos="V">true</l>
     </lg>
     <mg>
+      <re>komme med trusler</re>
       <tg xml:lang="sms">
         <t Contlex="V_LAUKKÕÕLLÂD" pos="V">akkõõllâd</t>
       </tg>
@@ -7943,9 +7898,10 @@
   </e>
   <e>
     <lg>
-      <l pos="V">komme sammen</l>
+      <l pos="V">samles</l>
     </lg>
     <mg>
+      <re>komme sammen</re>
       <tg xml:lang="sms">
         <t Contlex="IV_LAUKKÕÕLLÂD" pos="V">norrõõttâd</t>
       </tg>
@@ -7980,11 +7936,6 @@
         <t Contlex="V_LAUKKÕÕLLÂD" pos="V">ǩeâštʼtõõllâd</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">konkurrere</l>
-    </lg>
     <mg>
       <re>prøve å komme forbi</re>
       <tg xml:lang="sms">
@@ -8065,7 +8016,17 @@
   </e>
   <e>
     <lg>
-      <l pos="V">krype, kravle</l>
+      <l pos="V">krype</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sms">
+        <t Contlex="V_PIẸʹǨǨED" pos="V">pieʹǩǩed</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">kravle</l>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -8078,16 +8039,7 @@
       <l pos="V">kunne</l>
     </lg>
     <mg>
-      <tg xml:lang="sms">
-        <t Contlex="V_SOLLÂʹTTED" pos="V">mäʹtted</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kunne</l>
-    </lg>
-    <mg>
+      <re>ha evne eller kunnskap til</re> 
       <semantics>
         <sem class="WORK"/>
       </semantics>
@@ -8095,17 +8047,18 @@
         <t Contlex="V_SILTTEED" pos="V">siltteed</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kunne</l>
-    </lg>
     <mg>
+      <re>ha anledning til</re>
       <semantics>
         <sem class="WORK"/>
       </semantics>
       <tg xml:lang="sms">
         <t Contlex="V_VUEIʹNNED" pos="V">vueiʹtted</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="sms">
+        <t Contlex="V_SOLLÂʹTTED" pos="V">mäʹtted</t>
       </tg>
     </mg>
   </e>
@@ -8236,26 +8189,6 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="V_ŠORRNED" pos="V">kuäivted</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">la han ikke</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">jeälas</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">la oss ikke</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">jeällap</t>
       </tg>
     </mg>
   </e>
@@ -9573,16 +9506,7 @@
       </tg>
     </mg>
   </e>
-  <!--e>
-    <lg>
-      <l pos="V">nekteord (1.person, entall)</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="V_" pos="V">jiõm</t>
-      </tg>
-    </mg>
-  </e-->
+  
   <e>
     <lg>
       <l pos="V">nevne</l>
