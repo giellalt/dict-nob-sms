@@ -573,7 +573,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">dekket</l>
+      <l pos="A">dekket</l>
       <stg>
         <st/>
       </stg>
@@ -8089,6 +8089,377 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="A_" pos="A">pââiʹbuž</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">bekymret</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være bekymret</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_CEʹPCCED" pos="V">peʹcclâʹstted</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">lei</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være lei</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_CEʹPCCED" pos="V">peʹcclâʹstted</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">sorgfull</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være sorgfull</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_CEʹPCCED" pos="V">peʹcclâʹstted</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">blyg</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være blyg</re>
+      <semantics>
+        <sem class="SENSE">EMOTION</sem>
+      </semantics>
+      <tg xml:lang="sms">
+        <t Contlex="V_LÄULLAD" pos="V">käinnad</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">gjenstridig</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være gjenstridig</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_AGSTED" pos="V">agsted</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">grådig</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være grådig</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_MAINSTED" pos="V">aahnted</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">hørbar</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være hørbar</re>
+      <semantics>
+        <sem class="SENSE">PERCEPTION</sem>
+      </semantics>
+      <tg xml:lang="sms">
+        <t Contlex="V_KUÂĐˈĐJED" pos="V">kollʼjed</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">travel</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være i travel virksomhet</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_VIIKKÂD" pos="V">pävvrõõššâd</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">lat</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være lat</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_KUÂĐˈĐJED" pos="V">bläävjed</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">ledig</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være ledig</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_AIBBÂD" pos="V">jouddâd</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">mutt</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være mutt</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_TEEVVAD" pos="V">nääđđad</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">nedrig</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være nedrig</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">cennõõllâd</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">nervøs</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være nervøs</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_" pos="V">veäʹlšted</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">urolig</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være urolig</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_" pos="V">veäʹlšted</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">redd</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være redd for noe</re>
+      <semantics>
+        <sem class="SENSE">EMOTION</sem>
+      </semantics>
+      <tg xml:lang="sms">
+        <t Contlex="V_PÕÕLLÂD" pos="V">põõllâd</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>være redd for noe</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_AALǤTED" pos="V">põõlted</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">sint</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være sint</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_PÅÅSSAD" pos="V">ââssad</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">sjalu</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være sjalu</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_PÕÕLLÂD" pos="V">loollâd</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">sjuk</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være sjuk</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_ČIÕKKÂD" pos="V">puõccâd</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">smertefull</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være smertefull</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_JUEʹǨǨED" pos="V">čueʹcced</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">sulten</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være sulten</re>
+      <semantics>
+        <sem class="FOOD"/>
+      </semantics>
+      <tg xml:lang="sms">
+        <t Contlex="IV_KUÄSTTAD" pos="V">neälggad</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">syk</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være syk</re>
+      <semantics>
+        <sem class="BODY">HEALTH</sem>
+      </semantics>
+      <tg xml:lang="sms">
+        <t Contlex="V_JUEʹǨǨED" pos="V">čueʹcced</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">synlig</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være synlig</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_KUÂĐˈĐJED" pos="V">kuâsttjed</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">tørst</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være tørst</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_SOLLÂʹTTED" pos="V">juǥstâʹtted</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">varm</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være varm, ikke fryse</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_PÕÕLLÂD" pos="V">piivvâd</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">ørkesløs</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>være ørkesløs</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_KUÂĐˈĐJED" pos="V">bläävjed</t>
       </tg>
     </mg>
   </e>
