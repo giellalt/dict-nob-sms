@@ -16,9 +16,6 @@
   <e>
     <lg>
       <l pos="A">allmektig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -30,9 +27,6 @@
   <e>
     <lg>
       <l pos="A">allslags</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -43,9 +37,6 @@
   <e>
     <lg>
       <l pos="A">alvorlig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -56,9 +47,6 @@
   <e>
     <lg>
       <l pos="A">annerledes</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -70,9 +58,6 @@
   <e>
     <lg>
       <l pos="A">arbeidsløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -84,9 +69,6 @@
   <e>
     <lg>
       <l pos="A">av størrelse</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -97,9 +79,6 @@
   <e>
     <lg>
       <l pos="A">avsides</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -110,9 +89,6 @@
   <e>
     <lg>
       <l pos="A">bakerst(e)</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -123,9 +99,6 @@
   <e>
     <lg>
       <l pos="A">bar</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -137,9 +110,6 @@
   <e>
     <lg>
       <l pos="Adv">bare</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -153,9 +123,6 @@
   <e>
     <lg>
       <l pos="A">barmhjertig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -166,9 +133,6 @@
   <e>
     <lg>
       <l pos="A">barmhjertig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -179,9 +143,6 @@
   <e>
     <lg>
       <l pos="A">barnløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -193,9 +154,6 @@
   <e>
     <lg>
       <l pos="A">bedre</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -206,9 +164,6 @@
   <e>
     <lg>
       <l pos="A">beleilig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -220,9 +175,6 @@
   <e>
     <lg>
       <l pos="A">beredvillig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -233,9 +185,6 @@
   <e>
     <lg>
       <l pos="A">besk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -246,9 +195,6 @@
   <e>
     <lg>
       <l pos="A">best</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -259,9 +205,6 @@
   <e>
     <lg>
       <l pos="A">billig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -272,9 +215,6 @@
   <e>
     <lg>
       <l pos="A">bitter</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -294,9 +234,6 @@
   <e>
     <lg>
       <l pos="A">blandet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -307,9 +244,6 @@
   <e>
     <lg>
       <l pos="A">blind</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -320,9 +254,6 @@
   <e>
     <lg>
       <l pos="A">blokkrik</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -333,9 +264,6 @@
   <e>
     <lg>
       <l pos="A">blyg</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -346,9 +274,6 @@
   <e>
     <lg>
       <l pos="A">blå</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -368,9 +293,6 @@
   <e>
     <lg>
       <l pos="A">blåsende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -381,9 +303,6 @@
   <e>
     <lg>
       <l pos="A">blæret</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -394,9 +313,6 @@
   <e>
     <lg>
       <l pos="A">bløt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om fisk</re>
@@ -408,9 +324,6 @@
   <e>
     <lg>
       <l pos="A">bra</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -426,9 +339,6 @@
   <e>
     <lg>
       <l pos="A">bred</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -439,9 +349,6 @@
   <e>
     <lg>
       <l pos="A">bred</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>for eksempel: en meter bred</re>
@@ -453,9 +360,6 @@
   <e>
     <lg>
       <l pos="A">brukbar</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -466,9 +370,6 @@
   <e>
     <lg>
       <l pos="A">brun</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -483,9 +384,6 @@
   <e>
     <lg>
       <l pos="A">brysom</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -496,9 +394,6 @@
   <e>
     <lg>
       <l pos="A">buktet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -509,9 +404,6 @@
   <e>
     <lg>
       <l pos="A">bulket(e)</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -522,9 +414,6 @@
   <e>
     <lg>
       <l pos="A">bøyelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -535,9 +424,6 @@
   <e>
     <lg>
       <l pos="A">dagens</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -548,9 +434,6 @@
   <e>
     <lg>
       <l pos="A">daglig-</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -561,9 +444,6 @@
   <e>
     <lg>
       <l pos="A">dagligdags-</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -574,9 +454,6 @@
   <e>
     <lg>
       <l pos="A">dekket</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -591,9 +468,6 @@
   <e>
     <lg>
       <l pos="A">den siste</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -604,9 +478,6 @@
   <e>
     <lg>
       <l pos="A">driftig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -617,9 +488,6 @@
   <e>
     <lg>
       <l pos="A">dum</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -630,9 +498,6 @@
   <e>
     <lg>
       <l pos="A">dyktig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -647,9 +512,6 @@
   <e>
     <lg>
       <l pos="A">dynamisk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -660,9 +522,6 @@
   <e>
     <lg>
       <l pos="A">dyp</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -673,9 +532,6 @@
   <e>
     <lg>
       <l pos="A">dyrbar</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om edelstein</re>
@@ -687,9 +543,6 @@
   <e>
     <lg>
       <l pos="A">dyster</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -700,9 +553,6 @@
   <e>
     <lg>
       <l pos="A">dyster, mørk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om skogen</re>
@@ -714,9 +564,6 @@
   <e>
     <lg>
       <l pos="A">dårlig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -735,9 +582,6 @@
   <e>
     <lg>
       <l pos="A">dårlig strammet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -748,9 +592,6 @@
   <e>
     <lg>
       <l pos="A">dårligere</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -761,9 +602,6 @@
   <e>
     <lg>
       <l pos="A">døv</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -774,9 +612,6 @@
   <e>
     <lg>
       <l pos="A">edel</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -787,9 +622,6 @@
   <e>
     <lg>
       <l pos="A">egnet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -800,9 +632,6 @@
   <e>
     <lg>
       <l pos="A">elendig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -814,9 +643,6 @@
   <e>
     <lg>
       <l pos="A">elleveåring</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -827,9 +653,6 @@
   <e>
     <lg>
       <l pos="A">elskende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -840,9 +663,6 @@
   <e>
     <lg>
       <l pos="A">en med velsmurt tunge</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -853,9 +673,6 @@
   <e>
     <lg>
       <l pos="A">en som fort blir sliten</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -866,9 +683,6 @@
   <e>
     <lg>
       <l pos="A">en som går</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -879,9 +693,6 @@
   <e>
     <lg>
       <l pos="A">en som har ingen eller bare noen få rein</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -893,9 +704,6 @@
   <e>
     <lg>
       <l pos="A">en som ikke kan språket</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -907,9 +715,6 @@
   <e>
     <lg>
       <l pos="A">endeløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -920,9 +725,6 @@
   <e>
     <lg>
       <l pos="A">engstelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -934,9 +736,6 @@
   <e>
     <lg>
       <l pos="A">enkel</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -949,9 +748,6 @@
   <e>
     <lg>
       <l pos="A">ensom</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -963,9 +759,6 @@
   <e>
     <lg>
       <l pos="A">ett puds</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -976,9 +769,6 @@
   <e>
     <lg>
       <l pos="A">ettåring</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -989,9 +779,6 @@
   <e>
     <lg>
       <l pos="A">evig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1003,9 +790,6 @@
   <e>
     <lg>
       <l pos="A">falmet(e)</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1016,9 +800,6 @@
   <e>
     <lg>
       <l pos="A">falsk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1029,9 +810,6 @@
   <e>
     <lg>
       <l pos="A">farlig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1042,9 +820,6 @@
   <e>
     <lg>
       <l pos="A">farløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1055,9 +830,6 @@
   <e>
     <lg>
       <l pos="A">fast</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1068,9 +840,6 @@
   <e>
     <lg>
       <l pos="A">fattig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1081,9 +850,6 @@
   <e>
     <lg>
       <l pos="A">feil</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1094,9 +860,6 @@
   <e>
     <lg>
       <l pos="A">felles</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1107,9 +870,6 @@
   <e>
     <lg>
       <l pos="A">femåring</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1120,9 +880,6 @@
   <e>
     <lg>
       <l pos="A">ferdig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -1137,9 +894,6 @@
   <e>
     <lg>
       <l pos="A">fersk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1150,9 +904,6 @@
   <e>
     <lg>
       <l pos="A">fersk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om brød</re>
@@ -1164,9 +915,6 @@
   <e>
     <lg>
       <l pos="A">fet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1177,9 +925,6 @@
   <e>
     <lg>
       <l pos="A">fiende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1190,9 +935,6 @@
   <e>
     <lg>
       <l pos="A">fiskeløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om innsjø</re>
@@ -1204,9 +946,6 @@
   <e>
     <lg>
       <l pos="A">fin</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1217,9 +956,6 @@
   <e>
     <lg>
       <l pos="A">fireåring</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1230,9 +966,6 @@
   <e>
     <lg>
       <l pos="A">flat</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1244,9 +977,6 @@
   <e>
     <lg>
       <l pos="A">flau</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1257,9 +987,6 @@
   <e>
     <lg>
       <l pos="A">flittig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1271,9 +998,6 @@
   <e>
     <lg>
       <l pos="A">floket</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1284,9 +1008,6 @@
   <e>
     <lg>
       <l pos="A">flott</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1297,9 +1018,6 @@
   <e>
     <lg>
       <l pos="A">flotteste</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1310,9 +1028,6 @@
   <e>
     <lg>
       <l pos="A">for eksempel meterlang)</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1323,9 +1038,6 @@
   <e>
     <lg>
       <l pos="A">foranderlig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1336,9 +1048,6 @@
   <e>
     <lg>
       <l pos="A">forblåst</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1349,9 +1058,6 @@
   <e>
     <lg>
       <l pos="A">forhastet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1362,9 +1068,6 @@
   <e>
     <lg>
       <l pos="A">forhenværende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1375,9 +1078,6 @@
   <e>
     <lg>
       <l pos="A">fornuftig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1389,9 +1089,6 @@
   <e>
     <lg>
       <l pos="A">fornærmet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1402,9 +1099,6 @@
   <e>
     <lg>
       <l pos="A">forrige</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1417,9 +1111,6 @@
   <e>
     <lg>
       <l pos="A">forskjellig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1430,9 +1121,6 @@
   <e>
     <lg>
       <l pos="A">fremmed</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1444,9 +1132,6 @@
   <e>
     <lg>
       <l pos="A">fremst</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1458,9 +1143,6 @@
   <e>
     <lg>
       <l pos="A">fri</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1471,9 +1153,6 @@
   <e>
     <lg>
       <l pos="A">frisk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1485,9 +1164,6 @@
   <e>
     <lg>
       <l pos="A">frodig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1498,9 +1174,6 @@
   <e>
     <lg>
       <l pos="A">from</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1511,9 +1184,6 @@
   <e>
     <lg>
       <l pos="A">fryktløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1524,9 +1194,6 @@
   <e>
     <lg>
       <l pos="A">fuktig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1546,9 +1213,6 @@
   <e>
     <lg>
       <l pos="A">full</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -1562,9 +1226,6 @@
   <e>
     <lg>
       <l pos="A">fåtallig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1575,9 +1236,6 @@
   <e>
     <lg>
       <l pos="A">følsom</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1588,9 +1246,6 @@
   <e>
     <lg>
       <l pos="A">følsom mot kulde</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1601,9 +1256,6 @@
   <e>
     <lg>
       <l pos="A">først</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1615,9 +1267,6 @@
   <e>
     <lg>
       <l pos="A">første</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1628,9 +1277,6 @@
   <e>
     <lg>
       <l pos="A">gal</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1643,9 +1289,6 @@
   <e>
     <lg>
       <l pos="A">gammel</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -1668,9 +1311,6 @@
   <e>
     <lg>
       <l pos="A">gammel</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om menneske</re>
@@ -1682,9 +1322,6 @@
   <e>
     <lg>
       <l pos="A">gammeldags</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1695,9 +1332,6 @@
   <e>
     <lg>
       <l pos="A">giftig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1708,9 +1342,6 @@
   <e>
     <lg>
       <l pos="A">gjenstridig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1721,9 +1352,6 @@
   <e>
     <lg>
       <l pos="A">gjerrig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1735,9 +1363,6 @@
   <e>
     <lg>
       <l pos="A">glad</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1748,9 +1373,6 @@
   <e>
     <lg>
       <l pos="A">glatt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -1772,9 +1394,6 @@
   <e>
     <lg>
       <l pos="A">glissen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om garn</re>
@@ -1786,9 +1405,6 @@
   <e>
     <lg>
       <l pos="A">god</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -1813,9 +1429,6 @@
   <e>
     <lg>
       <l pos="A">godmodig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1826,9 +1439,6 @@
   <e>
     <lg>
       <l pos="A">gratis</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1839,9 +1449,6 @@
   <e>
     <lg>
       <l pos="A">greinet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1852,9 +1459,6 @@
   <e>
     <lg>
       <l pos="A">greinløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1865,9 +1469,6 @@
   <e>
     <lg>
       <l pos="A">griset</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1878,9 +1479,6 @@
   <e>
     <lg>
       <l pos="A">grov</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1891,9 +1489,6 @@
   <e>
     <lg>
       <l pos="A">grovere</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1904,9 +1499,6 @@
   <e>
     <lg>
       <l pos="A">grunne</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1917,9 +1509,6 @@
   <e>
     <lg>
       <l pos="A">grunn</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1931,9 +1520,6 @@
   <e>
     <lg>
       <l pos="A">grå</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1944,9 +1530,6 @@
   <e>
     <lg>
       <l pos="A">grådig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1958,9 +1541,6 @@
   <!--e>
     <lg>
       <l pos="A">grønn</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -1983,9 +1563,6 @@
   <e>
     <lg>
       <l pos="A">grønn</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om material, gjenstand</re>
@@ -2003,9 +1580,6 @@
   <e>
     <lg>
       <l pos="A">guddommelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2016,9 +1590,6 @@
   <e>
     <lg>
       <l pos="A">gudløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2029,9 +1600,6 @@
   <e>
     <lg>
       <l pos="A">gul</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -2045,9 +1613,6 @@
   <e>
     <lg>
       <l pos="A">gyngende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2058,9 +1623,6 @@
   <e>
     <lg>
       <l pos="A">gårsdag</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2071,9 +1633,6 @@
   <e>
     <lg>
       <l pos="A">gårsdagens</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2084,9 +1643,6 @@
   <e>
     <lg>
       <l pos="A">haleløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2098,9 +1654,6 @@
   <e>
     <lg>
       <l pos="A">hard</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -2119,9 +1672,6 @@
   <e>
     <lg>
       <l pos="A">hard</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om bunn</re>
@@ -2133,9 +1683,6 @@
   <e>
     <lg>
       <l pos="A">harpiksholdig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2146,9 +1693,6 @@
   <e>
     <lg>
       <l pos="A">harsk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2159,9 +1703,6 @@
   <e>
     <lg>
       <l pos="A">hedensk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2173,9 +1714,6 @@
   <e>
     <lg>
       <l pos="A">hederlig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2187,9 +1725,6 @@
   <e>
     <lg>
       <l pos="A">hedning</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2202,9 +1737,6 @@
   <e>
     <lg>
       <l pos="A">heftig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2215,9 +1747,6 @@
   <e>
     <lg>
       <l pos="A">heit</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2228,9 +1757,6 @@
   <e>
     <lg>
       <l pos="A">hel</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2242,9 +1768,6 @@
   <e>
     <lg>
       <l pos="A">hele</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2256,9 +1779,6 @@
   <e>
     <lg>
       <l pos="A">hellig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2269,9 +1789,6 @@
   <e>
     <lg>
       <l pos="A">hellig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om menneske</re>
@@ -2283,9 +1800,6 @@
   <e>
     <lg>
       <l pos="A">helt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2296,9 +1810,6 @@
   <e>
     <lg>
       <l pos="A">helårs-</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2309,9 +1820,6 @@
   <e>
     <lg>
       <l pos="A">hemmelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2322,9 +1830,6 @@
   <e>
     <lg>
       <l pos="A">hensynsløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2336,9 +1841,6 @@
   <e>
     <lg>
       <l pos="A">het</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -2354,9 +1856,6 @@
   <e>
     <lg>
       <l pos="A">himmelsk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2368,9 +1867,6 @@
   <e>
     <lg>
       <l pos="A">hissig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2382,9 +1878,6 @@
   <e>
     <lg>
       <l pos="A">hjelpeløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2396,9 +1889,6 @@
   <e>
     <lg>
       <l pos="A">hjelpsom</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2409,9 +1899,6 @@
   <e>
     <lg>
       <l pos="A">hjemløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2422,9 +1909,6 @@
   <e>
     <lg>
       <l pos="A">holdbar</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2436,9 +1920,6 @@
   <e>
     <lg>
       <l pos="A">hovmodig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2449,9 +1930,6 @@
   <e>
     <lg>
       <l pos="A">hvilende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2462,9 +1940,6 @@
   <e>
     <lg>
       <l pos="A">hvit</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -2478,9 +1953,6 @@
   <e>
     <lg>
       <l pos="A">hyggelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2500,9 +1972,6 @@
   <e>
     <lg>
       <l pos="A">høflig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2513,9 +1982,6 @@
   <e>
     <lg>
       <l pos="A">høg</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -2530,9 +1996,6 @@
   <e>
     <lg>
       <l pos="A">hørlig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om stemme eller lyd</re>
@@ -2544,9 +2007,6 @@
   <e>
     <lg>
       <l pos="A">høy</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2564,9 +2024,6 @@
   <e>
     <lg>
       <l pos="A">høyere</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2578,9 +2035,6 @@
   <e>
     <lg>
       <l pos="A">høyest</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2592,9 +2046,6 @@
   <e>
     <lg>
       <l pos="A">høytstående</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2605,9 +2056,6 @@
   <e>
     <lg>
       <l pos="A">iherdig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2618,9 +2066,6 @@
   <e>
     <lg>
       <l pos="A">indre</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2631,9 +2076,6 @@
   <e>
     <lg>
       <l pos="A">innbitt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2644,9 +2086,6 @@
   <e>
     <lg>
       <l pos="A">innerst</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2657,9 +2096,6 @@
   <e>
     <lg>
       <l pos="A">innestengt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2670,9 +2106,6 @@
   <e>
     <lg>
       <l pos="A">innviklet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2683,9 +2116,6 @@
   <e>
     <lg>
       <l pos="A">intelligent</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2696,9 +2126,6 @@
   <e>
     <lg>
       <l pos="A">internasjonal</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2709,9 +2136,6 @@
   <e>
     <lg>
       <l pos="A">ivrig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2722,9 +2146,6 @@
   <e>
     <lg>
       <l pos="A">jevn</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2756,9 +2177,6 @@
   <e>
     <lg>
       <l pos="A">jordisk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2769,9 +2187,6 @@
   <e>
     <lg>
       <l pos="A">kald</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2811,9 +2226,6 @@
   <e>
     <lg>
       <l pos="A">kall</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -2828,9 +2240,6 @@
   <e>
     <lg>
       <l pos="A">kirkelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2841,9 +2250,6 @@
   <e>
     <lg>
       <l pos="A">kjedelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2854,9 +2260,6 @@
   <e>
     <lg>
       <l pos="A">kjekk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2867,9 +2270,6 @@
   <e>
     <lg>
       <l pos="A">kjent</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2880,9 +2280,6 @@
   <e>
     <lg>
       <l pos="A">kjetter</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2893,9 +2290,6 @@
   <e>
     <lg>
       <l pos="A">kjær</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2915,9 +2309,6 @@
   <e>
     <lg>
       <l pos="A">kjærkommen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2928,9 +2319,6 @@
   <e>
     <lg>
       <l pos="A">kjølig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2942,9 +2330,6 @@
   <e>
     <lg>
       <l pos="A">klar</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2966,9 +2351,6 @@
   <e>
     <lg>
       <l pos="A">klarere</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2979,9 +2361,6 @@
   <e>
     <lg>
       <l pos="A">klarest</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -2992,9 +2371,6 @@
   <e>
     <lg>
       <l pos="A">klosset</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3005,9 +2381,6 @@
   <e>
     <lg>
       <l pos="A">kløende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3018,9 +2391,6 @@
   <e>
     <lg>
       <l pos="A">knapp</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3032,9 +2402,6 @@
   <e>
     <lg>
       <l pos="A">knudret</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3045,9 +2412,6 @@
   <e>
     <lg>
       <l pos="A">knusktørr</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3058,9 +2422,6 @@
   <e>
     <lg>
       <l pos="A">kommende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3071,9 +2432,6 @@
   <e>
     <lg>
       <l pos="A">kort</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -3087,9 +2445,6 @@
   <e>
     <lg>
       <l pos="A">kortlivet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3100,9 +2455,6 @@
   <e>
     <lg>
       <l pos="A">kraftløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3115,9 +2467,6 @@
   <e>
     <lg>
       <l pos="A">kresen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3129,9 +2478,6 @@
   <e>
     <lg>
       <l pos="A">krøllet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3142,9 +2488,6 @@
   <e>
     <lg>
       <l pos="A">kulde</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3155,9 +2498,6 @@
   <e>
     <lg>
       <l pos="A">kvass</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -3172,9 +2512,6 @@
   <e>
     <lg>
       <l pos="A">kvikk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3187,9 +2524,6 @@
   <e>
     <lg>
       <l pos="A">lang</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -3205,9 +2539,6 @@
   <e>
     <lg>
       <l pos="A">lang (suffiks</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3218,9 +2549,6 @@
   <e>
     <lg>
       <l pos="A">langsom</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3232,9 +2560,6 @@
   <e>
     <lg>
       <l pos="A">langvarig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3245,9 +2570,6 @@
   <e>
     <lg>
       <l pos="A">lat</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3258,9 +2580,6 @@
   <e>
     <lg>
       <l pos="A">lav</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3271,9 +2590,6 @@
   <e>
     <lg>
       <l pos="A">lavkantet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3284,9 +2600,6 @@
   <e>
     <lg>
       <l pos="A">ledig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3298,9 +2611,6 @@
   <e>
     <lg>
       <l pos="A">leende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3311,9 +2621,6 @@
   <e>
     <lg>
       <l pos="N">lekkerbisken</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3324,9 +2631,6 @@
   <e>
     <lg>
       <l pos="A">lenger</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3337,9 +2641,6 @@
   <e>
     <lg>
       <l pos="A">lengst</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3350,9 +2651,6 @@
   <e>
     <lg>
       <l pos="A">lett</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3365,9 +2663,6 @@
   <e>
     <lg>
       <l pos="A">lettskremt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3378,9 +2673,6 @@
   <e>
     <lg>
       <l pos="A">lettsøvd</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3391,9 +2683,6 @@
   <e>
     <lg>
       <l pos="A">listig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3405,9 +2694,6 @@
   <e>
     <lg>
       <l pos="A">lite</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3418,9 +2704,6 @@
   <e>
     <lg>
       <l pos="A">liten</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3469,9 +2752,6 @@
   <e>
     <lg>
       <l pos="A">litt fuktig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3482,9 +2762,6 @@
   <e>
     <lg>
       <l pos="A">lodden</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3495,9 +2772,6 @@
   <e>
     <lg>
       <l pos="A">lukket</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3509,9 +2783,6 @@
   <e>
     <lg>
       <l pos="A">luktende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3522,9 +2793,6 @@
   <e>
     <lg>
       <l pos="A">lunefull</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3535,9 +2803,6 @@
   <e>
     <lg>
       <l pos="A">lunken</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3548,9 +2813,6 @@
   <e>
     <lg>
       <l pos="A">lydig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3562,9 +2824,6 @@
   <e>
     <lg>
       <l pos="A">lydløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3576,9 +2835,6 @@
   <e>
     <lg>
       <l pos="A">lykkelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3590,9 +2846,6 @@
   <e>
     <lg>
       <l pos="A">lys</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -3612,9 +2865,6 @@
   <e>
     <lg>
       <l pos="A">lysende klar</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3625,9 +2875,6 @@
   <e>
     <lg>
       <l pos="A">lysere</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3638,9 +2885,6 @@
   <e>
     <lg>
       <l pos="A">lysest</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3651,9 +2895,6 @@
   <e>
     <lg>
       <l pos="A">låg</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3664,9 +2905,6 @@
   <e>
     <lg>
       <l pos="A">løs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3679,9 +2917,6 @@
   <e>
     <lg>
       <l pos="A">mange slags</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3692,9 +2927,6 @@
   <e>
     <lg>
       <l pos="A">mangelfull</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3705,9 +2937,6 @@
   <e>
     <lg>
       <l pos="A">mangfoldig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3718,9 +2947,6 @@
   <e>
     <lg>
       <l pos="A">mannevond</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om hund</re>
@@ -3732,9 +2958,6 @@
   <e>
     <lg>
       <l pos="A">mat som er blitt dårlig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3745,9 +2968,6 @@
   <e>
     <lg>
       <l pos="A">mektig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3758,9 +2978,6 @@
   <e>
     <lg>
       <l pos="A">mellomst</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3771,9 +2988,6 @@
   <e>
     <lg>
       <l pos="A">mer hjelpeløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3784,9 +2998,6 @@
   <e>
     <lg>
       <l pos="A">mett</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3798,9 +3009,6 @@
   <e>
     <lg>
       <l pos="A">middelaldrende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3811,9 +3019,6 @@
   <e>
     <lg>
       <l pos="A">midt imot</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3824,9 +3029,6 @@
   <e>
     <lg>
       <l pos="A">midterst</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3837,9 +3039,6 @@
   <e>
     <lg>
       <l pos="A">mild</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3850,9 +3049,6 @@
   <e>
     <lg>
       <l pos="A">mild</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om te og tobakk</re>
@@ -3864,9 +3060,6 @@
   <e>
     <lg>
       <l pos="A">mindre</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3877,9 +3070,6 @@
   <e>
     <lg>
       <l pos="Adv">mindre</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3890,9 +3080,6 @@
   <e>
     <lg>
       <l pos="A">minst</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3903,9 +3090,6 @@
   <e>
     <lg>
       <l pos="A">mirakuløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3917,9 +3101,6 @@
   <e>
     <lg>
       <l pos="A">moderne</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3930,9 +3111,6 @@
   <e>
     <lg>
       <l pos="A">modig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3943,9 +3121,6 @@
   <e>
     <lg>
       <l pos="A">morken</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -3960,9 +3135,6 @@
   <e>
     <lg>
       <l pos="N">moro</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -3977,9 +3149,6 @@
   <e>
     <lg>
       <l pos="A">morsom</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3999,9 +3168,6 @@
   <e>
     <lg>
       <l pos="A">motsatt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4012,9 +3178,6 @@
   <e>
     <lg>
       <l pos="A">motvillig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4025,9 +3188,6 @@
   <e>
     <lg>
       <l pos="A">munnrapp</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4038,9 +3198,6 @@
   <e>
     <lg>
       <l pos="A">myk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4051,9 +3208,6 @@
   <e>
     <lg>
       <l pos="A">myndig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4065,9 +3219,6 @@
   <e>
     <lg>
       <l pos="A">målløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4079,9 +3230,6 @@
   <e>
     <lg>
       <l pos="A">mør</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om fisk</re>
@@ -4093,9 +3241,6 @@
   <e>
     <lg>
       <l pos="A">mørk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -4109,9 +3254,6 @@
   <e>
     <lg>
       <l pos="A">naken</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4123,9 +3265,6 @@
   <e>
     <lg>
       <l pos="A">neste</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4136,9 +3275,6 @@
   <e>
     <lg>
       <l pos="A">nett</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4149,9 +3285,6 @@
   <e>
     <lg>
       <l pos="A">niåring</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4162,9 +3295,6 @@
   <e>
     <lg>
       <l pos="A">noe som er ved siden av</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4175,9 +3305,6 @@
   <e>
     <lg>
       <l pos="A">noe som ligger i nærheten</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4188,9 +3315,6 @@
   <e>
     <lg>
       <l pos="A">noe som ligger overfor</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4201,9 +3325,6 @@
   <e>
     <lg>
       <l pos="A">ny</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -4217,9 +3338,6 @@
   <e>
     <lg>
       <l pos="A">nysgjerrig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4230,9 +3348,6 @@
   <e>
     <lg>
       <l pos="A">nådig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4244,9 +3359,6 @@
   <e>
     <lg>
       <l pos="A">nåværende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4258,9 +3370,6 @@
   <e>
     <lg>
       <l pos="A">nær hverandre</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4271,9 +3380,6 @@
   <e>
     <lg>
       <l pos="A">nærende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4284,9 +3390,6 @@
   <e>
     <lg>
       <l pos="A">nærliggende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4297,9 +3400,6 @@
   <e>
     <lg>
       <l pos="A">nøyaktig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4310,9 +3410,6 @@
   <e>
     <lg>
       <l pos="A">obskøn</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4323,9 +3420,6 @@
   <e>
     <lg>
       <l pos="A">omhyggelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4336,9 +3430,6 @@
   <e>
     <lg>
       <l pos="A">omslag</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4349,9 +3440,6 @@
   <e>
     <lg>
       <l pos="A">ond</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -4371,9 +3459,6 @@
   <e>
     <lg>
       <l pos="A">onde</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4384,9 +3469,6 @@
   <e>
     <lg>
       <l pos="A">oppløst</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4397,9 +3479,6 @@
   <e>
     <lg>
       <l pos="A">oppmyknet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4410,9 +3489,6 @@
   <e>
     <lg>
       <l pos="A">oppstaset</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4423,9 +3499,6 @@
   <e>
     <lg>
       <l pos="A">oransje</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -4439,9 +3512,6 @@
   <e>
     <lg>
       <l pos="A">original</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4452,9 +3522,6 @@
   <e>
     <lg>
       <l pos="A">over jordoverflaten</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4465,9 +3532,6 @@
   <e>
     <lg>
       <l pos="A">overbygg</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4478,9 +3542,6 @@
   <e>
     <lg>
       <l pos="A">overdreven</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4491,9 +3552,6 @@
   <e>
     <lg>
       <l pos="A">overflødig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4504,9 +3562,6 @@
   <e>
     <lg>
       <l pos="A">overlappende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4517,9 +3572,6 @@
   <e>
     <lg>
       <l pos="A">passelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4532,9 +3584,6 @@
   <e>
     <lg>
       <l pos="A">pedantisk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4545,9 +3594,6 @@
   <e>
     <lg>
       <l pos="A">pen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -4562,9 +3608,6 @@
   <e>
     <lg>
       <l pos="A">pirkete</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4575,9 +3618,6 @@
   <e>
     <lg>
       <l pos="A">politisk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4588,9 +3628,6 @@
   <e>
     <lg>
       <l pos="A">pompøs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4601,9 +3638,6 @@
   <e>
     <lg>
       <l pos="A">preget av alderdom</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4614,9 +3648,6 @@
   <e>
     <lg>
       <l pos="A">på langs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4627,9 +3658,6 @@
   <e>
     <lg>
       <l pos="A">rak</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -4643,9 +3671,6 @@
   <e>
     <lg>
       <l pos="A">rank</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4656,9 +3681,6 @@
   <e>
     <lg>
       <l pos="A">rapp</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4669,9 +3691,6 @@
   <e>
     <lg>
       <l pos="A">rar</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4682,9 +3701,6 @@
   <e>
     <lg>
       <l pos="A">rask</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4698,9 +3714,6 @@
   <e>
     <lg>
       <l pos="A">rastløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om rein</re>
@@ -4712,9 +3725,6 @@
   <e>
     <lg>
       <l pos="A">redd</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4725,9 +3735,6 @@
   <e>
     <lg>
       <l pos="A">rein</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4738,9 +3745,6 @@
   <e>
     <lg>
       <l pos="A">rein med et flott gevir</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4751,9 +3755,6 @@
   <e>
     <lg>
       <l pos="A">ren</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4766,9 +3767,6 @@
   <e>
     <lg>
       <l pos="A">rengjort</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4779,9 +3777,6 @@
   <e>
     <lg>
       <l pos="A">renkefull</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4792,9 +3787,6 @@
   <e>
     <lg>
       <l pos="A">rennende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om øye</re>
@@ -4806,9 +3798,6 @@
   <e>
     <lg>
       <l pos="A">rett</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -4828,9 +3817,6 @@
   <e>
     <lg>
       <l pos="A">rettferdig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4841,9 +3827,6 @@
   <e>
     <lg>
       <l pos="A">rettroende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4854,9 +3837,6 @@
   <e>
     <lg>
       <l pos="A">rettsindig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4867,9 +3847,6 @@
   <e>
     <lg>
       <l pos="A">rettskaffen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4880,9 +3857,6 @@
   <e>
     <lg>
       <l pos="A">rik</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4893,9 +3867,6 @@
   <e>
     <lg>
       <l pos="A">riktig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4906,9 +3877,6 @@
   <e>
     <lg>
       <l pos="A">rolig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4919,9 +3887,6 @@
   <e>
     <lg>
       <l pos="A">rote</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4932,9 +3897,6 @@
   <e>
     <lg>
       <l pos="A">rund</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -4948,9 +3910,6 @@
   <e>
     <lg>
       <l pos="A">ryddig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -4962,9 +3921,6 @@
   <e>
     <lg>
       <l pos="A">rynket(e)</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om hud</re>
@@ -4976,9 +3932,6 @@
   <e>
     <lg>
       <l pos="A">rå</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5005,9 +3958,6 @@
   <e>
     <lg>
       <l pos="A">rådende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5018,9 +3968,6 @@
   <e>
     <lg>
       <l pos="A">råte</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -5035,9 +3982,6 @@
   <e>
     <lg>
       <l pos="A">råtten</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -5052,9 +3996,6 @@
   <e>
     <lg>
       <l pos="A">rød</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -5068,9 +4009,6 @@
   <e>
     <lg>
       <l pos="A">sakte</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5081,9 +4019,6 @@
   <e>
     <lg>
       <l pos="A">salig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5094,9 +4029,6 @@
   <e>
     <lg>
       <l pos="A">salt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5107,9 +4039,6 @@
   <e>
     <lg>
       <l pos="A">savn</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5120,9 +4049,6 @@
   <e>
     <lg>
       <l pos="A">seierrik</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5133,9 +4059,6 @@
   <e>
     <lg>
       <l pos="A">seig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5147,9 +4070,6 @@
   <e>
     <lg>
       <l pos="A">sein</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5161,9 +4081,6 @@
   <e>
     <lg>
       <l pos="A">seint</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5175,9 +4092,6 @@
   <e>
     <lg>
       <l pos="A">seirende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5188,9 +4102,6 @@
   <e>
     <lg>
       <l pos="A">seksåring</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5201,9 +4112,6 @@
   <e>
     <lg>
       <l pos="A">selvisk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5214,9 +4122,6 @@
   <e>
     <lg>
       <l pos="A">selvlysende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om edelstein</re>
@@ -5228,9 +4133,6 @@
   <e>
     <lg>
       <l pos="A">selvstendig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5241,9 +4143,6 @@
   <e>
     <lg>
       <l pos="A">sendrektig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5254,9 +4153,6 @@
   <e>
     <lg>
       <l pos="A">side om side</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5267,9 +4163,6 @@
   <e>
     <lg>
       <l pos="A">sikker</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5280,9 +4173,6 @@
   <e>
     <lg>
       <l pos="A">sint</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5294,9 +4184,6 @@
   <e>
     <lg>
       <l pos="A">siste</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5308,9 +4195,6 @@
   <e>
     <lg>
       <l pos="A">sistnevnte</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5321,9 +4205,6 @@
   <e>
     <lg>
       <l pos="A">sjalu</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5334,9 +4215,6 @@
   <e>
     <lg>
       <l pos="A">sjelden</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5347,9 +4225,6 @@
   <e>
     <lg>
       <l pos="A">sjuk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5361,9 +4236,6 @@
   <e>
     <lg>
       <l pos="N">sjukdom</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5374,9 +4246,6 @@
   <e>
     <lg>
       <l pos="A">skadet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5387,9 +4256,6 @@
   <e>
     <lg>
       <l pos="A">skafteløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5400,9 +4266,6 @@
   <e>
     <lg>
       <l pos="A">skamløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5414,9 +4277,6 @@
   <e>
     <lg>
       <l pos="A">skarp</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -5440,9 +4300,6 @@
   <e>
     <lg>
       <l pos="A">skarpsynt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5453,9 +4310,6 @@
   <e>
     <lg>
       <l pos="A">skeiv</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5467,9 +4321,6 @@
   <e>
     <lg>
       <l pos="A">skingrende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om stemme</re>
@@ -5481,9 +4332,6 @@
   <e>
     <lg>
       <l pos="A">skitten</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5494,9 +4342,6 @@
   <e>
     <lg>
       <l pos="A">skjul</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5507,9 +4352,6 @@
   <e>
     <lg>
       <l pos="A">skjødesløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5520,9 +4362,6 @@
   <e>
     <lg>
       <l pos="A">skoltesamiskspråklig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5533,9 +4372,6 @@
   <e>
     <lg>
       <l pos="A">skrulling</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5547,9 +4383,6 @@
   <e>
     <lg>
       <l pos="A">skrå</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5562,9 +4395,6 @@
   <e>
     <lg>
       <l pos="A">skumring</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5575,9 +4405,6 @@
   <e>
     <lg>
       <l pos="A">sky</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5589,9 +4416,6 @@
   <e>
     <lg>
       <l pos="A">sky</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om menneske</re>
@@ -5603,9 +4427,6 @@
   <e>
     <lg>
       <l pos="A">skyet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5616,9 +4437,6 @@
   <e>
     <lg>
       <l pos="A">skyfri</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5629,9 +4447,6 @@
   <e>
     <lg>
       <l pos="A">skyldig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5643,9 +4458,6 @@
   <e>
     <lg>
       <l pos="A">slak</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -5659,9 +4471,6 @@
   <e>
     <lg>
       <l pos="A">slakk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5672,9 +4481,6 @@
   <e>
     <lg>
       <l pos="A">sleip</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5685,9 +4491,6 @@
   <e>
     <lg>
       <l pos="A">slem</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5698,9 +4501,6 @@
   <e>
     <lg>
       <l pos="A">slibrig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5711,9 +4511,6 @@
   <e>
     <lg>
       <l pos="A">slimet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5724,9 +4521,6 @@
   <e>
     <lg>
       <l pos="A">slu</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5737,9 +4531,6 @@
   <e>
     <lg>
       <l pos="A">slurvet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5750,9 +4541,6 @@
   <e>
     <lg>
       <l pos="A">sløset</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5763,9 +4551,6 @@
   <e>
     <lg>
       <l pos="A">sløv</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5785,9 +4570,6 @@
   <e>
     <lg>
       <l pos="A">smakfull</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5798,9 +4580,6 @@
   <e>
     <lg>
       <l pos="A">smal</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5812,9 +4591,6 @@
   <e>
     <lg>
       <l pos="A">smal (om vik</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5825,9 +4601,6 @@
   <e>
     <lg>
       <l pos="A">smertefri</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5839,9 +4612,6 @@
   <e>
     <lg>
       <l pos="A">smidig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5852,9 +4622,6 @@
   <e>
     <lg>
       <l pos="A">smigrende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5865,9 +4632,6 @@
   <e>
     <lg>
       <l pos="A">småmasket</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om garn</re>
@@ -5879,9 +4643,6 @@
   <e>
     <lg>
       <l pos="A">snar</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5892,9 +4653,6 @@
   <e>
     <lg>
       <l pos="A">snever</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5905,9 +4663,6 @@
   <e>
     <lg>
       <l pos="A">som følger etter hverandre</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5918,9 +4673,6 @@
   <e>
     <lg>
       <l pos="A">som veier et pud</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5931,9 +4683,6 @@
   <e>
     <lg>
       <l pos="A">sort</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -5947,9 +4696,6 @@
   <e>
     <lg>
       <l pos="A">spenstig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5960,9 +4706,6 @@
   <e>
     <lg>
       <l pos="A">splittet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5973,9 +4716,6 @@
   <e>
     <lg>
       <l pos="A">spredt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -5986,9 +4726,6 @@
   <e>
     <lg>
       <l pos="A">språkløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6000,9 +4737,6 @@
   <e>
     <lg>
       <l pos="A">sprø</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6013,9 +4747,6 @@
   <e>
     <lg>
       <l pos="A">sta</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6027,9 +4758,6 @@
   <e>
     <lg>
       <l pos="A">stadig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6040,9 +4768,6 @@
   <e>
     <lg>
       <l pos="A">staskledd</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6053,9 +4778,6 @@
   <e>
     <lg>
       <l pos="A">sterk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6067,9 +4789,6 @@
   <e>
     <lg>
       <l pos="A">sterk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om drikke</re>
@@ -6081,9 +4800,6 @@
   <e>
     <lg>
       <l pos="A">stille</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6096,9 +4812,6 @@
   <e>
     <lg>
       <l pos="A">stinkende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6109,9 +4822,6 @@
   <e>
     <lg>
       <l pos="A">stinn</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6122,9 +4832,6 @@
   <e>
     <lg>
       <l pos="A">stiv</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6137,9 +4844,6 @@
   <e>
     <lg>
       <l pos="A">stolt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6150,9 +4854,6 @@
   <e>
     <lg>
       <l pos="A">stor</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -6176,9 +4877,6 @@
   <e>
     <lg>
       <l pos="A">storspiser</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6189,9 +4887,6 @@
   <e>
     <lg>
       <l pos="A">stram</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om tau</re>
@@ -6203,9 +4898,6 @@
   <e>
     <lg>
       <l pos="A">stram</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om tråd</re>
@@ -6217,9 +4909,6 @@
   <e>
     <lg>
       <l pos="A">streng</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -6233,9 +4922,6 @@
   <e>
     <lg>
       <l pos="A">stum</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6248,9 +4934,6 @@
   <e>
     <lg>
       <l pos="A">stump</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6270,9 +4953,6 @@
   <e>
     <lg>
       <l pos="A">stupbratt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om dybde i sjøen</re>
@@ -6287,9 +4967,6 @@
   <e>
     <lg>
       <l pos="A">stygg</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6302,9 +4979,6 @@
   <e>
     <lg>
       <l pos="A">støl</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6315,9 +4989,6 @@
   <e>
     <lg>
       <l pos="A">større</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6328,9 +4999,6 @@
   <e>
     <lg>
       <l pos="A">suksessiv</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6341,9 +5009,6 @@
   <e>
     <lg>
       <l pos="A">sulten</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6354,9 +5019,6 @@
   <e>
     <lg>
       <l pos="A">sunn</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6368,9 +5030,6 @@
   <e>
     <lg>
       <l pos="A">suselyd</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6381,9 +5040,6 @@
   <e>
     <lg>
       <l pos="A">svak</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6397,9 +5053,6 @@
   <e>
     <lg>
       <l pos="A">svaksynt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6410,9 +5063,6 @@
   <e>
     <lg>
       <l pos="A">sval</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6424,9 +5074,6 @@
   <e>
     <lg>
       <l pos="A">svart</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -6440,9 +5087,6 @@
   <e>
     <lg>
       <l pos="A">svensk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6453,9 +5097,6 @@
   <e>
     <lg>
       <l pos="A">svenske</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6466,9 +5107,6 @@
   <e>
     <lg>
       <l pos="A">svint</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6479,9 +5117,6 @@
   <e>
     <lg>
       <l pos="A">syk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6492,9 +5127,6 @@
   <e>
     <lg>
       <l pos="A">synder</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6505,9 +5137,6 @@
   <e>
     <lg>
       <l pos="A">syndfri</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6518,9 +5147,6 @@
   <e>
     <lg>
       <l pos="A">syndig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6531,9 +5157,6 @@
   <e>
     <lg>
       <l pos="A">syvåring</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6544,9 +5167,6 @@
   <e>
     <lg>
       <l pos="A">sømmelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6559,9 +5179,6 @@
   <e>
     <lg>
       <l pos="A">søt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -6576,9 +5193,6 @@
   <e>
     <lg>
       <l pos="A">tam</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6589,9 +5203,6 @@
   <e>
     <lg>
       <l pos="A">tett</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6608,9 +5219,6 @@
   <e>
     <lg>
       <l pos="A">tett(vokst</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6621,9 +5229,6 @@
   <e>
     <lg>
       <l pos="A">tetthåret(e)</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6634,9 +5239,6 @@
   <e>
     <lg>
       <l pos="A">tidligere</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6647,9 +5249,6 @@
   <e>
     <lg>
       <l pos="A">tidløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6661,9 +5260,6 @@
   <e>
     <lg>
       <l pos="A">tildekket</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6675,9 +5271,6 @@
   <e>
     <lg>
       <l pos="A">tjæret(e)</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6688,9 +5281,6 @@
   <e>
     <lg>
       <l pos="A">tom</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6701,9 +5291,6 @@
   <e>
     <lg>
       <l pos="A">toåring</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6714,9 +5301,6 @@
   <e>
     <lg>
       <l pos="A">trang</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6736,9 +5320,6 @@
   <e>
     <lg>
       <l pos="A">treenighet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6749,9 +5330,6 @@
   <e>
     <lg>
       <l pos="A">treg</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6762,9 +5340,6 @@
   <e>
     <lg>
       <l pos="N">trekk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6775,9 +5350,6 @@
   <e>
     <lg>
       <l pos="A">treåring</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6788,9 +5360,6 @@
   <e>
     <lg>
       <l pos="A">trofast</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6802,9 +5371,6 @@
   <e>
     <lg>
       <l pos="A">tung</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -6819,9 +5385,6 @@
   <e>
     <lg>
       <l pos="A">tungbeint</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6832,9 +5395,6 @@
   <e>
     <lg>
       <l pos="A">tunghørt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6845,9 +5405,6 @@
   <e>
     <lg>
       <l pos="A">tykk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -6867,9 +5424,6 @@
   <e>
     <lg>
       <l pos="A">tykk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om flate gjenstander</re>
@@ -6881,9 +5435,6 @@
   <e>
     <lg>
       <l pos="A">tykktrådet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om garn etc</re>
@@ -6895,9 +5446,6 @@
   <e>
     <lg>
       <l pos="A">tynn</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6911,9 +5459,6 @@
   <e>
     <lg>
       <l pos="A">tynn</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om drikke</re>
@@ -6925,9 +5470,6 @@
   <e>
     <lg>
       <l pos="A">tynnhåret</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6938,9 +5480,6 @@
   <e>
     <lg>
       <l pos="A">tynntrådet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om garn</re>
@@ -6952,9 +5491,6 @@
   <e>
     <lg>
       <l pos="A">tålmodig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6965,9 +5501,6 @@
   <e>
     <lg>
       <l pos="A">tåpelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6978,9 +5511,6 @@
   <e>
     <lg>
       <l pos="A">tørr</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -6991,9 +5521,6 @@
   <e>
     <lg>
       <l pos="A">uavbrutt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7004,9 +5531,6 @@
   <e>
     <lg>
       <l pos="A">ubehagelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7017,9 +5541,6 @@
   <e>
     <lg>
       <l pos="A">ubetydelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7030,9 +5551,6 @@
   <e>
     <lg>
       <l pos="A">ubrukelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7044,9 +5562,6 @@
   <e>
     <lg>
       <l pos="A">udisplinert</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7057,9 +5572,6 @@
   <e>
     <lg>
       <l pos="A">udugelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7071,9 +5583,6 @@
   <e>
     <lg>
       <l pos="A">udødelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7084,9 +5593,6 @@
   <e>
     <lg>
       <l pos="A">uendelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7097,9 +5603,6 @@
   <e>
     <lg>
       <l pos="A">uforgjengelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7110,9 +5613,6 @@
   <e>
     <lg>
       <l pos="A">uforstående</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7123,9 +5623,6 @@
   <e>
     <lg>
       <l pos="A">ugift</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7137,9 +5634,6 @@
   <e>
     <lg>
       <l pos="A">ukjent</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7150,9 +5644,6 @@
   <e>
     <lg>
       <l pos="A">uklanderlig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7165,9 +5656,6 @@
   <e>
     <lg>
       <l pos="A">ikke-kristen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7180,9 +5668,6 @@
   <e>
     <lg>
       <l pos="A">ukyndig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7193,9 +5678,6 @@
   <e>
     <lg>
       <l pos="A">ulovlig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7207,9 +5689,6 @@
   <e>
     <lg>
       <l pos="A">ulykkelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7224,9 +5703,6 @@
   <e>
     <lg>
       <l pos="A">umettelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7237,9 +5713,6 @@
   <e>
     <lg>
       <l pos="A">underlig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7253,9 +5726,6 @@
   <e>
     <lg>
       <l pos="A">ung</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7266,9 +5736,6 @@
   <e>
     <lg>
       <l pos="A">unnselig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7279,9 +5746,6 @@
   <e>
     <lg>
       <l pos="A">unødvendig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7292,9 +5756,6 @@
   <e>
     <lg>
       <l pos="A">urein</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7305,9 +5766,6 @@
   <e>
     <lg>
       <l pos="A">uriktig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7318,9 +5776,6 @@
   <e>
     <lg>
       <l pos="A">urolig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7334,9 +5789,6 @@
   <e>
     <lg>
       <l pos="A">usagt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7347,9 +5799,6 @@
   <e>
     <lg>
       <l pos="A">uskikkelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7360,9 +5809,6 @@
   <e>
     <lg>
       <l pos="A">uskyldig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7375,9 +5821,6 @@
   <e>
     <lg>
       <l pos="A">ustabil</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7388,9 +5831,6 @@
   <e>
     <lg>
       <l pos="A">ustyrlig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7401,9 +5841,6 @@
   <e>
     <lg>
       <l pos="A">ustø</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7414,9 +5851,6 @@
   <e>
     <lg>
       <l pos="A">usynlig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7427,9 +5861,6 @@
   <e>
     <lg>
       <l pos="A">uten fisk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om innsjø</re>
@@ -7441,9 +5872,6 @@
   <e>
     <lg>
       <l pos="A">uten lue</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7455,9 +5883,6 @@
   <e>
     <lg>
       <l pos="A">utenomekteskapelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7469,9 +5894,6 @@
   <e>
     <lg>
       <l pos="A">uthvilt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7482,9 +5904,6 @@
   <e>
     <lg>
       <l pos="A">uutsigelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7495,9 +5914,6 @@
   <e>
     <lg>
       <l pos="A">uvedkommende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7509,9 +5925,6 @@
   <e>
     <lg>
       <l pos="A">vakker</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -7526,9 +5939,6 @@
   <e>
     <lg>
       <l pos="A">vakker</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7539,9 +5949,6 @@
   <e>
     <lg>
       <l pos="A">vaklende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7552,9 +5959,6 @@
   <e>
     <lg>
       <l pos="A">vakreste</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7565,9 +5969,6 @@
   <e>
     <lg>
       <l pos="A">vanlig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7578,9 +5979,6 @@
   <e>
     <lg>
       <l pos="A">vanskelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7592,9 +5990,6 @@
   <e>
     <lg>
       <l pos="A">vanvittig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7605,9 +6000,6 @@
   <e>
     <lg>
       <l pos="A">var</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7618,9 +6010,6 @@
   <e>
     <lg>
       <l pos="A">varig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7631,9 +6020,6 @@
   <e>
     <lg>
       <l pos="A">varm</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -7663,9 +6049,6 @@
   <e>
     <lg>
       <l pos="A">vassen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7676,9 +6059,6 @@
   <e>
     <lg>
       <l pos="A">vassen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om grøt</re>
@@ -7690,9 +6070,6 @@
   <e>
     <lg>
       <l pos="A">veg)</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7703,9 +6080,6 @@
   <e>
     <lg>
       <l pos="A">velduftende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7716,9 +6090,6 @@
   <e>
     <lg>
       <l pos="A">velkledd</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7729,9 +6100,6 @@
   <e>
     <lg>
       <l pos="A">vid</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7743,9 +6111,6 @@
   <e>
     <lg>
       <l pos="A">vidunderlig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7757,9 +6122,6 @@
   <e>
     <lg>
       <l pos="N">vidunderlig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7770,9 +6132,6 @@
   <e>
     <lg>
       <l pos="A">vilter</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7783,9 +6142,6 @@
   <e>
     <lg>
       <l pos="A">virkelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7796,9 +6152,6 @@
   <e>
     <lg>
       <l pos="A">voksen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7809,9 +6162,6 @@
   <e>
     <lg>
       <l pos="A">vond</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7823,9 +6173,6 @@
   <e>
     <lg>
       <l pos="A">vondluktende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7836,9 +6183,6 @@
   <e>
     <lg>
       <l pos="A">vrien</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7849,9 +6193,6 @@
   <e>
     <lg>
       <l pos="A">våt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7871,9 +6212,6 @@
   <e>
     <lg>
       <l pos="A">ydmyk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7884,9 +6222,6 @@
   <e>
     <lg>
       <l pos="A">ynkelig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7897,9 +6232,6 @@
   <e>
     <lg>
       <l pos="A">åpen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7912,9 +6244,6 @@
   <e>
     <lg>
       <l pos="A">årlig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7926,9 +6255,6 @@
   <e>
     <lg>
       <l pos="A">årsak</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7939,9 +6265,6 @@
   <e>
     <lg>
       <l pos="A">åtteåring</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7952,9 +6275,6 @@
   <e>
     <lg>
       <l pos="A">ærbar</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7965,9 +6285,6 @@
   <e>
     <lg>
       <l pos="A">æresløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7978,9 +6295,6 @@
   <e>
     <lg>
       <l pos="A">ærefull</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7991,9 +6305,6 @@
   <e>
     <lg>
       <l pos="A">ærverdig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -8004,9 +6315,6 @@
   <e>
     <lg>
       <l pos="A">øde</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -8017,9 +6325,6 @@
   <e>
     <lg>
       <l pos="A">ødsel</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -8030,9 +6335,6 @@
   <e>
     <lg>
       <l pos="A">øm</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -8043,9 +6345,6 @@
   <e>
     <lg>
       <l pos="A">ørkesløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -8056,9 +6355,6 @@
   <e>
     <lg>
       <l pos="A">overflødig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -8069,9 +6365,6 @@
   <e>
     <lg>
       <l pos="A">øverst</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -8082,9 +6375,6 @@
   <e>
     <lg>
       <l pos="A">øvre</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -8095,9 +6385,6 @@
   <e>
     <lg>
       <l pos="A">bekymret</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være bekymret</re>
@@ -8109,9 +6396,6 @@
   <e>
     <lg>
       <l pos="A">lei</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være lei</re>
@@ -8123,9 +6407,6 @@
   <e>
     <lg>
       <l pos="A">sorgfull</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være sorgfull</re>
@@ -8137,9 +6418,6 @@
   <e>
     <lg>
       <l pos="A">blyg</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være blyg</re>
@@ -8154,9 +6432,6 @@
   <e>
     <lg>
       <l pos="A">gjenstridig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være gjenstridig</re>
@@ -8168,9 +6443,6 @@
   <e>
     <lg>
       <l pos="A">grådig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være grådig</re>
@@ -8182,9 +6454,6 @@
   <e>
     <lg>
       <l pos="A">hørbar</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være hørbar</re>
@@ -8199,9 +6468,6 @@
   <e>
     <lg>
       <l pos="A">travel</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være i travel virksomhet</re>
@@ -8213,9 +6479,6 @@
   <e>
     <lg>
       <l pos="A">lat</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være lat</re>
@@ -8227,9 +6490,6 @@
   <e>
     <lg>
       <l pos="A">ledig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være ledig</re>
@@ -8241,9 +6501,6 @@
   <e>
     <lg>
       <l pos="A">mutt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være mutt</re>
@@ -8255,9 +6512,6 @@
   <e>
     <lg>
       <l pos="A">nedrig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være nedrig</re>
@@ -8269,9 +6523,6 @@
   <e>
     <lg>
       <l pos="A">nervøs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være nervøs</re>
@@ -8283,9 +6534,6 @@
   <e>
     <lg>
       <l pos="A">urolig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være urolig</re>
@@ -8297,9 +6545,6 @@
   <e>
     <lg>
       <l pos="A">redd</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være redd for noe</re>
@@ -8320,9 +6565,6 @@
   <e>
     <lg>
       <l pos="A">sint</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være sint</re>
@@ -8334,9 +6576,6 @@
   <e>
     <lg>
       <l pos="A">sjalu</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være sjalu</re>
@@ -8348,9 +6587,6 @@
   <e>
     <lg>
       <l pos="A">sjuk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være sjuk</re>
@@ -8362,9 +6598,6 @@
   <e>
     <lg>
       <l pos="A">smertefull</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være smertefull</re>
@@ -8376,9 +6609,6 @@
   <e>
     <lg>
       <l pos="A">sulten</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være sulten</re>
@@ -8393,9 +6623,6 @@
   <e>
     <lg>
       <l pos="A">syk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være syk</re>
@@ -8410,9 +6637,6 @@
   <e>
     <lg>
       <l pos="A">synlig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være synlig</re>
@@ -8424,9 +6648,6 @@
   <e>
     <lg>
       <l pos="A">tørst</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være tørst</re>
@@ -8438,9 +6659,6 @@
   <e>
     <lg>
       <l pos="A">varm</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være varm, ikke fryse</re>
@@ -8452,9 +6670,6 @@
   <e>
     <lg>
       <l pos="A">ørkesløs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>være ørkesløs</re>

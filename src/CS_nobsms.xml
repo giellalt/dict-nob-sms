@@ -16,9 +16,6 @@
   <e>
     <lg>
       <l pos="CS">at</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -32,9 +29,6 @@
   <e>
     <lg>
       <l pos="CS">da</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -45,9 +39,6 @@
   <e>
     <lg>
       <l pos="CS">dersom</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -61,9 +52,6 @@
   <e>
     <lg>
       <l pos="CS">dersom</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -75,9 +63,6 @@
   <e>
     <lg>
       <l pos="CS">enda, til tross for at, selv om</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -91,9 +76,6 @@
   <e>
     <lg>
       <l pos="CS">enn</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -104,9 +86,6 @@
   <e>
     <lg>
       <l pos="CS">for at</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -120,9 +99,6 @@
   <e>
     <lg>
       <l pos="CS">fordi</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -136,9 +112,6 @@
   <e>
     <lg>
       <l pos="CS">fordi</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -149,9 +122,6 @@
   <e>
     <lg>
       <l pos="CS">fordi</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -165,9 +135,6 @@
   <e>
     <lg>
       <l pos="CS">hvis</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -181,9 +148,6 @@
   <e>
     <lg>
       <l pos="CS">hvis</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -194,9 +158,6 @@
   <e>
     <lg>
       <l pos="CS">hvis</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -210,9 +171,6 @@
   <e>
     <lg>
       <l pos="xxx">inntil</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -226,9 +184,6 @@
   <e>
     <lg>
       <l pos="Adv">likevel</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -239,9 +194,6 @@
   <e>
     <lg>
       <l pos="CC">men</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -252,9 +204,6 @@
   <e>
     <lg>
       <l pos="Adv">når</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -268,9 +217,6 @@
   <e>
     <lg>
       <l pos="Adv">når</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -284,9 +230,6 @@
   <e>
     <lg>
       <l pos="CS">når</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -297,9 +240,6 @@
   <e>
     <lg>
       <l pos="CS">om</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -313,9 +253,6 @@
   <e>
     <lg>
       <l pos="CS">om</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -327,9 +264,6 @@
   <e>
     <lg>
       <l pos="CS">om enn</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -340,9 +274,6 @@
   <e>
     <lg>
       <l pos="CS">selv om</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -353,9 +284,6 @@
   <e>
     <lg>
       <l pos="CS">selv om</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -369,9 +297,6 @@
   <e>
     <lg>
       <l pos="CS">som liksom</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -382,9 +307,6 @@
   <e>
     <lg>
       <l pos="CS">som om</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -395,9 +317,6 @@
   <e>
     <lg>
       <l pos="CS">såfremt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -408,9 +327,6 @@
   <e>
     <lg>
       <l pos="xxx">til</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -424,9 +340,6 @@
   <e>
     <lg>
       <l pos="CS(Pr::N::Pr::CS)">til tross for at</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>

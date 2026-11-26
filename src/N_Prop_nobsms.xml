@@ -16,9 +16,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Anna</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -40,9 +37,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Anni</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -56,9 +50,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Askild</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -72,9 +63,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Basil</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -88,9 +76,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Boris</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -104,9 +89,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Børre</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -120,9 +102,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Christina</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -136,9 +115,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">David</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -152,9 +128,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Dorothea</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -168,9 +141,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Elin</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -184,9 +154,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Enare</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -200,9 +167,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">England</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -221,9 +185,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Eskil</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -237,9 +198,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Eskild</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -253,9 +211,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Finland</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -274,9 +229,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Frelseren</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -287,9 +239,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Girvasozero</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -303,9 +252,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Gud</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -316,9 +262,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Gudsmoder</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -329,9 +272,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Helsingfors</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -345,9 +285,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Helsinki</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -361,9 +298,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Ida</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -377,9 +311,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Ishavet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -390,9 +321,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Ivalo</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -406,9 +334,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Ivan</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -422,9 +347,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Jogar</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -438,9 +360,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Juppurasaari</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -451,9 +370,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Kandalaksha</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -464,9 +380,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Karelen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -485,9 +398,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Karlsvogna</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -502,9 +412,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Kiprian</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -518,9 +425,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Kristina</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -534,9 +438,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Lappland</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -547,9 +448,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Lisa</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -563,9 +461,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Lovozero</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -579,9 +474,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Maria</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -595,9 +487,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Marta</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -611,9 +500,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Moskva</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -627,9 +513,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Muotka</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -643,9 +526,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Murmansk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -659,9 +539,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Neiden</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -675,9 +552,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Neidenelva</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -691,9 +565,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Nellim</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -707,9 +578,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Nitsijärvi</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -723,9 +591,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Nord-Finland</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -736,9 +601,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Norge</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -757,9 +619,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Notozero</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -773,9 +632,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Nøttiager</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -789,9 +645,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Pasvik</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -805,9 +658,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Pasvikelva</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -821,9 +671,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Peder</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -837,9 +684,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Peisen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -853,9 +697,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Per</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -869,9 +710,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Petsjenga</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -885,9 +723,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Petter</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -901,9 +736,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Pleiadene, de syv søstre</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -914,9 +746,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Ristikent</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -930,9 +759,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Rovaniemi</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -946,9 +772,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Russland</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -962,9 +785,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Sandra</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -978,9 +798,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Sevettijärvi</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -995,9 +812,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Sodankylä</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1008,9 +822,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Sofie</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -1024,9 +835,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Sophia</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -1040,9 +848,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Støtteforening for skoltesamiske saker</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1053,9 +858,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Suenjel</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -1069,9 +871,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Sverige</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -1085,9 +884,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Tekla</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -1101,9 +897,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Tulomaelva</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -1117,9 +910,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Tyskland</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -1133,9 +923,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Tyyne</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -1149,9 +936,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Utsjoki</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -1165,9 +949,6 @@
   <e>
     <lg>
       <l pos="N" type="Prop">Øvre Neiden</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -1181,9 +962,6 @@
    <e>
     <lg>
       <l pos="N" type="Prop">Norden</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">

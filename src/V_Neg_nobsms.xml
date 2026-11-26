@@ -16,9 +16,6 @@
   <e>
     <lg>
       <l pos="Pcle">ikke (1.person, flertall)</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -29,9 +26,6 @@
   <e>
     <lg>
       <l pos="">ikke (3.person, flertall)</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -42,9 +36,6 @@
   <e>
     <lg>
       <l pos="">ikke (ikke gå, ikke komme)</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -55,9 +46,6 @@
   <e>
     <lg>
       <l pos="">ikke (imperativ)</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -68,9 +56,6 @@
   <e>
     <lg>
       <l pos="Pcle">ikke, nei</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -81,9 +66,6 @@
   <e>
     <lg>
       <l pos="">la dem ikke</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -94,9 +76,6 @@
   <e>
     <lg>
       <l pos="">nekteord (2.person, entall)</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">

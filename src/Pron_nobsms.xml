@@ -16,9 +16,6 @@
   <e>
     <lg>
       <l pos="Pron">all</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -29,9 +26,6 @@
   <e>
     <lg>
       <l pos="Pron">alle</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -45,9 +39,6 @@
   <e>
     <lg>
       <l pos="Pron">alle</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -60,9 +51,6 @@
   <e>
     <lg>
       <l pos="Pron">alt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -73,9 +61,6 @@
   <e>
     <lg>
       <l pos="Pron">bak</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -86,9 +71,6 @@
   <e>
     <lg>
       <l pos="Pron">bakenom</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -99,9 +81,6 @@
   <e>
     <lg>
       <l pos="Pron">begge to</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -112,9 +91,6 @@
   <e>
     <lg>
       <l pos="Pron">de</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -128,9 +104,6 @@
   <e>
     <lg>
       <l pos="Pron">de</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -144,9 +117,6 @@
   <e>
     <lg>
       <l pos="Pron">de selv</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -157,9 +127,6 @@
   <e>
     <lg>
       <l pos="Pron">de to</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -170,9 +137,6 @@
   <e>
     <lg>
       <l pos="Pron">dem</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -186,9 +150,6 @@
   <e>
     <lg>
       <l pos="Pron">den ene av to</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -199,9 +160,6 @@
   <e>
     <lg>
       <l pos="Pron">dere</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -215,9 +173,6 @@
   <e>
     <lg>
       <l pos="Pron">dere selv</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -228,9 +183,6 @@
   <e>
     <lg>
       <l pos="Pron">dere to</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -241,9 +193,6 @@
   <e>
     <lg>
       <l pos="Pron">deres</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>som tilhører dere</re>
@@ -261,9 +210,6 @@
   <e>
     <lg>
       <l pos="Pron">deres egen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>som tilhører dere</re>
@@ -281,9 +227,6 @@
   <e>
     <lg>
       <l pos="Pron">din</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -294,9 +237,6 @@
   <e>
     <lg>
       <l pos="Pron">din egen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -307,9 +247,6 @@
   <e>
     <lg>
       <l pos="Pron">dine</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -320,9 +257,6 @@
   <e>
     <lg>
       <l pos="Pron">ditt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -333,9 +267,6 @@
   <e>
     <lg>
       <l pos="Pron">ditt dine</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -346,9 +277,6 @@
   <e>
     <lg>
       <l pos="Pron">du</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -362,9 +290,6 @@
   <e>
     <lg>
       <l pos="Pron">du selv</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -375,9 +300,6 @@
   <e>
     <lg>
       <l pos="Pron">en eller anne</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -388,9 +310,6 @@
   <e>
     <lg>
       <l pos="Pron">en eller annen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -402,9 +321,6 @@
   <e>
     <lg>
       <l pos="Pron">et eller annet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -416,9 +332,6 @@
   <e>
     <lg>
       <l pos="Pron">fra deg</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -429,9 +342,6 @@
   <e>
     <lg>
       <l pos="Pron">fra meg</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -442,9 +352,6 @@
   <e>
     <lg>
       <l pos="Pron">fullstendig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -455,9 +362,6 @@
   <e>
     <lg>
       <l pos="Pron">han</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -471,9 +375,6 @@
   <e>
     <lg>
       <l pos="Pron">han selv</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -484,9 +385,6 @@
   <e>
     <lg>
       <l pos="Pron">hans</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -497,9 +395,6 @@
   <e>
     <lg>
       <l pos="Pron">hans egen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -510,9 +405,6 @@
   <e>
     <lg>
       <l pos="Pron">hel</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -523,9 +415,6 @@
   <e>
     <lg>
       <l pos="Pron">hele</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -536,9 +425,6 @@
   <e>
     <lg>
       <l pos="Pron">helt</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -549,9 +435,6 @@
   <e>
     <lg>
       <l pos="Pron">hos deg</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -562,9 +445,6 @@
   <e>
     <lg>
       <l pos="Pron">hos meg</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -575,9 +455,6 @@
   <e>
     <lg>
       <l pos="Pron">hun</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -591,9 +468,6 @@
   <e>
     <lg>
       <l pos="Pron">hva</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -607,9 +481,6 @@
   <e>
     <lg>
       <l pos="Pron">hva</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -620,9 +491,6 @@
   <e>
     <lg>
       <l pos="Pron">hvem</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -636,9 +504,6 @@
   <e>
     <lg>
       <l pos="Pron">hvem</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -652,9 +517,6 @@
   <e>
     <lg>
       <l pos="Pron">hvem</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -665,9 +527,6 @@
   <e>
     <lg>
       <l pos="Pron">hvem</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>flertall</re>
@@ -679,9 +538,6 @@
   <e>
     <lg>
       <l pos="Pron">hvems</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -695,9 +551,6 @@
   <e>
     <lg>
       <l pos="Pron">hver</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -708,9 +561,6 @@
   <e>
     <lg>
       <l pos="Pron">hver og en</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -722,9 +572,6 @@
   <e>
     <lg>
       <l pos="Pron">hvilken</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -738,9 +585,6 @@
   <e>
     <lg>
       <l pos="Pron">hvilken</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -751,9 +595,6 @@
   <e>
     <lg>
       <l pos="Pron">hvis</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -764,9 +605,6 @@
   <e>
     <lg>
       <l pos="Pron">jeg</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -780,9 +618,6 @@
   <e>
     <lg>
       <l pos="Pron">jeg selv</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -794,9 +629,6 @@
   <e>
     <lg>
       <l pos="Pron">min</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -808,9 +640,6 @@
   <e>
     <lg>
       <l pos="Pron">min egen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -822,9 +651,6 @@
   <e>
     <lg>
       <l pos="Pron">mitt mine</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -835,9 +661,6 @@
   <e>
     <lg>
       <l pos="Pron">noe</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -851,9 +674,6 @@
   <e>
     <lg>
       <l pos="Pron">noen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -866,9 +686,6 @@
   <e>
     <lg>
       <l pos="Pron">når</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -882,9 +699,6 @@
   <e>
     <lg>
       <l pos="Pron">par</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -895,9 +709,6 @@
   <e>
     <lg>
       <l pos="Adv">seg imellom</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -911,9 +722,6 @@
   <e>
     <lg>
       <l pos="Pron">selv</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -927,9 +735,6 @@
   <e>
     <lg>
       <l pos="Pron">selv</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -940,9 +745,6 @@
   <e>
     <lg>
       <l pos="Pron">som</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -956,9 +758,6 @@
   <e>
     <lg>
       <l pos="Pron">som</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>flertall</re>
@@ -970,9 +769,6 @@
   <e>
     <lg>
       <l pos="Pron">vi</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -986,9 +782,6 @@
   <e>
     <lg>
       <l pos="Pron">vi selv</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -999,9 +792,6 @@
   <e>
     <lg>
       <l pos="Pron">vi to</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -1012,9 +802,6 @@
   <e>
     <lg>
       <l pos="Pron">vår</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">

@@ -16,9 +16,6 @@
   <e>
     <lg>
       <l pos="Pcle">da</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -32,9 +29,6 @@
   <e>
     <lg>
       <l pos="Pcle">heller ikke</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -48,9 +42,6 @@
   <e>
     <lg>
       <l pos="Pcle">i så fall</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -61,9 +52,6 @@
   <e>
     <lg>
       <l pos="Pcle">i tur og orden</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -74,9 +62,6 @@
   <e>
     <lg>
       <l pos="Adv">ikke</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -90,9 +75,6 @@
   <e>
     <lg>
       <l pos="Pcle">interrogativ suffiks</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -106,9 +88,6 @@
   <e>
     <lg>
       <l pos="Pcle">ja</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -119,9 +98,6 @@
   <e>
     <lg>
       <l pos="Pcle">jo</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -135,9 +111,6 @@
   <e>
     <lg>
       <l pos="Pcle">jo</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -148,9 +121,6 @@
   <e>
     <lg>
       <l pos="Pcle">jo</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>suffiks</re>
@@ -162,9 +132,6 @@
   <e>
     <lg>
       <l pos="Pcle">nå</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -175,9 +142,6 @@
   <e>
     <lg>
       <l pos="Pcle">også</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -191,9 +155,6 @@
   <e>
     <lg>
       <l pos="Pcle">riktignok</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -204,9 +165,6 @@
   <e>
     <lg>
       <l pos="Pcle">så</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -221,9 +179,6 @@
   <e>
     <lg>
       <l pos="Pcle">vel</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">

@@ -16,9 +16,6 @@
   <e>
     <lg>
       <l pos="">akter-</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -29,9 +26,6 @@
   <e>
     <lg>
       <l pos="Prefix">bak-</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -42,9 +36,6 @@
   <e>
     <lg>
       <l pos="A">feil</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -55,9 +46,6 @@
   <e>
     <lg>
       <l pos="A">gal</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -68,9 +56,6 @@
   <e>
     <lg>
       <l pos="A">kildinsamisk</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -81,9 +66,6 @@
   <e>
     <lg>
       <l pos="">langs</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -94,9 +76,6 @@
   <e>
     <lg>
       <l pos="">skeiv</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -107,9 +86,6 @@
   <e>
     <lg>
       <l pos="A">skrå</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -120,9 +96,6 @@
   <e>
     <lg>
       <l pos="A">sur</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -133,9 +106,6 @@
   <e>
     <lg>
       <l pos="A">uriktig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -146,9 +116,6 @@
   <e>
     <lg>
       <l pos="">ute-</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -159,9 +126,6 @@
   <e>
     <lg>
       <l pos="A">venstre</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -172,9 +136,6 @@
   <e>
     <lg>
       <l pos="A">vrang</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">

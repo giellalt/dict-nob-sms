@@ -16,9 +16,6 @@
   <e>
     <lg>
       <l pos="Interj">amen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -29,9 +26,6 @@
   <e>
     <lg>
       <l pos="Interj">dersom</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -42,9 +36,6 @@
   <e>
     <lg>
       <l pos="Interj">gi</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -55,9 +46,6 @@
   <e>
     <lg>
       <l pos="Interj">god dag</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -71,9 +59,6 @@
   <e>
     <lg>
       <l pos="Interj">god dag</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -84,9 +69,6 @@
   <e>
     <lg>
       <l pos="Interj">gudskjelov</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -97,9 +79,6 @@
   <e>
     <lg>
       <l pos="Interj">hei</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -113,9 +92,6 @@
   <e>
     <lg>
       <l pos="Interj">hei</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -127,9 +103,6 @@
   <e>
     <lg>
       <l pos="Interj">hvis</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -140,9 +113,6 @@
   <e>
     <lg>
       <l pos="Interj">hør her</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -153,9 +123,6 @@
   <e>
     <lg>
       <l pos="Interj">ingen årsak</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -169,9 +136,6 @@
   <e>
     <lg>
       <l pos="Interj">ja</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -185,9 +149,6 @@
   <e>
     <lg>
       <l pos="Interj">ja</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -201,9 +162,6 @@
   <e>
     <lg>
       <l pos="Interj">ja</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -214,9 +172,6 @@
   <e>
     <lg>
       <l pos="Interj">morn</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -227,9 +182,6 @@
   <e>
     <lg>
       <l pos="Interj">nemlig</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -241,9 +193,6 @@
   <e>
     <lg>
       <l pos="Interj">nesten</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -254,9 +203,6 @@
   <e>
     <lg>
       <l pos="Interj">nå</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -267,9 +213,6 @@
   <e>
     <lg>
       <l pos="Interj">oi!</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -280,9 +223,6 @@
   <e>
     <lg>
       <l pos="Interj">om</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -293,9 +233,6 @@
   <e>
     <lg>
       <l pos="Interj">om lag</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -306,9 +243,6 @@
   <e>
     <lg>
       <l pos="A">sann</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -322,9 +256,6 @@
   <e>
     <lg>
       <l pos="Interj">sann</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -335,9 +266,6 @@
   <e>
     <lg>
       <l pos="Interj">se her</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -348,9 +276,6 @@
   <e>
     <lg>
       <l pos="Interj">slik</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -361,9 +286,6 @@
   <e>
     <lg>
       <l pos="Interj">så</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -375,9 +297,6 @@
   <e>
     <lg>
       <l pos="Interj">så synd!</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -388,9 +307,6 @@
   <e>
     <lg>
       <l pos="Interj">sånn</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -404,9 +320,6 @@
   <e>
     <lg>
       <l pos="Interj">vel</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -420,9 +333,6 @@
   <e>
     <lg>
       <l pos="Interj">vær så god</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>

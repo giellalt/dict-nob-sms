@@ -16,9 +16,6 @@
   <e>
     <lg>
       <l pos="">-farget</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -29,9 +26,6 @@
   <!--e>
     <lg>
       <l pos="">suffiks (-slags, -messig)</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -42,9 +36,6 @@
   <e>
     <lg>
       <l pos="">uten</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">

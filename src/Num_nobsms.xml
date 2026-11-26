@@ -16,9 +16,6 @@
   <e>
     <lg>
       <l pos="Num">atten</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -30,9 +27,6 @@
   <e>
     <lg>
       <l pos="Num">elleve</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -44,9 +38,6 @@
   <e>
     <lg>
       <l pos="Num">en</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -60,9 +51,6 @@
   <e>
     <lg>
       <l pos="Num">fem</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -76,9 +64,6 @@
   <e>
     <lg>
       <l pos="Num">femten</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -89,9 +74,6 @@
   <e>
     <lg>
       <l pos="Num">femti</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -102,9 +84,6 @@
   <e>
     <lg>
       <l pos="Num">fire</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -118,9 +97,6 @@
   <e>
     <lg>
       <l pos="Num">førti</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -134,9 +110,6 @@
   <e>
     <lg>
       <l pos="Num">fjorten</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -151,9 +124,6 @@
   <e>
     <lg>
       <l pos="Num">hundre</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -167,9 +137,6 @@
   <e>
     <lg>
       <l pos="Num">mange</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -183,9 +150,6 @@
   <e>
     <lg>
       <l pos="Num">ni</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -199,9 +163,6 @@
   <e>
     <lg>
       <l pos="Num">nitten</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -214,9 +175,6 @@
   <e>
     <lg>
       <l pos="Num">nitti</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -227,9 +185,6 @@
   <e>
     <lg>
       <l pos="Num">seksten</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -243,9 +198,6 @@
   <e>
     <lg>
       <l pos="Num">seks</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -259,9 +211,6 @@
   <e>
     <lg>
       <l pos="Num">seksti</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -275,9 +224,6 @@
   <e>
     <lg>
       <l pos="Num">sytten</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -289,9 +235,6 @@
   <e>
     <lg>
       <l pos="Num">sytti</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -305,9 +248,6 @@
   <e>
     <lg>
       <l pos="Num">syv</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -321,9 +261,6 @@
   <e>
     <lg>
       <l pos="Num">sju</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -337,9 +274,6 @@
   <e>
     <lg>
       <l pos="Num">ti</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -359,9 +293,6 @@
   <e>
     <lg>
       <l pos="Num">tjue</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -375,9 +306,6 @@
   <e>
     <lg>
       <l pos="Num">to</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -392,9 +320,6 @@
   <e>
     <lg>
       <l pos="Num">tohundre</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -405,9 +330,6 @@
   <e>
     <lg>
       <l pos="Num">tolv</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -419,9 +341,6 @@
   <e>
     <lg>
       <l pos="Num">tre</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -436,9 +355,6 @@
   <e>
     <lg>
       <l pos="Num">tretten</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -450,9 +366,6 @@
   <e>
     <lg>
       <l pos="Num">tretti</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -464,9 +377,6 @@
   <e>
     <lg>
       <l pos="Num">tusen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -480,9 +390,6 @@
   <e>
     <lg>
       <l pos="Num">åtte</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -496,9 +403,6 @@
   <e>
     <lg>
       <l pos="Num">åtti</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>

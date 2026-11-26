@@ -16,9 +16,6 @@
   <e>
     <lg>
       <l pos="Det">alle</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -29,9 +26,6 @@
   <e>
     <lg>
       <l pos="Det">andre</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -42,9 +36,6 @@
   <e>
     <lg>
       <l pos="Det">annen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -59,9 +50,6 @@
   <e>
     <lg>
       <l pos="Det">annen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -73,9 +61,6 @@
   <e>
     <lg>
       <l pos="Det">annerledes</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -90,9 +75,6 @@
   <e>
     <lg>
       <l pos="Det">annet</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -104,9 +86,6 @@
   <e>
     <lg>
       <l pos="Det">begge</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -117,9 +96,6 @@
   <e>
     <lg>
       <l pos="Det">den</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -133,9 +109,6 @@
   <e>
     <lg>
       <l pos="Det">den andre</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -146,9 +119,6 @@
   <e>
     <lg>
       <l pos="Det">den/det/de samme</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -163,9 +133,6 @@
   <e>
     <lg>
       <l pos="Det">denne</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -180,9 +147,6 @@
   <e>
     <lg>
       <l pos="Det">denne</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -196,9 +160,6 @@
   <e>
     <lg>
       <l pos="Det">det</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -212,9 +173,6 @@
   <e>
     <lg>
       <l pos="Det">det der</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -228,9 +186,6 @@
   <e>
     <lg>
       <l pos="Det">en</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -241,9 +196,6 @@
   <e>
     <lg>
       <l pos="Det">en av</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -257,9 +209,6 @@
   <e>
     <lg>
       <l pos="Det">en eller annen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -270,9 +219,6 @@
   <e>
     <lg>
       <l pos="Det">femte</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -283,9 +229,6 @@
   <e>
     <lg>
       <l pos="Det">fjerde</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -296,9 +239,6 @@
   <e>
     <lg>
       <l pos="Det">forrige</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -309,9 +249,6 @@
   <e>
     <lg>
       <l pos="Det">fremst</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -322,9 +259,6 @@
   <e>
     <lg>
       <l pos="Det">først</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -335,9 +269,6 @@
   <e>
     <lg>
       <l pos="">første</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -348,9 +279,6 @@
   <e>
     <lg>
       <l pos="Det">halvannen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -361,9 +289,6 @@
   <e>
     <lg>
       <l pos="Det">hundrede</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -374,9 +299,6 @@
   <e>
     <lg>
       <l pos="Det">hva slags</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -387,9 +309,6 @@
   <e>
     <lg>
       <l pos="Det">hver</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -400,9 +319,6 @@
   <e>
     <lg>
       <l pos="Det">hver og en</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -413,9 +329,6 @@
   <e>
     <lg>
       <l pos="Det">hvilken</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -430,9 +343,6 @@
   <e>
     <lg>
       <l pos="Det">hvilken</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>om antall</re>
@@ -444,9 +354,6 @@
   <e>
     <lg>
       <l pos="Det">hvilken/hvilket</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <re>av to</re>
@@ -458,9 +365,6 @@
   <e>
     <lg>
       <l pos="Det">neste</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -471,9 +375,6 @@
   <e>
     <lg>
       <l pos="Det">niende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -484,9 +385,6 @@
   <e>
     <lg>
       <l pos="Det">noe</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -497,9 +395,6 @@
   <e>
     <lg>
       <l pos="Det">noen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -511,9 +406,6 @@
   <e>
     <lg>
       <l pos="Det">noen blant</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -527,9 +419,6 @@
   <e>
     <lg>
       <l pos="Det">om lag to</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -540,9 +429,6 @@
   <e>
     <lg>
       <l pos="Det">par</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -553,9 +439,6 @@
   <e>
     <lg>
       <l pos="Det">samme</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -570,9 +453,6 @@
   <e>
     <lg>
       <l pos="Det">sjette</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -583,9 +463,6 @@
   <e>
     <lg>
       <l pos="Det">slik</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -596,9 +473,6 @@
   <e>
     <lg>
       <l pos="Det">slik</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -612,9 +486,6 @@
   <e>
     <lg>
       <l pos="Det">slik (som denne)</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -625,9 +496,6 @@
   <e>
     <lg>
       <l pos="Det">som den</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -638,9 +506,6 @@
   <e>
     <lg>
       <l pos="Det">syvende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -651,9 +516,6 @@
   <e>
     <lg>
       <l pos="Det">sånn</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -667,9 +529,6 @@
   <e>
     <lg>
       <l pos="Det">tiende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -680,9 +539,6 @@
   <e>
     <lg>
       <l pos="Det">tredje</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -693,9 +549,6 @@
   <e>
     <lg>
       <l pos="Det">åttende</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">

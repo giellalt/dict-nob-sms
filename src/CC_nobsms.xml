@@ -16,9 +16,6 @@
   <e>
     <lg>
       <l pos="CC">da</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -32,9 +29,6 @@
   <e>
     <lg>
       <l pos="CC">eller</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -48,9 +42,6 @@
   <e>
     <lg>
       <l pos="CC">eller</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -64,9 +55,6 @@
   <e>
     <lg>
       <l pos="CC">enda</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -80,9 +68,6 @@
   <e>
     <lg>
       <l pos="Pcle">enn</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -96,9 +81,6 @@
   <e>
     <lg>
       <l pos="CC">etterpå</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -112,9 +94,6 @@
   <e>
     <lg>
       <l pos="CC">kun</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -125,9 +104,6 @@
   <e>
     <lg>
       <l pos="CC">langt mindre</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -141,9 +117,6 @@
   <e>
     <lg>
       <l pos="CC">likevel</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -157,9 +130,6 @@
   <e>
     <lg>
       <l pos="CC">men</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -173,9 +143,6 @@
   <e>
     <lg>
       <l pos="CC">men</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -189,9 +156,6 @@
   <e>
     <lg>
       <l pos="CC">men</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -202,9 +166,6 @@
   <e>
     <lg>
       <l pos="CC">men</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -218,9 +179,6 @@
   <e>
     <lg>
       <l pos="CC">men</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -231,9 +189,6 @@
   <e>
     <lg>
       <l pos="CC">nå, så, nåvel, men</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -247,9 +202,6 @@
   <e>
     <lg>
       <l pos="CC">når</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -263,9 +215,6 @@
   <e>
     <lg>
       <l pos="CC">og</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -279,9 +228,6 @@
   <e>
     <lg>
       <l pos="CC">og</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -295,9 +241,6 @@
   <e>
     <lg>
       <l pos="CC">og</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -311,9 +254,6 @@
   <e>
     <lg>
       <l pos="CC">også</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -327,9 +267,6 @@
   <e>
     <lg>
       <l pos="CC">siden</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -343,9 +280,6 @@
   <e>
     <lg>
       <l pos="CC">slik</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -359,9 +293,6 @@
   <e>
     <lg>
       <l pos="CC">så</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -375,9 +306,6 @@
   <e>
     <lg>
       <l pos="CC">unntagen</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
@@ -391,9 +319,6 @@
   <e>
     <lg>
       <l pos="CC">utenom</l>
-      <stg>
-        <st/>
-      </stg>
     </lg>
     <mg>
       <semantics>
