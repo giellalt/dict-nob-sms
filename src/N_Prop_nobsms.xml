@@ -1457,4 +1457,17 @@
       </tg>
     </mg>
   </e>
+   <e>
+    <lg>
+      <l pos="N" type="Prop">Norden</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="sms">
+        <t Contlex="N_JÂNNAM" pos="N" type="Prop">Tâʹvvjânnam</t>
+      </tg>
+    </mg>
+  </e>
 </r>

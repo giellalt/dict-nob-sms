@@ -1316,7 +1316,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bakeovn</l>
+      <l pos="N">bakerovn</l>
       <stg>
         <st/>
       </stg>
@@ -4146,7 +4146,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">buksegylf</l>
+      <l pos="N">gylf</l>
       <stg>
         <st/>
       </stg>
@@ -5503,7 +5503,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">djur</l>
+      <l pos="N">dyr</l>
       <stg>
         <st/>
       </stg>
@@ -7556,7 +7556,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fastelav</l>
+      <l pos="N">fastelavn</l>
       <stg>
         <st/>
       </stg>
@@ -9067,7 +9067,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">flygplan</l>
+      <l pos="N">fly</l>
       <stg>
         <st/>
       </stg>
@@ -15481,7 +15481,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hørnløs rein</l>
+      <l pos="N">hornløs rein</l>
       <stg>
         <st/>
       </stg>
@@ -16000,7 +16000,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">intresent</l>
+      <l pos="N">interessent</l>
       <stg>
         <st/>
       </stg>
@@ -18985,7 +18985,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kote</l>
+      <l pos="N">gamme</l>
       <stg>
         <st/>
       </stg>
@@ -19730,7 +19730,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kundelsmesse</l>
+      <l pos="N">kyndelsmesse</l>
       <stg>
         <st/>
       </stg>
@@ -25524,7 +25524,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">nominerig</l>
+      <l pos="N">nominering</l>
       <stg>
         <st/>
       </stg>
@@ -25562,19 +25562,6 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">tâʹvv</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">norden</l>
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="N_JÂNNAM" pos="N">tâʹvvjânnam</t>
       </tg>
     </mg>
   </e>
@@ -26847,7 +26834,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">overfold</l>
+      <l pos="N">overflod</l>
       <stg>
         <st/>
       </stg>
@@ -27077,7 +27064,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">parringslek</l>
+      <l pos="N">paringslek</l>
       <stg>
         <st/>
       </stg>
@@ -29359,7 +29346,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rettruende</l>
+      <l pos="N">rettroende</l>
       <stg>
         <st/>
       </stg>
@@ -32129,7 +32116,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">skaft (f.eks. støvleskaft)</l>
+      <l pos="N">skaft (f.eks. støvelskaft)</l>
       <stg>
         <st/>
       </stg>
@@ -33133,7 +33120,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">skosole</l>
+      <l pos="N">skosåle</l>
       <stg>
         <st/>
       </stg>
@@ -35060,7 +35047,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sosialnemd</l>
+      <l pos="N">sosialnemnd</l>
       <stg>
         <st/>
       </stg>
@@ -35822,7 +35809,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sted der reinen har gravt frem lav om vinteren</l>
+      <l pos="N">sted der reinen har gravd frem lav om vinteren</l>
       <stg>
         <st/>
       </stg>
@@ -38073,7 +38060,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">takkeoffer</l>
+      <l pos="N">takkoffer</l>
       <stg>
         <st/>
       </stg>
@@ -38539,7 +38526,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tenneved</l>
+      <l pos="N">tennved</l>
       <stg>
         <st/>
       </stg>
@@ -42325,7 +42312,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vest-nordvest</l>
+      <l pos="N">vestnordvest</l>
       <stg>
         <st/>
       </stg>
@@ -43013,7 +43000,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vranside</l>
+      <l pos="N">vrangside</l>
       <stg>
         <st/>
       </stg>
