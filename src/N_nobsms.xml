@@ -29386,6 +29386,20 @@
   </e>
   <e>
     <lg>
+      <l pos="N">rev</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>i sagn og eventyr</re>
+      <tg xml:lang="sms">
+        <t Contlex="PROP_PEIʹVV" pos="N">Kuʹǩes-seiʹbb</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="N">ribbein</l>
       <stg>
         <st/>
@@ -43941,6 +43955,51 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="N_" pos="N">čâʹlmmriõbbås</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">gud</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <re>protestantisk</re>
+      <tg xml:lang="sms">
+        <t Contlex="PROP_" pos="N">Eʹmmel</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">jul</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <semantics>
+        <sem type="HUMAN">RELIGION</sem>
+        <sem type="HUMAN">FAMILY</sem>
+        <sem type="HUMAN">SOCIAL</sem>
+      </semantics>
+      <tg xml:lang="sms">
+        <t Contlex="PROP_" pos="N">rosttov</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">annen juledag</l>
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+    <mg>
+      <tg xml:lang="sms">
+        <t Contlex="PROP_" pos="N">Teäppanpeiʹvv</t>
       </tg>
     </mg>
   </e>
