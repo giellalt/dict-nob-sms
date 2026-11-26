@@ -1805,6 +1805,12 @@
         <t Contlex="N_PẸIGG" pos="N">kueʹssreiss</t>
       </tg>
     </mg>
+    <mg>
+      <re>være på besøk</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_CEÄKˈKAD" pos="V">kuâssad</t>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg>
@@ -4213,6 +4219,12 @@
       <tg xml:lang="sms">
         <t Contlex="N_TOLL" pos="N">luʹččkõpp</t>
         <t Contlex="N_TOLL" pos="N">väimmkõpp</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>være sjuk med diare</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_SILTTEED" pos="V">loojjeed</t>
       </tg>
     </mg>
   </e>
@@ -8317,6 +8329,17 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="N_AUTT" pos="N">såujj</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">fuglejakt</l>
+    </lg>
+    <mg>
+      <re>være på fuglejakt</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_VÕʹLLʼJED" pos="V">loʹddjed</t>
       </tg>
     </mg>
   </e>
@@ -27437,6 +27460,12 @@
         <t Contlex="N_TAALKÂS" pos="N">paalǥâs</t>
       </tg>
     </mg>
+    <mg>
+      <re>være på sommerbeite</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_TOBDDÂD" pos="V">palggâd</t>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg>
@@ -32493,22 +32522,16 @@
       <l pos="N">vakt</l>
     </lg>
     <mg>
-      <semantics>
-        <sem class="HUMAN"/>
-      </semantics>
       <tg xml:lang="sms">
         <t Contlex="N_VAHTT" pos="N">vahtt</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">vakt</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
         <t Contlex="N_KÅHTT" pos="N">vähtt</t>
         <t Contlex="N_TUÕĐŠTEEI" pos="N">värddjeei</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>være på vakt</re>
+      <tg xml:lang="sms">
+        <t pos="">vaarõõttâd</t>
       </tg>
     </mg>
   </e>
@@ -34544,6 +34567,39 @@
     <mg>
       <tg xml:lang="sms">
         <t Contlex="PROP_" pos="N">Teäppanpeiʹvv</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tingrett</l>
+    </lg>
+    <mg>
+      <re>være i tingrett</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">suudõõttâd</t>
+      </tg>
+    </mg>
+  </e>
+    <e>
+    <lg>
+      <l pos="N">død</l>
+    </lg>
+    <mg>
+      <re>være på dødens rand</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_TEEVVAD" pos="V">täärrad</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">spontanabort</l>
+    </lg>
+    <mg>
+      <re>om dyr: få spontanabort</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_VÕʹLLʼJED" pos="V">suõʹppjed</t>
       </tg>
     </mg>
   </e>

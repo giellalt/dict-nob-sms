@@ -4813,4 +4813,28 @@
       </tg>
     </mg>
   </e>
+    <e>
+    <lg>
+      <l pos="Adv">på avveier</l>
+    </lg>
+    <mg>
+      <re>være på avveier, streife omkring</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">čaʹjstõõllâd</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">kanskje</l>
+    </lg>
+    <mg>
+      <semantics>
+        <sem class="SENSE">EMOTION</sem>
+      </semantics>
+      <tg xml:lang="sms">
+        <t Contlex="V_SOLLÂʹTTED" pos="V">säʹtted</t>
+      </tg>
+    </mg>
+  </e>
 </r>

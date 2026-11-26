@@ -6678,4 +6678,122 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="A">gulaktig</l>
+    </lg>
+    <mg>
+      <re>bli/være gulaktig</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_KUÂĐˈĐJED" pos="V">veskkjed</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">brukbar</l>
+    </lg>
+    <mg>
+      <re>duge, være brukbar</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_ǨEEʹRJTED" pos="V">ââʹnted</t>
+        <t Contlex="V_VÕʹLLʼJED" pos="V">ǩeʹlbbjed</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">gal</l>
+    </lg>
+    <mg>
+      <re>fleipe, være gal, oppføre seg sprøtt</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_HUÕLLÂD" pos="V">vuõrrâd</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">sprø</l>
+    </lg>
+    <mg>
+      <re>fleipe, være gal, oppføre seg sprøtt</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_HUÕLLÂD" pos="V">vuõrrâd</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">streng</l>
+    </lg>
+    <mg>
+      <re>være streng mot noen</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_" pos="V">vuânted</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">glad</l>
+    </lg>
+    <mg>
+      <re>glede seg over noe, være glad</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">räʹddjõõttâd</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">grønnaktig</l>
+    </lg>
+    <mg>
+      <re>være grønnaktig</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_KUÂĐˈĐJED" pos="V">ruânnʼjed</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">motstridig</l>
+    </lg>
+    <mg>
+      <re>være motstridig</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_MEINNAD" pos="V">reiddad</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">nok</l>
+    </lg>
+    <mg>
+      <re>være nok, strekke til</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_VÕʹLLʼJED" pos="V">riʹttjed</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">nødt</l>
+    </lg>
+    <mg>
+      <re>være nødt til</re>
+      <semantics>
+        <sem class="HUMAN">POSSESSION</sem>
+        <sem class="SENSE">EMOTION</sem>
+      </semantics>
+      <tg xml:lang="sms">
+        <t Contlex="V_TOBDDÂD" pos="V">õlggâd</t>
+      </tg>
+      <tg xml:lang="sms">
+        <t Contlex="V_VÕʹLLʼJED" pos="V">feʹrttjed</t>
+      </tg>
+    </mg>
+  </e>
 </r>

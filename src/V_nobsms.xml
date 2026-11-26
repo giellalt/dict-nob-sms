@@ -2273,16 +2273,6 @@
   </e>
   <e>
     <lg>
-      <l pos="V">bli/være gulaktig</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="V_KUÂĐˈĐJED" pos="V">veskkjed</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">blunke</l>
     </lg>
     <mg>
@@ -3242,11 +3232,13 @@
   </e>
   <e>
     <lg>
-      <l pos="V">duge, være brukbar</l>
+      <l pos="V">duge</l>
     </lg>
     <mg>
       <tg xml:lang="sms">
         <t Contlex="V_ǨEEʹRJTED" pos="V">ââʹnted</t>
+      </tg>
+      <tg xml:lang="sms">
         <t Contlex="V_VÕʹLLʼJED" pos="V">ǩeʹlbbjed</t>
       </tg>
     </mg>
@@ -3807,7 +3799,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">fleipe, fjase</l>
+      <l pos="V">fjase</l>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3817,7 +3809,17 @@
   </e>
   <e>
     <lg>
-      <l pos="V">fleipe, være gal, oppføre seg sprøtt</l>
+      <l pos="V">fleipe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sms">
+        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">tressõõttâd</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">fleipe</l>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -3837,9 +3839,10 @@
   </e>
   <e>
     <lg>
-      <l pos="V">flette hår</l>
+      <l pos="V">flette</l>
     </lg>
     <mg>
+      <re>hår</re>
       <tg xml:lang="sms">
         <t Contlex="V_TEEʹMEED" pos="V">paʹrǧǧeed</t>
       </tg>
@@ -4666,9 +4669,10 @@
   </e>
   <e>
     <lg>
-      <l pos="V">få noen til å sverge, være streng mot noen</l>
+      <l pos="V">sverge</l>
     </lg>
     <mg>
+      <re>få noen til å sverge</re>
       <tg xml:lang="sms">
         <t Contlex="V_" pos="V">vuânted</t>
       </tg>
@@ -5519,9 +5523,10 @@
   </e>
   <e>
     <lg>
-      <l pos="V">glede seg over noe, være glad</l>
+      <l pos="V">glede seg</l>
     </lg>
     <mg>
+      <re>glede seg over noe, være glad</re>
       <tg xml:lang="sms">
         <t Contlex="V_LAUKKÕÕLLÂD" pos="V">räʹddjõõttâd</t>
       </tg>
@@ -5823,12 +5828,8 @@
         <t Contlex="V_LAUKKÕÕLLÂD" pos="V">ruõnnõõvvâd</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">grønnes, være grønnaktig</l>
-    </lg>
     <mg>
+      <re>være grønnaktig</re>
       <tg xml:lang="sms">
         <t Contlex="V_KUÂĐˈĐJED" pos="V">ruânnʼjed</t>
       </tg>
@@ -6458,12 +6459,8 @@
         <t Contlex="V_RÕVVÂD" pos="V">cõggâd</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">hindre noen å få noe, være motstridig</l>
-    </lg>
     <mg>
+      <re>hindre noen å få noe</re>
       <tg xml:lang="sms">
         <t Contlex="V_MEINNAD" pos="V">reiddad</t>
       </tg>
@@ -7034,22 +7031,10 @@
   </e>
   <e>
     <lg>
-      <l pos="Adv">kan være</l>
+      <l pos="V">kan</l>
     </lg>
     <mg>
-      <semantics>
-        <sem class="SENSE">EMOTION</sem>
-      </semantics>
-      <tg xml:lang="sms">
-        <t Contlex="V_SOLLÂʹTTED" pos="V">säʹtted</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="Adv">kanskje</l>
-    </lg>
-    <mg>
+      <re>kan være, kanskje</re>
       <semantics>
         <sem class="SENSE">EMOTION</sem>
       </semantics>
@@ -7110,17 +7095,6 @@
     </lg>
     <mg>
       <re>raskt</re>
-      <tg xml:lang="sms">
-        <t Contlex="V_VÕʹLLʼJED" pos="V">suõʹppjed</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">få spontanabort</l>
-    </lg>
-    <mg>
-      <re>om dyr</re>
       <tg xml:lang="sms">
         <t Contlex="V_VÕʹLLʼJED" pos="V">suõʹppjed</t>
       </tg>
@@ -9524,9 +9498,10 @@
   </e>
   <e>
     <lg>
-      <l pos="V">må, være nødt til</l>
+      <l pos="V">måtte</l>
     </lg>
     <mg>
+      <re>være nødt til</re>
       <semantics>
         <sem class="HUMAN">POSSESSION</sem>
         <sem class="SENSE">EMOTION</sem>
@@ -13310,9 +13285,10 @@
   </e>
   <e>
     <lg>
-      <l pos="V">strekke til, være nok</l>
+      <l pos="V">strekke til</l>
     </lg>
     <mg>
+      <re>være nok</re>
       <tg xml:lang="sms">
         <t Contlex="V_VÕʹLLʼJED" pos="V">riʹttjed</t>
       </tg>
@@ -16104,19 +16080,20 @@
   </e>
   <e>
     <lg>
-      <l pos="V">være i tingrett</l>
+      <l pos="V">være, oppholde seg</l>
     </lg>
     <mg>
       <tg xml:lang="sms">
-        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">suudõõttâd</t>
+        <t Contlex="V_TEEVVAD" pos="V">åårrad</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">være nødt til</l>
+      <l pos="V">måtte</l>
     </lg>
     <mg>
+      <re>være nødt til</re>
       <semantics>
         <sem class="WORK"/>
       </semantics>
@@ -16127,9 +16104,10 @@
   </e>
   <e>
     <lg>
-      <l pos="V">være på avveier, streife omkring</l>
+      <l pos="V">streife</l>
     </lg>
     <mg>
+      <re>være på avveier, streife omkring</re>
       <tg xml:lang="sms">
         <t Contlex="V_LAUKKÕÕLLÂD" pos="V">čaʹjstõõllâd</t>
       </tg>
@@ -16137,67 +16115,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">være på besøk</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="V_CEÄKˈKAD" pos="V">kuâssad</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">være på dødens rand</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="V_TEEVVAD" pos="V">täärrad</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">være på fuglejakt</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="V_VÕʹLLʼJED" pos="V">loʹddjed</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">være på sommerbeite</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="V_TOBDDÂD" pos="V">palggâd</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">være på vakt</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t pos="">vaarõõttâd</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">være sjuk med diare</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="V_SILTTEED" pos="V">loojjeed</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">være, oppholde seg</l>
+      <l pos="V">oppholde seg</l>
     </lg>
     <mg>
       <tg xml:lang="sms">
