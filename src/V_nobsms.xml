@@ -7913,7 +7913,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">krangle om noe, insistere, pukke på</l>
+      <l pos="V">pukke på</l>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -7923,12 +7923,49 @@
   </e>
   <e>
     <lg>
-      <l pos="V">krangle, trette</l>
+      <l pos="V">insistere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sms">
+        <t Contlex="V_TEEVVAD" pos="V">reennad</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">krangle</l>
     </lg>
     <mg>
       <tg xml:lang="sms">
         <t Contlex="V_CEʹPCCED" pos="V">reiddlâʹstted</t>
-        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">reiddšõõttâd</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>krangle om noe</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">reeidčõõttâd</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>krangle om noe, insistere, pukke på</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_TEEVVAD" pos="V">reennad</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">trette</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sms">
+        <t Contlex="V_CEʹPCCED" pos="V">reiddlâʹstted</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>trette om noe</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">reeidčõõttâd</t>
       </tg>
     </mg>
   </e>
@@ -8194,15 +8231,10 @@
         <t Contlex="V_SOLLEED" pos="V">tuejjeed</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">lage barkebrød</l>
-    </lg>
     <mg>
+      <re>framstille</re>
       <tg xml:lang="sms">
-        <t Contlex="V_MÄʹHSSED" pos="V">lâʹhtted</t>
-        <t Contlex="V_MÄʹHSSED" pos="V">låʹhtted</t>
+        <t Contlex="V_MAINSTED" pos="V">valmšted</t>
       </tg>
     </mg>
   </e>
@@ -8232,7 +8264,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">lage, framstille</l>
+      <l pos="V">framstille</l>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -8266,10 +8298,10 @@
   </e>
   <e>
     <lg>
-      <l pos="V">lappe, bøte</l>
+      <l pos="V">lappe</l>
     </lg>
     <mg>
-      <re>garn</re>
+      <re>bøte (garn)</re>
       <tg xml:lang="sms">
         <t Contlex="V_ČIÕHTTÂD" pos="V">čiõhttâd</t>
       </tg>
@@ -13014,58 +13046,51 @@
         <t Contlex="V_JÄLSTED" pos="V">årsted</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">stoppe</l>
-    </lg>
     <mg>
       <re>flere ganger</re>
       <tg xml:lang="sms">
         <t Contlex="V_LAUKKÕÕLLÂD" pos="V">årstõõllâd</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">stoppe</l>
-    </lg>
     <mg>
       <re>noe, noen</re>
       <tg xml:lang="sms">
         <t Contlex="TV_SOLLÂʹTTED" pos="V">årstâʹtted</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">stoppe og nekte å bevege seg videre</l>
-    </lg>
     <mg>
-      <re>om trekkdyr</re>
+      <re>om trekkdyr: stoppe og nekte å bevege seg videre</re>
       <tg xml:lang="sms">
         <t Contlex="V_TEEVVAD" pos="V">nääđđad</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">stoppe plutselig og nekte å bevege seg videre</l>
-    </lg>
     <mg>
-      <re>om dyr</re>
+      <re>om dyr: stoppe plutselig og nekte å bevege seg videre</re>
       <tg xml:lang="sms">
         <t Contlex="V_JÄLSTED" pos="V">näđsted</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>reparere, bøte</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_VÕʹLLʼJED" pos="V">paʹrssjed</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">stoppe, bøte</l>
+      <l pos="V">bøte</l>
     </lg>
     <mg>
+      <re>stoppe</re>
       <tg xml:lang="sms">
         <t Contlex="V_VÕʹLLʼJED" pos="V">paʹrssjed</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>lappe, bøte (garn)</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_ČIÕHTTÂD" pos="V">čiõhttâd</t>
       </tg>
     </mg>
   </e>
@@ -14393,7 +14418,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">tordne, brake</l>
+      <l pos="V">tordne</l>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -14403,7 +14428,27 @@
   </e>
   <e>
     <lg>
-      <l pos="V">tore, våge</l>
+      <l pos="V">brake</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sms">
+        <t Contlex="V_KUÄSTTAD" pos="V">čeärggad</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">tørre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sms">
+        <t Contlex="V_KUÕSKKÂD" pos="V">tuõsttâd</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">våge</l>
     </lg>
     <mg>
       <tg xml:lang="sms">
@@ -14441,12 +14486,8 @@
         <t Contlex="V_ǨEEʹRJTED" pos="V">jååʹđted</t>
       </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">transportere sine ting</l>
-    </lg>
     <mg>
+      <re>transportere sine ting</re>
       <tg xml:lang="sms">
         <t Contlex="V_LAUKKÕÕLLÂD" pos="V">saattčõõttâd</t>
       </tg>
@@ -14522,16 +14563,6 @@
   </e>
   <e>
     <lg>
-      <l pos="V">trekke</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="V_PIẸʹǨǨED" pos="V">ǩieʹssed</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">trekke seg tilbake</l>
     </lg>
     <mg>
@@ -14542,44 +14573,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">trenge</l>
-    </lg>
-    <mg>
-      <semantics>
-        <sem class="WORK"/>
-      </semantics>
-      <tg xml:lang="sms">
-        <t Contlex="V_VÕʹLLʼJED" pos="V">feʹrttjed</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">trenge</l>
-    </lg>
-    <mg>
-      <semantics>
-        <sem class="HUMAN">POSSESSION</sem>
-        <sem class="SENSE">EMOTION</sem>
-      </semantics>
-      <tg xml:lang="sms">
-        <t Contlex="V_TOBDDÂD" pos="V">õlggâd</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">trenge inn i (gruppen)</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sms">
-        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">čäŋŋõõttâd</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">trenge, behøve</l>
+      <l pos="V">behøve</l>
     </lg>
     <mg>
       <semantics>
@@ -14592,11 +14586,33 @@
   </e>
   <e>
     <lg>
-      <l pos="V">trette om noe, krangle om noe</l>
+      <l pos="V">trenge</l>
     </lg>
     <mg>
+      <re>behøve</re>
+      <semantics>
+        <sem class="HUMAN">POSSESSION</sem>
+      </semantics>
       <tg xml:lang="sms">
-        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">reeidčõõttâd</t>
+        <t Contlex="V_TAARBŠED" pos="V">taarbšed</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>måtte</re>
+      <semantics>
+        <sem class="WORK"/>
+      </semantics>
+      <tg xml:lang="sms">
+        <t Contlex="V_VÕʹLLʼJED" pos="V">feʹrttjed</t>
+      </tg>
+      <tg xml:lang="sms">
+        <t Contlex="V_TOBDDÂD" pos="V">õlggâd</t>
+      </tg>
+    </mg>
+    <mg>
+      <re>trenge inn i (gruppen)</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_LAUKKÕÕLLÂD" pos="V">čäŋŋõõttâd</t>
       </tg>
     </mg>
   </e>

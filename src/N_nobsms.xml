@@ -30474,6 +30474,18 @@
   </e>
   <e>
     <lg>
+      <l pos="N">barkebrød</l>
+    </lg>
+    <mg>
+      <re>lage barkebrød</re>
+      <tg xml:lang="sms">
+        <t Contlex="V_MÄʹHSSED" pos="V">lâʹhtted</t>
+        <t Contlex="V_MÄʹHSSED" pos="V">låʹhtted</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="N">tidsalder</l>
     </lg>
     <mg>
